@@ -1,0 +1,1020 @@
+Interaction ID,Status,Impact Start Date,Handle Time,Close Time,Assignment Group,Affected CI,CI Name,Hardware Type,CI Location,Office / Postion,Impact,Urgency,Severity,Employee ID,Name,Contact Phone,Location,Workstation Asset Tag,Workstation Name,Closed By,Closed By Name,Root Cause Code,Title,Description,Solution
+SD3721582,Closed,12/01/16 08:52 AM,767011.0254,12/01/16 09:28 AM,SysOps - Help Desk,Adobe Designer,Adobe Designer,,MCO/AIRPORT/2/,GATE BACK OFFICE,,5,,715930,JOHN RODELO,407-825-5143,MCO,Z000651323,WMCOACSB00033,169727,MESSIAH PATEL,configuration change,user says unable to open photoshop but it says its installed,"user says unable to open photoshop but it says its installed
+reinstalled using my radia",user is good now
+SD3721872,Closed,12/01/16 10:35 AM,767011.0212,12/01/16 11:05 AM,SysOps - Help Desk,DLTERM,DLTERM,DLTERM,,WHSE,,,,079961,JASON SAVIO BRAGANZA,97317226245,BAH,,,331190,MASIH MAHMOODI,configuration change,user needs to install dlterm - he is,"gbahgdlxp00001
+https://dlvndr01.delta.com/gsa
+your computer security is unsatisfactory
+does not follow the requirements
+security recommendations is not installed.
+
+connected to ods and was advised to make sure user is using the correct link
+user confirmed he is using the correct updated link
+then emailed the instructions to the user and the user was able to follow the instructions",user stated that he will call back after following the instructions.
+SD3722868,Closed,12/01/16 03:07 PM,767011.0065,12/01/16 04:15 PM,SysOps - Help Desk,Z000703837,WSLCICRW00028,HP COMPAQ 6005 STANDARD SFF,SLC/CALL CENTER/1/,IFS  SUPERVISOR OFFICE,4,3,4,706293,RONALD THOMAS,404-715-7338,ATL,Z000703837,WSLCICRW00028,linker,,Software,User wants Corena pinpoint plug-in installed on Pc,"User wants Corena pinpoint plug-in installed on Pc.....Image attached below
+**Title from related Incident record IM2840210:
+User wants Corena pinpoint plug-in installed on Pc","Related Incident IM2840210 closed.
+Resolved
+
+*** *** There are no other related records.  Interaction closed by Incident IM2840210"
+SD3724945,Closed,12/02/16 11:51 AM,767011.0042,12/02/16 11:58 AM,SysOps - Help Desk,Network Information Services,Network Information Services,,MSP/BUILDING C - GO/1/,MSPC RES,,4,,878216,STEPHANIE BERGER,4042093400,MSP,Z000750422,WMSPRES1B2P04,331190,MASIH MAHMOODI,configuration change,user needs assistance wit installing the printer.,"hp color laser jet cp4005pcl6
+servername: pmspresnetcopym-04
+ip: 10.16.162.248",installed the user''s printer via the ip address and it worked fine.
+SD3727597,Closed,12/03/16 02:47 PM,767011.0194,12/03/16 03:01 PM,SysOps - Help Desk,,,,,,,,,388767,JAMES HANLEY,4,MSP,,,409529,AMANDA TICE,User Training,user cannot install the updates for windows,"user cannot install the updates for windows
+hardboot
+check wifi
+install updates
+-check history
+-working slowly but working","user cannot install the updates for windows
+hardboot
+check wifi
+install updates
+-check history
+-working slowly but working"
+SD3731434,Closed,12/05/16 12:09 PM,767011.0087,12/07/16 01:25 PM,SysOps - Help Desk,Z000909597,XATLMLTB00190,TECRA Z40 BROADWELL I5-5300U 8GB FHD SCREEN,ATL/VIRTUAL/VIRTUAL/,Virtual,4,3,4,368520,VINCENZO MARSALA,404-335-8546,ATL,,,linker,,Software,the user is trying to install firefox,"the user is trying to install firefox
+
+engaged Marcus of ODS
+**Title from related Incident record IM2843925:
+the user is trying to install firefox","Related Incident IM2843925 closed.
+Reinstalled firefox via Radia....user tested and now they good to go.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2843925"
+SD3735065,Closed,12/06/16 04:28 PM,767011.0033,12/07/16 01:49 PM,SysOps - Help Desk,Z000910552,XATLCAMP10694,TECRA Z40 BROADWELL I5-5300U 8GB FHD SCREEN,ATL/OC1/4/,4N118,4,3,4,593277,SCOTT RUSSELL,404-715-8266,ATL,Z000910552,XATLCAMP10694,linker,,Hardware,User needs to install HP printer,"ACS General Manager Kelley Moore is unable to print from her office network printer. Please assist with fixing printer. Location: OC1 4th Floor, office 4N118. Workstation name: XATLCAMP10694. Printer name: PATLOC1MOS4N32-M1
+
+IP: 10.7.131.195
+LaserJet Pro 400
+
+user needs to get printer installed, was not able to locate the printer on the server
+**Title from related Incident record IM2845424:
+User needs to install HP printer","Related Incident IM2845424 closed.
+Hi. I am currently out of the office on company business travel with limited access to email/voicemail. I'll be returning to the office Monday, December 12.
+
+Thanks,
+Scott
+
+
+Please let me know when you are back in the office and I will reopen the ticket and repair your issue
+
+*** *** There are no other related records.  Interaction closed by Incident IM2845424"
+SD3736042,Closed,12/07/16 07:48 AM,767011.0047,12/07/16 07:54 AM,SysOps - Help Desk,Z000748706,WATLRES3B7P33,HP ELITEDESK 705G1 SFF,,WHSE,,4,,934076,LUCIENE CASTRO,0,ATL,Z000748706,WATLRES3B7P33,040642,JEREMY WALLACE,User Training,User is having software installed from radia,User is having software installed from radia and needs to know if she should reboot or wait,"remoted in and looked at user's status and advised the user that she should wait before doing the reboot
+until the installment is done"
+SD3736838,Closed,12/07/16 12:16 PM,767011.0127,12/07/16 12:34 PM,SysOps - Help Desk,PBS Preferential Bidding System,PBS Preferential Bidding System,,,,,2,,737530,LISA DOTY,000-000-0000,MSP,,,799286,ABNER HEARN,User Training,PBS not opening on safari or chrome_had user install firefox,"PBS not opening on safari or chrome_had user install firefox
+Worked","PBS not opening on safari or chrome_had user install firefox
+Worked"
+SD3736966,Closed,12/07/16 01:03 PM,767011.002,12/07/16 01:06 PM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,486688,EDWARD SMITH,4077913609,ATL,,,884984,MATTHEW BARBER,configuration change,user wants to install .net framework onto tablet,user wants to install .net framework onto tablet,no local admin permissions
+SD3737163,Closed,12/07/16 02:07 PM,767011.0056,12/07/16 02:15 PM,SysOps - Help Desk,Z000904352,XATLCAMP06475,TOSHIBA TECRA Z40 I5-4310U,ATL/ADMIN CENTER/1/,1SW136,,4,,013482,MEGHAN ROGERS,404-773-8584,ATL,Z000904352,XATLCAMP06475,799286,ABNER HEARN,software modification/reinstal,XATLCAMP06475_Quicktime not installing on user computer to allower video player for PPT presentation,"XATLCAMP06475_Quicktime not installing on user computer to allower video player for PPT presentation
+ADMIN side to install player","XATLCAMP06475_Quicktime not installing on user computer to allower video player for PPT presentation
+ADMIN side to install player"
+SD3739925,Closed,12/08/16 03:27 PM,767011.004,12/12/16 03:00 PM,SysOps - Help Desk,Z000736987,WATLCAMP04319,HP 6305 STANDARD SFF,ATL/ADMIN CENTER/2/,,4,4,5,986870,PHILLIP HELMS,770 910 5832,ATL,Z000736987,WATLCAMP04319,linker,,Unknown,user requesting ticket for software install after radia connect failed to install IBM RAD,"user requesting ticket for software install after radia connect failed to install IBM RAD
+sending ticket to ODS for further investigation
+**Title from related Incident record IM2847990:
+user requesting ticket for software install after radia connect failed to install IBM RAD","Related Incident IM2847990 closed.
+FE picked up workstation, and tried to get it to reinstall / advised needing to rebuild, but cust is not willing to have it rebuilt now, will call back after the 1st of the year.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2847990"
+SD3741649,Closed,12/09/16 11:29 AM,767011.0018,12/09/16 11:31 AM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,166496,ALAN POWERS,770-460-6611,ATL,,,753680,MARK COLLINS,procedure enforcement,user wanted to download a app and install,user wanted to download a app and install,requires admin password and cannot do this at this time
+SD3742620,Closed,12/09/16 04:43 PM,767011.0217,12/09/16 05:14 PM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/OC1/4/,4N039,,4,,640749,ODESSA WILLIAMS,404-715-8495,ATL,Z000906057,XATLCAMP06045,753680,MARK COLLINS,procedure enforcement,user had programs to install and they will not open,user had programs to install and they will not open,user will get CD again anad also get admin rights to install
+SD3747437,Closed,12/12/16 08:38 AM,767011.017,12/15/16 10:30 AM,SysOps - Help Desk,Outlook,Outlook,,MSP/BUILDING B/1/,"ENGINE SHOP,  TEST CELL #1, MB",4,3,4,352975,JEFFREY WALL,6512351533,MSP,Z000713799,WMSPBLDB00071,linker,,Software,user keeps getting window installer pop up,"user says pw not working correctly
+delta error sorry something went wrong
+user getting windows installer when opening deltanet
+computer just locks up
+user also geting another installation is alreay in progress when he trys to open outlook
+rebooted samething
+**Title from related Incident record IM2851007:
+user keeps getting window installer pop up","Related Incident IM2851007 closed.
+replaced workstation due to MS OFFICE not working - 2 versions and it wouldn't open anything, nor would it uninstall the older version
+
+*** *** There are no other related records.  Interaction closed by Incident IM2851007"
+SD3750848,Closed,12/13/16 11:40 AM,767011.0031,12/13/16 11:45 AM,SysOps - Help Desk,Crew Mobile Devices,Crew Mobile Devices,,,,,4,,922162,DANIEL FUSCO,8067860801,ATL,,,169727,MESSIAH PATEL,user training,user wants admin rights for ms install,user wants admin rights for ms install,advised user no eta on it
+SD3751914,Closed,12/13/16 04:56 PM,767011.0095,12/13/16 05:09 PM,SysOps - Help Desk,SAS ENTERPRISE GUIDE - EG,SAS ENTERPRISE GUIDE - EG,SAS ENTERPRISE GUIDE - EG,,WHSE,,,,913657,RICHARD OWEN,404-773-9205,ATL,,,331190,MASIH MAHMOODI,configuration change,user needs to get his SAS software to do his job duties but the program was not installed properly,"im2852879
+user needs to get his SAS software to do his job duties but the program was not installed properly",connected to ODS and phil stated that after investigating he will email the user once we fix the issue.
+SD3757041,Closed,12/15/16 04:10 PM,767011.0057,12/15/16 04:18 PM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,624482,GEOFFREY STERN,609-605-8970,LGA,,,329134,BRIAN CARSTENS,reboot/recycle,Content locker -  user trying to reinstall SCL after he deleted and it is not installing,Content locker -  user trying to reinstall SCL after he deleted and it is not installing,"hard bootand had user check to see if it was loading, everything looks ok"
+SD3758290,Closed,12/16/16 08:11 AM,767011.021,12/16/16 08:41 AM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/ADMIN CENTER/4/,4NE014,,4,,754457,SUMANTH RAO,404-773-7167,LON,Z000906226,XATLCAMP06428,753680,MARK COLLINS,environmentals restored,User needed printer installed as admin,User needed printer installed as admin,printer installed
+SD3758316,Closed,12/16/16 08:24 AM,767011.0118,12/16/16 08:41 AM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/ADMIN CENTER/4/,4NE056,,4,,002237,BRITTNEY RIEBEN,404-715-8679,ATL,Z000905579,XATLCAMP05014,753680,MARK COLLINS,environmentals restored,User needed printer installed as admin,User needed printer installed as admin,printer installed
+SD3758819,Closed,12/16/16 11:14 AM,767011.0035,12/16/16 11:19 AM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,832536,STEPHEN HOWELL,4042571549,ATL,,,331190,MASIH MAHMOODI,configuration change,microsoft reader is not installing on the user's computer,microsoft reader is not installing on the user's computer,checked with the user and the application is already on the user's computer.
+SD3761693,Closed,12/17/16 02:53 PM,767011.0046,12/17/16 04:28 PM,SysOps - Help Desk,Z000907386,XATLCAMP07320,TECRA Z40 BROADWELL I5-5300U 8GB,ATL/OC2/4/,Pilot scheduling,4,3,4,013128,JAMES SLUSSER,404-714-4484,ATL,Z000907386,XATLCAMP07320,linker,,Software,User wants a tech to come and install a printer for him,"User wants a tech to come and install a printer for him.   I ask for z# or IP address and user has no idea and cannot find anything on the printer.
+**Title from related Incident record IM2857771:
+User wants a tech to come and install a printer for him","Related Incident IM2857771 closed.
+Rebooted the laptop.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2857771"
+SD3762296,Closed,12/17/16 08:52 PM,767011.0028,12/17/16 08:56 PM,SysOps - Help Desk,,,,,,,,,576871,MUTAZ SIAM,770-527-9179,ATL,,,371430,KEVIN DOYLE,User Training,user having issues trying to install email on his device,user having issues trying to install email on his device,"walked user htrough locating the email setup on deltanet, after verifying he tried to restore it from a backup. Has no further inquiries."
+SD3768829,Closed,12/20/16 01:04 PM,767011.0029,12/20/16 01:09 PM,SysOps - Help Desk,Crew Mobile Devices,Crew Mobile Devices,,,,,4,,497123,ARIC DIMEFF,9379023542,DTW,,,169727,MESSIAH PATEL,configuration change,user says reader isn't installing,user says reader isn't installing,"pushed reader from airwatch
+user good to go"
+SD3769369,Closed,12/20/16 03:56 PM,767011.0044,12/20/16 04:03 PM,SysOps - Help Desk,Crew Mobile Devices,Crew Mobile Devices,,,,,4,,205905,MICHAEL BROWNE,6038906537,LGA,,,169727,MESSIAH PATEL,configuration change,user says flight weather not installing since yesterday,"user says flight weather not installing since yesterday
+had user reboot and repush the app",user good to go
+SD3769475,Closed,12/20/16 04:35 PM,767011.003,12/21/16 02:14 PM,SysOps - Help Desk,Z000710804,WMCOLMTC00010,HP COMPAQ 6005 STANDARD SFF,MCO/AIRPORT/1/,LMTC POS 10,4,3,4,380103,CARLOS ARGUELLO,407-825-5154,MCO,,,linker,,Software Distribution,User needs admin rights to install VA redhot remote,"User needs admin rights to install VA redhot remote
+-the user just needs to press ok for the new VA redhot remote to install, but he doesnt have the admin rights to run it
+-And I cant remote in due to an error on my dameware.
+
+http://itkms.delta.com/RedHotRemoteVAA/Prerequisites.html
+**Title from related Incident record IM2860654:
+User needs admin rights to install VA redhot remote","Related Incident IM2860654 closed.
+logged on as administrator so program would load.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2860654"
+SD3772233,Closed,12/21/16 06:25 PM,767011.0056,12/21/16 06:33 PM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,458728,SCOTT GUNTER,2083171612,SLC,,,331190,MASIH MAHMOODI,configuration change,user keeps getting an error  with airwatch vmware manager is not installed on the usr,user keeps getting an error  with airwatch vmware manager is not installed on the usr,"logged into airwatch and pushed the installs via airwatch,."
+SD3773255,Closed,12/22/16 09:52 AM,767011.008,12/22/16 10:04 AM,SysOps - Help Desk,Z000900253,XATLSFAM00002,TOSHIBA PORTEGE  Z30 LAPTOP,,WHSE,,4,,960070,MARCELA FRIEDRICH,404-714-2648,ATL,Z000900253,XATLSFAM00002,169727,MESSIAH PATEL,configuration change,user trying to use webmeeting need adobe connect installed,user trying to use webmeeting need adobe connect installed,"user needs ishop request
+user good to go"
+SD3773390,Closed,12/22/16 10:33 AM,767011.0209,12/27/16 11:53 AM,SysOps - Help Desk,Microsoft Office,,MICROSOFT OFFICE,ATL/VIRTUAL/VIRTUAL/,HOME,4,3,4,174658,GLYNDA FREEMAN,404-677-7490,ATL,Z000718476,XATLCAMP01903,linker,,Software,user needs to get the correct add-in installed on her computer and the wrong add-in removed,"sd3773273 <- referenced interaction
+user requesting add in unistall and reinstalled per email she received uninstall and reinstall HP ALM Microsoft excel Adding
+
+screen shot is attached.
+
+connected to ODS
+
+user stated that she will be in the office on wednesday of next week and she can work on it then
+**Title from related Incident record IM2862415:
+user needs to get the correct add-in installed on her computer and the wrong add-in removed","Related Incident IM2862415 closed.
+Radia installed the incorrect version of HP ALM Add-in.
+Removed it from control panel
+Rebooted
+Logged in as Admin and installed the following per co-worker, Ruth Morales:
+
+Morales, Ruth A 10:25 AM
+login to QC, then go to help, then add-ins
+Look for Addins for Microsoft applications"" and choose ""Microsoft Excel""
+then choose ALM 11.5 Excel addin
+
+This fixed the issue.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2862415"
+SD3787391,Closed,12/29/16 09:13 AM,767011.0133,12/29/16 09:32 AM,SysOps - Help Desk,Crew Mobile Devices,Crew Mobile Devices,,,,,4,,315292,KARL DIETMEYER,7704875941,ATL,Z000822967,RFOPSZ000822967,169727,MESSIAH PATEL,configuration change,user says the new flight weather viewer never installs,"user says the new flight weather viewer never installs
+checked users account and the wns status is disconnected
+had user do a hard boot
+added reader for user
+user waiting for downloads to complete",user good to go
+SD3787598,Closed,12/29/16 10:36 AM,767011.011,12/29/16 10:52 AM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,887557,E HAVRILLA,4047634925,LAX,,,884984,MATTHEW BARBER,configuration change,user can't install skype to tablet,user can't install skype to tablet,no admin access
+SD3787638,Closed,12/29/16 10:50 AM,767011.0072,12/29/16 12:57 PM,SysOps - Help Desk,Z000709140,WYYZACSB00007,HP COMPAQ 6005 STANDARD SFF,YYZ/AIRPORT/2/,ATO-ROOM F208B,3,4,4,708313,GURINDER BATH,416-776-7991/ cellphone: 647-889-4672,YYZ,Z000709140,WYYZACSB00007,linker,,Procedure/Human Error,user needs to get hp printer hooked up and installed on the computer,"hp deskjet 6940
+z000346140
+printer needs ink and toner please
+toronto canada
+pierson airport
+**Title from related Incident record IM2867713:
+user needs to get hp printer hooked up and installed on the computer","Related Incident IM2867713 closed.
+user error as printer is broken and was supposed to be returned to DTW for disposal.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2867713"
+SD3787653,Closed,12/29/16 10:56 AM,767011.0015,12/29/16 10:58 AM,SysOps - Help Desk,EFB PERSONAL_GEN,EFB PERSONAL_GEN,EFB PERSONAL,,,,,,931171,JUSTIN PLACE,2183407337,ATL,,,884984,MATTHEW BARBER,User Training,user wants to install software to personal side,user wants to install software to personal side,no admin permissions
+SD3789649,Closed,12/30/16 08:23 AM,767011.0103,12/30/16 08:28 AM,SysOps - Help Desk,,,,,1SEC146,4,4,5,575600,LINDA SMALLS,0,ATL,Z000909996,XATLCAMP10918,420682,JENNIFER FRETWELL,configuration change,User would like to install MS tool sent to her from HR from a zip file,User would like to install MS tool sent to her from HR from a zip file,Advised user that she or her manager would have to request this via iShop
+SD3789840,Closed,12/30/16 09:44 AM,767011.0049,12/30/16 09:51 AM,SysOps - Help Desk,IShop,IShop,,,,,4,,758962,MONICA RIVAS-JARA,0,SCL,,,040642,JEREMY WALLACE,User Training,User needs to install GOL application on all PCs since they are now handling Delta and GOL airlines,User needs to install GOL application on all PCs since they are now handling Delta and GOL airlines,Advised user to have mgr do an Ishop req
+SD3792485,Closed,12/31/16 01:51 PM,767011.0086,12/31/16 02:03 PM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,689754,FRANK DINARDO,513-235-1602,MSP,,,753680,MARK COLLINS,User Training,user wanted to download PBS installer,user wanted to download PBS installer,https://deltaairlines.sharepoint.com/company/FlightOperations/Pages/December-14-Weekly-Update.aspx
+SD3801471,Closed,01/04/17 02:14 PM,767011.0078,01/04/17 04:27 PM,SysOps - Help Desk,Z000909865,XATLCAMP10949,TECRA Z40 BROADWELL I5-5300U 8GB FHD SCREEN,ATL/ADMIN CENTER/4/,4SWC071,4,3,4,751753,STEPHAN SCHMIDT,407-825-5359,ATL,Z000909865,XATLCAMP10949,linker,,Software,user needs universal network drivers installed,"the user called in because he was trying to connect to a network printer
+Upon trying to connect the printer for the user I realized he doesn't have
+the universal printer drivers installed.
+The printer name is HP-DL20523
+The IP address 10.12.187.178
+and his workstation name is XATLCAMP10949
+**Title from related Incident record IM2872809:
+user needs universal network drivers installed","Related Incident IM2872809 closed.
+Installed printer / downloaded driver from technet
+
+*** *** There are no other related records.  Interaction closed by Incident IM2872809"
+SD3803116,Closed,01/05/17 09:08 AM,767011.1087,01/05/17 01:04 PM,SysOps - Help Desk,AUTOCAD 2014,AUTOCAD 2014,AUTOCAD 2014,ATL/TOC2/2/,Dept-383 Mezz,4,3,4,037894,FARAZ SHAIKH,4047734561,ATL,Z000718474,XATLCAMP03081,linker,,Software Distribution,autocad update installed and now user's autocad is missing EXE file,"ran radia uninstall then force delete then reinstall.
+reinstall ran for over 2 hours and as of 11:45 AM EST it's still running install.
+**Title from related Incident record IM2873756:
+autocad update installed and now user's autocad is missing EXE file","Related Incident IM2873756 closed.
+Install had not completed..  Finished and is now working ok.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2873756"
+SD3803998,Closed,01/05/17 01:41 PM,767011.002,01/05/17 01:44 PM,SysOps - Help Desk,LYNGSOE PR34 BELT LOADER RFID READER_GEN,LYNGSOE PR34 BELT LOADER RFID READER_GEN,LYNGSOE PR34 BELT LOADER RFID READER,,,,,,829919,THOMAS BOWEY,5594537006,FAT,,,884984,MATTHEW BARBER,User Training,user was installing rfid on blet loader and had hardware issue supplied,"Station Managers or designated representatives should use the GSE homepage to report a mechanical/hardware issues for both RFID and non-RFID belt loaders:
+Deltanet|ACS and Cargo Ops|GSE|Breakdowns and Maintenance Reporting.","Station Managers or designated representatives should use the GSE homepage to report a mechanical/hardware issues for both RFID and non-RFID belt loaders:
+Deltanet|ACS and Cargo Ops|GSE|Breakdowns and Maintenance Reporting."
+SD3806229,Closed,01/06/17 11:56 AM,767011.0087,01/06/17 12:09 PM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/ADMIN CENTER/1/,HOME,,4,,683284,JADA GARRETT,404-677-7579,ATL,Z000905306,XATLCAMP05630,753680,MARK COLLINS,procedure enforcement,User trying to install a home printer,User trying to install a home printer,User had to go but I downloaded the install program but an Admin will have to install it and share it for her to use it. She will call back when she has time.
+SD3806305,Closed,01/06/17 12:13 PM,767011.0045,01/11/17 12:29 PM,SysOps - Help Desk,Kiosk,Kiosk,,SGF/AIRPORT/1/,Delta Administration office,3,4,4,173281,DENISE PETERSEN,4178692150,SGF,,,linker,,Software,User said that they have a new kiosk and needs to have someone come there to install the kiosk,"User said that they have a new kiosk and needs to have someone come there to install the kiosk
+User said that the kiosk is still there in the dash box
+
+Location:  The kiosk is in the Delta Administration office,
+
+sending to FO to install it
+**Title from related Incident record IM2874910:
+User said that they have a new kiosk and needs to have someone come there to install the kiosk","Related Incident IM2874910 closed.
+Replaced previously built/shipped kiosk. Tested. Close. dringel
+
+*** *** There are no other related records.  Interaction closed by Incident IM2874910"
+SD3808181,Closed,01/07/17 07:47 AM,767011.0036,01/07/17 07:52 AM,SysOps - Help Desk,SKYPRO MOBILE_GEN,SKYPRO MOBILE_GEN,SKYPRO MOBILE,,,,,,493714,MARY BRABSTON,251-214-3211,MSP,,,753680,MARK COLLINS,procedure enforcement,user installing a 3rd party app on Sky Pro,user installing a 3rd party app on Sky Pro,asking for outlook password but would not take it she is not on WiFi
+SD3811495,Closed,01/08/17 05:59 PM,767011.0033,01/08/17 06:03 PM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,524565,JOHN HAWKINS,757-589-6683,ATL,,,753680,MARK COLLINS,procedure enforcement,user had question about Chrome install,user had question about Chrome install,told usr to use for PBS and we opened it and chrome is working
+SD3813354,Closed,01/09/17 12:16 PM,767011.0063,01/09/17 12:25 PM,SysOps - Help Desk,Windows 7,Windows 7,,MSP/BUILDING C - GO/1/,MSPC RES,,4,,398870,JEAN GARMAN,612-266-5419,MSP,Z000750451,WMSPRES100020,753680,MARK COLLINS,environmentals restored,user needed printer installed,user needed printer installed  10.16.162.248,was able to instal printer
+SD3816994,Closed,01/10/17 04:04 PM,767011.0097,01/10/17 04:18 PM,SysOps - Help Desk,SKYPRO MOBILE_GEN,,SKYPRO MOBILE,,,,,,096776,MARNEE MCCOLLUM,917-304-1273,JFK,,,281596,WILBERT SMITH,configuration change,the user's sky pro  software will not install,"PLEASE LIMIT YOUR INPUT TO 60 CHARACTERS IN WIDTH
+
+http://hdkvmp.nwa.com/OnBoardSales_SkyPro/Troubleshooting/EDB/00001.html
+
+Item(s) to replace: skypro
+
+Device IMEI:    358341051932107
+
+SIM ID:    310410741361893
+
+Device Cell Phone Number:
+
+Complete Shipping Address:
+
+Is this a NEW or REPLACEMENT device:
+
+Please describe the issue:",the user's sky pro  software will not install
+SD3820913,Closed,01/12/17 08:44 AM,767011.0034,01/13/17 02:21 PM,SysOps - Help Desk,Z000730042,XATLCAMP00602,HP ELITEBOOK 8470P NOTEBOOK,ATL/A2/4/,STORAGE,4,3,4,286002,PETER BAJALCALIEV,7702522963,ATL,,XATLCAMP00602,linker,,Hardware,user is getting boot device not found pls install boot disk,"user is getting boot device not found pls install boot disk
+user says he thinks the pc is crashing
+user is on the way to the office
+**Title from related Incident record IM2880875:
+user is getting boot device not found pls install boot disk","Related Incident IM2880875 closed.
+replacement laptop installed
+
+*** *** There are no other related records.  Interaction closed by Incident IM2880875"
+SD3821161,Closed,01/12/17 10:12 AM,767011.0317,01/12/17 10:35 AM,SysOps - Help Desk,Z000683399,XATLCAMP05951,HP E8460 NOTEBOOK,ATL/TOC1 POWER PLANT/MEZZANINE/,ROOM G-365,,4,,816470,TIFFANY TRENHOLM,2567720473,HSV,Z000379861,WHSVDGSG00002,331190,MASIH MAHMOODI,configuration change,user needs assistance with installing a hp printer,"hp printer
+user needs assistance with installing the driver.
+remoted into the user's computer and installed the driver on the user's computer with admin login",installed the printer for the user and the user was able to print successfully
+SD3821168,Closed,01/12/17 10:16 AM,767011.0058,01/12/17 10:25 AM,SysOps - Help Desk,Z000683399,XATLCAMP05951,HP E8460 NOTEBOOK,ATL/TOC1 POWER PLANT/MEZZANINE/,ROOM G-365,,4,,900729,LEAH SANDERS,404-714-6429,ATL,,,482832,ANDRE ARCHER,user training,user needs software installed,"user needs software installed
+user says everyone in her dept was granted access for the software
+-index plus
+-scan plus
+-paperstreamcapture
+user does not have ishop number, ishop was requested between oct and now","user will find ishop request number when she talks to her boss
+programs are not in radia
+user may need to do another ishop"
+SD3821902,Closed,01/12/17 02:04 PM,767011.0039,01/12/17 02:10 PM,SysOps - Help Desk,Z000911431,XATLCAMP00805,TECRA Z40 BROADWELL I5-5300U 8GB FHD SCREEN,ATL/ADMIN CENTER/2/,2NW010-9,,4,,U62743,MARQUITTA LAWRENCE,3,ATL,,,482832,ANDRE ARCHER,user training,user has new laptop trying to install a program,"user has new laptop trying to install a program
+quality center version 11.5
+user gets error that program is already installed
+HD advised user to run radia connect","user has new laptop trying to install a program
+quality center version 11.5
+user gets error that program is already installed
+HD advised user to run radia connect"
+SD3823726,Closed,01/13/17 10:26 AM,767011.0074,01/13/17 10:37 AM,SysOps - Help Desk,Windows 7,Windows 7,,,WHSE,,4,,732731,JASON CUDE,404-715-1254,ATL,Z000901276,XATLCAMP08177,753680,MARK COLLINS,environmentals restored,User needed help installing printer,User needed help installing printer,installed and test prints came out
+SD3824173,Closed,01/13/17 01:03 PM,767011.0157,01/13/17 01:26 PM,SysOps - Help Desk,Mobile - Cell Phone,Mobile - Cell Phone,,,,,4,,608713,ANGIE JONES,850-439-6133,PNS,,,780701,ANTONIO BOLTON,procedure enforcement,User called in because she couldnt get the airwatch agent to install on her new cell,"User called in because she couldnt get the airwatch agent to install on her new cell
+User kept getting message that she has too many devices enrolled",Deleted old devices
+SD3825125,Closed,01/13/17 07:31 PM,767011.0033,01/13/17 07:35 PM,SysOps - Help Desk,,,,,,,,,237799,JOY OMMEN,0,MSP,,,371430,KEVIN DOYLE,configuration change,user wanting to install on-board sales app,user wanting to install on-board sales app,Had user install it via the airwatch mdm agent > applications > internal
+SD3830065,Closed,01/16/17 04:19 PM,767011.0023,01/16/17 04:23 PM,SysOps - Help Desk,,,,,,,,,685841,MARK PHILLIPS,9014889836,DTW,,,281596,WILBERT SMITH,configuration change,surface Pro ...   the user installed a usb,"surface Pro ...   the user installed a usb
+
+
+dropped call",dropped call
+SD3833666,Closed,01/18/17 09:22 AM,767011.0068,01/18/17 09:32 AM,SysOps - Help Desk,PPM,PPM,,ATL/ADMIN CENTER/2/,2CW094,,4,,W96869,MAX ALVARADO,000,ATL,Z000906931,XATLCAMP07647,178226,AFOLABI BENSON,user training,User needs to install plugin for PPM,"Remote in
+-success
+
+logged in admin
+had the user log into PPM
+-computer lost connection
+
+User has to go to a meeting at 9:30- user stated he will call back",User will call back
+SD3836241,Closed,01/19/17 10:27 AM,767011.0096,01/19/17 10:41 AM,SysOps - Help Desk,Z000760521,WATLCAMP06566,HP ELITEDESK 705 G2 SFF,ATL/ADMIN CENTER/4/,4SE032,,4,,604588,TATIANA HERNANDEZ-DAVILA,4046778341,ATL,,,482832,ANDRE ARCHER,user training,user software not installed,"user software not installed
+user has ran a radia connect
+software still does not show
+Q971331-007 user ishop request was approved
+called ODS, spoke with Marjan
+
+user needs to send a email to the cordinator","user software not installed
+user has ran a radia connect
+software still does not show
+Q971331-007 user ishop request was approved
+called ODS, spoke with Marjan
+
+user needs to send a email to the cordinator"
+SD3838180,Closed,01/20/17 07:25 AM,767011.0331,01/26/17 01:39 PM,SysOps - Help Desk,Mobile - Cell Phone,Mobile - Cell Phone,,MSP/VIRTUAL/VIRTUAL/,,4,3,4,747913,BRENT ALBRIGHT,Cell: 612-385-6404,MSP,,,linker,,Software,User is unable to install email on Corporate Android Samsung 7,"User is unable to install email on Corporate Android Samsung 7
+User has unenrolled the Airwatch client and removed 4 times and he still is not receiving ""Server Details"" to be able to enter that.  User is receiving Email Authentication only.
+User is connected via WIFI and the phone is not in Airplane mode
+Was able to see the device within 4 minutes on the Airwatch but still receiving message that server could not be found
+Followed the Android setup instructions per the KMS/Deltanet and user is not seeing the same prompts on his phone.Engaged team lead Kathy
+https://deltaairlines.sharepoint.com/company/IT/MobileServices/Documents/Android_S7_Corp_Email_Activation_Verizon.pdf
+**Title from related Incident record IM2888792:
+Mobile - User is unable to install email on Corporate Android Samsung 7","Related Incident IM2888792 closed.
+See attached sent to Scott regarding resolution
+Was able to again remove the installation and reinstall based on KMS and WIFI ON
+
+*** *** There are no other related records.  Interaction closed by Incident IM2888792"
+SD3840615,Closed,01/21/17 09:49 AM,767011.0277,01/21/17 10:29 AM,SysOps - Help Desk,Windows 7,Windows 7,,,WHSE,,4,,805962,SHANNON SZOKE,850-733-9058,PNS,Z000900023,XPNSSFAM00001,753680,MARK COLLINS,procedure enforcement,user trying to install a printer at home,user trying to install a printer at home,user will do Ishop request
+SD3841242,Closed,01/21/17 02:50 PM,767011.019,04/05/17 12:03 PM,SysOps - Help Desk,Z000464947,,MICROSOFT SURFACE 3 10.8 INCH 4GB 128GB SSD,ATL/VIRTUAL/VIRTUAL/,WHSE,4,3,4,320804,MICHAEL LEMIEUX,404-773-8667,ATL,Z000464947,,linker,,Unknown,User unable to install XODO on his Surface 3,"User unable to install XODO on his Surface 3
+Tried powercycling device, still doesn't work
+Ran wsreset.exe
+still doesn't work.
+User tried to download another app from the Windows Store, but did the same thing, says GET, taps it, says ""Working"" and doesn't do anything.
+Please assist/advise.
+**Title from related Incident record IM2889954:
+unable to install Apps from the Store XODO on his Surface 3","Related Incident IM2889954 closed.
+adding pilot to call back list for when we have a fix for issue
+
+*** *** There are no other related records.  Interaction closed by Incident IM2889954"
+SD3842291,Closed,01/22/17 09:59 AM,767011.0043,01/22/17 10:05 AM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,501574,MARK SWANKE,808-955-4811,JFK,,,753680,MARK COLLINS,environmentals restored,user needed EFB updated and f9999a installed,user needed EFB updated and f9999a installed,all good to go
+SD3846740,Closed,01/24/17 06:02 AM,767011.0035,01/24/17 06:07 AM,SysOps - Help Desk,IShop,IShop,,,,,4,,032830,MYRNA GIL,404-715-2798,ATL,,,884984,MATTHEW BARBER,User Training,user calling for status of ishop for manual install of autocad,emailed FO person on ishop request,emailed FO person on ishop request
+SD3847942,Closed,01/24/17 01:59 PM,767011.0038,01/27/17 10:38 AM,SysOps - Help Desk,Radia,Radia,,MSP/BUILDING J/2/,J2C0308B,4,3,4,515826,JUGUNU ALEX,612-567-6336,MSP,Z000903523,XMSPBLDJ01026,linker,,Software,RAD will not get installed on the user's computer and keeps getting 709 error,"RAD will not get installed on the user's computer and keeps getting 709 error
+
+uninstalled - refreshed catalogue - installed
+keep getting 709 error
+**Title from related Incident record IM2892413:
+RAD will not get installed on the user's computer and keeps getting 709 error","Related Incident IM2892413 closed.
+RAD installed to workstation. Please contact Service Desk if you have any further problems.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2892413"
+SD3847951,Closed,01/24/17 02:03 PM,767011.0192,01/25/17 01:55 PM,SysOps - Help Desk,Axis,AXIS,AXIS,TPA/CALL CENTER/3/,WTPARES3XPB6P22,4,3,4,235528,JIM ROE,813-892-0961,TPA,Z000650811,WTPARES3B6P22,linker,,Software,Axis Chrome was installed on user  workstation,"Per KMS I have remote in changed the zoom to 100%, screen resolution set 1024x768 perform a c:> gpupdate /force via command prompt, try again twice and user Axis did not change...please send the local tech to user ASAP!
+**Title from related Incident record IM2892438:
+Axis Chrome was installed on user  workstation","Related Incident IM2892438 closed.
+rebuilt
+
+*** *** There are no other related records.  Interaction closed by Incident IM2892438"
+SD3856346,Closed,01/28/17 12:19 PM,767011.0067,01/28/17 12:29 PM,SysOps - Help Desk,Windows 7,Windows 7,,,WHSE,,4,,663767,DEBORA YOUNG,866-748-3082,DFW,Z000751901,HDFWRWAH00104,753680,MARK COLLINS,environmentals restored,user had new screen installed and needed help,user had new screen installed and needed help,just needed it to show a main and on the right side
+SD3856645,Closed,01/28/17 03:43 PM,767011.0052,01/28/17 03:50 PM,SysOps - Help Desk,JV Loyalty,JV Loyalty,,,,,2,,461806,DAVE JONES,800-221-1212,ATL,,,753680,MARK COLLINS,procedure enforcement,User does not have software installed on W@H PC,User does not have software installed on W@H PC,IShop request needed
+SD3859714,Closed,01/30/17 12:37 PM,767011.0092,01/30/17 12:50 PM,SysOps - Help Desk,,,,,,,,,188250,JOHN WIBLE,404-714-0119,ATL,,,371430,KEVIN DOYLE,User Training,user needs help installing AW on corporate device,user needs help installing AW on corporate device,"walked user through the process
+also walked the user through getting the old phone ready to be returned."
+SD3860631,Closed,01/30/17 05:46 PM,767011.0107,01/30/17 06:01 PM,SysOps - Help Desk,,,,,,,,,333418,CANDACE CASCONE,0,DTW,,,371430,KEVIN DOYLE,configuration change,user unable to install particular apps on the skypro.,user unable to install particular apps on the skypro.,tried to have user refresh the airwatch dm; still having issues trying to start up and work. Client will call back if need be. Has no further inquiries.
+SD3861737,Closed,01/31/17 10:00 AM,767011.0081,01/31/17 10:12 AM,SysOps - Help Desk,Z000908241,XATLCAMP10498,TECRA Z40 BROADWELL I5-5300U 8GB,ATL/ADMIN CENTER/2/,Arnab Sengupta-327851,,4,,327851,ARNAB SENGUPTA,404,ATL,Z000908241,XATLCAMP10498,066278,ADEYINKA ADEDOTUN,software modification/reinstal,Lower version of RAD was installed on User's laptop(IM2895138),"Lower version of RAD was installed on User's laptop
+RAD WIN 8 5
+Transferred call to ODS",Transferred call to ODS
+SD3862987,Closed,01/31/17 05:47 PM,767011.0139,01/31/17 06:07 PM,SysOps - Help Desk,Z000685936,WSLCICRW00011,HP COMPAQ 6005 STANDARD SFF,SLC/AIRPORT  - CONCOURSE C/1/,C GATE Inflight Room C141C,,4,,317626,JEFFREY CAMERON,8017444000,SLC,,WSLCICRW00011,331190,MASIH MAHMOODI,configuration change,user needs assistance  with mapping network drive and installing printer driver.,"I:// drive and N:// drive
+desktop will not connect to the n: drive
+
+pslc
+ip address: 10.103.131.191
+hp laser jet m9050mfp","remoted into the user's computer and mapped the network drive
+and installed the printer driver."
+SD3863214,Closed,01/31/17 08:35 PM,767011.0143,02/01/17 01:06 PM,SysOps - Help Desk,Z000694266,WMCIGATEB59P2,HP COMPAQ 6005 STANDARD SFF,MCI/AIRPORT/2/,GATE 59 POS 2,3,4,4,631903,TRACY LIMBERG,605-254-8974,MCI,Z000694266,WMCIGATEB59P2,linker,,Hardware,User need sign driver installed,"the user called in because he need the sign driver to be installed
+on the workstation. The sign drives is for the back drop to tell the
+passengers which flight are going out of this gate.
+**Title from related Incident record IM2901463:
+User need sign driver installed","Related Incident IM2901463 closed.
+configured sign manger adapter. rebooted PC, tested PC and its working normally
+
+*** *** There are no other related records.  Interaction closed by Incident IM2901463"
+SD3865491,Closed,02/01/17 07:46 PM,767011.0167,02/01/17 07:58 PM,SysOps - Help Desk,,,,,,,,,642939,TIMOTHY GRIMSICH,000000,DTW,,,281596,WILBERT SMITH,configuration change,the user needs to install the flight weather viewer  2.0.6.0,"the user needs to install the flight weather viewer  2.0.6.0
+
+
+assisted the caller",assisted the caller
+SD3867257,Closed,02/02/17 03:06 PM,767011.0211,02/02/17 03:37 PM,SysOps - Help Desk,Z000902470,XATLCAMP08902,TOSHIBA TECRA Z40 ULTRABOOK LAPTOP,ATL/OC2/4/,4C056,,4,,405878,STEVEN MARINELLO,404-714-0150,ATL,Z000902470,XATLCAMP08902,780701,ANTONIO BOLTON,procedure enforcement,user called in to get a printer installed back onto his workstation,user called in to get a printer installed back onto his workstation,installed the printer
+SD3867279,Closed,02/02/17 03:13 PM,767011.0074,02/03/17 12:21 PM,SysOps - Help Desk,PhoneNotification,PhoneNotification,,ATL/TOC1/1/,user works in emory clinic,4,3,4,169727,MESSIAH PATEL,4047731164,ATL,,,linker,,Unknown,user says the phone for emory clinic which was install by ATT,"user says the phone for emory clinic which was install by ATT
+user needs the phone line needs to be connect to the phone going into the clinic
+DOUG let the ATT person in the main telephone room on the second floor to install it the first time
+ATT has already bought the line in to the main room and now it needs to be connect to the cable for the emory suite
+user works for emory STEVE TATUM contact 404-712-1978
+user says its an analog phone
+**Title from related Incident record IM2903668:
+user says the phone for emory clinic which was install by ATT","Related Incident IM2903668 closed.
+connected 1FB to phone in the clinic.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2903668"
+SD3868634,Closed,02/03/17 09:51 AM,767011.0169,02/08/17 10:20 AM,SysOps - Help Desk,Z000739268,XDTWICRW00019,HP ELITEBOOK REVOLVE 810G2,JFK/AIRPORT - TERMINAL 4 B-CONCOURSE/2/,IFS ADMIN,4,3,4,792100,CHEVAL MORRISON,734-718-7313,DTW,HP-DL21985,PJFKFTOMOSNETC-121,linker,,Unknown,user needs to get hp mos printer driver installed,"hp c3525x
+hp-dl21985
+
+office no. 285115 - jfk in-flight
+user needs to get hp mos printer driver installed
+z000729357
+sjfkftodlfpo1
+
+attempted to install printer but it is blocked by administrator
+**Title from related Incident record IM2904738:
+user needs to get hp mos printer driver installed","Related Incident IM2904738 closed.
+No response from Cheval for printer driver installation. Please contact the service desk and have a new ticket opened for this if needed.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2904738"
+SD3873444,Closed,02/06/17 09:41 AM,767011.0073,02/06/17 09:52 AM,SysOps - Help Desk,Z000706015,XATLCAMP03146,HP E8460 NOTEBOOK,ATL/TOC3/3/,P-3016 Dept 231 CSR,,4,,716614,PAULA MOORE,404-714-3899,ATL,Z000706015,XATLCAMP03146,040642,JEREMY WALLACE,configuration change,User said that she should have Hyperion already installed on her PC,"User said that she should have Hyperion already installed on her PC
+User did an ishop req and the request came back and said that she should already have
+hyperion installed on the PC
+I have checked the user's radia self service and the radia remote on my side and the hyperion
+is on the user's device software list but it is not on her PC","I am running  a radia connect on the user's PC to see if that will update the software
+if it does not the user will call back"
+SD3874123,Closed,02/06/17 01:53 PM,767011.0027,02/06/17 01:57 PM,SysOps - Help Desk,,,,,,,,,304435,SCOTT DWECK,0,LAX,,,371430,KEVIN DOYLE,configuration change,User unable to install skype,"User unable to install skype, chrome","advised user he won't be able to install skype
+walked user through on how to install chrome; works fine."
+SD3878274,Closed,02/08/17 11:22 AM,767011.0143,02/08/17 11:32 AM,SysOps - Help Desk,Z000713237,XATLCAMP04375,HP ELITEBOOK 8470P NOTEBOOK,ATL/MIDFIELD SUPPORT/2/,2NE018,,4,,981664,NICHOLAS WHITMAN,7165237933,ATL,Z000713237,XATLCAMP04375,282711,SAM SOLAIMANI,configuration change,User trying to install font,User trying to install font,copying font
+SD3878289,Closed,02/08/17 11:28 AM,767011.013,02/08/17 11:47 AM,SysOps - Help Desk,,,,,,,,,230382,DAVID HEIDEMAN,404-773-4823,ATL,,,639194,KYLE CZYSCON,withdrawn by user,"user asking about installing ""nav blue"" on surface.","user asking about installing ""nav blue"" on surface. went to xfer to pilot support. pilot hung up while talking to psc about issue","user asking about installing ""nav blue"" on surface. went to xfer to pilot support. pilot hung up while talking to psc about issue"
+SD3878770,Closed,02/08/17 02:14 PM,767011.0014,02/08/17 02:58 PM,SysOps - Help Desk,Z000690547,WGRRTKFTASA01,HP COMPAQ 6005 STANDARD SFF,GRR/AIRPORT/1/,Gate Need Help Center,4,3,4,492597,BRENDA GEURKINK,6162336214,GRR,Z000690547,WGRRTKFTASA01,linker,,Hardware,user needs a star printer installed on the computer,"user needs a star printer installed on the computer - at the need help center
+**Title from related Incident record IM2909712:
+user needs a star printer installed on the computer","Related Incident IM2909712 closed.
+The customer wanted to print IROP DOCS not just BP. We changed the printer to be an IER printer in DLTERM and SNAPP. it is working now with out issue. Brenda said if she has any further issues she will call in a new call.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2909712"
+SD3881340,Closed,02/09/17 02:25 PM,767011.0184,02/09/17 02:51 PM,SysOps - Help Desk,,,,,,,,,349546,BRIAN MATTINGLY,404-715-6700,ATL,,,282711,SAM SOLAIMANI,User Training,user wants to install printer on efb,user wants to install printer on efb,they can't
+SD3886272,Closed,02/11/17 09:49 PM,767011.0052,02/11/17 09:56 PM,SysOps - Help Desk,,,,,,,,,375377,MICHAEL BEBO,0,MSP,,,371430,KEVIN DOYLE,User Training,user having issues installing updates on surface 3,user having issues installing updates on surface 3,"advised user to be patient, as per direction from KMS. USer will call back if need be."
+SD3888805,Closed,02/13/17 11:18 AM,767011.0033,02/13/17 11:23 AM,SysOps - Help Desk,Pathlore LMS,Pathlore LMS,,,,,3,,415473,BONNIE TOVEY,404,ATL,,,066278,ADEYINKA ADEDOTUN,withdrawn by user,User wants to remove all delta application on personal pc and install google chrome,"User wants to remove all delta application on personal pc and install google chrome for pathlore LMS
+withdrawn by user",withdrawn by user
+SD3888845,Closed,02/13/17 11:31 AM,767011.0094,02/13/17 11:45 AM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/MIDFIELD SUPPORT/2/,2NE050,,4,,527715,BAGATH ARUMAICHANDRAN,0,ATL,Z000757630,WATLCAMP06305,962743,ABRAHAM RIVERA,configuration change,User would like to instal Prizim,"User called to get assitance installing Prizim
+
+Steps;
+-remote in
+-logged in as admin
+-installed prizim
+-had user check his profile
+
+User verified issues have been resolved",User verified issues have been resolved
+SD3889529,Closed,02/13/17 03:27 PM,767011.0028,02/13/17 03:31 PM,SysOps - Help Desk,,,,,,,,,375377,MICHAEL BEBO,0,MSP,,,371430,KEVIN DOYLE,configuration change,user unable to install third party apps onto the surface 3,user unable to install third party apps onto the surface 3,advised user this won't be possible at this time.
+SD3890546,Closed,02/14/17 07:57 AM,767011.0086,02/23/17 11:50 AM,SysOps - Help Desk,EDOCS_GEN,EDOCS_GEN,EDOCS,FLL/VIRTUAL/VIRTUAL/,,4,4,5,323608,KAREN BELL,5613015874,FLL,,,linker,,Software,User wants to install external apps from Airwatch,"User wants to install external apps from Airwatch
+\http://itkms.delta.com/OnBoardSales_SkyPro/Troubleshooting/EDB/00112.htm
+http://itkms.delta.com/OnBoardSales_SkyPro/Troubleshooting/EDB/00117.htm
+User did not get the needed prompts to get this done by following the kms steps
+esc
+**Title from related Incident record IM2915304:
+User wants to install external apps from Airwatch","Related Incident IM2915304 closed.
+MS store is asking for PW
+synced PW
+
+*** *** There are no other related records.  Interaction closed by Incident IM2915304"
+SD3891754,Closed,02/14/17 04:13 PM,767011.0045,02/14/17 04:19 PM,SysOps - Help Desk,Z000690836,WATLLMTC00230,HP COMPAQ 6005 STANDARD SFF,ATL/AIRPORT - A CONCOURSE/1/,A9 Line Stores,,4,,915900,KENTATSU KUDO,404,ATL,Z000690836,WATLLMTC00230,066278,ADEYINKA ADEDOTUN,software modification/reinstal,User wants to install printer,"User wants to install printer
+Added Printer with IP address 10.2.123.249",Added Printer with IP address 10.2.123.249
+SD3895892,Closed,02/16/17 02:19 PM,767011.0087,02/16/17 03:25 PM,SysOps - Help Desk,VIRTUAL PRINTER,VIRTUAL PRINTER,VIRTUAL PRINTER,PDX/AIRPORT - CONCOURSE D/1/,OPS OFFICE,4,3,4,479270,JENNY PROHASKA,503-493-2101,PDX,Z000650808,WPDXACSO00012,linker,,Software,"virtual printer not installed, user was told to do ishop but it says its already installed","virtual printer needs to be configured with the cpy printer wsine - request should go thru tpc.
+**Title from related Incident record IM2918060:
+virtual printer not installed, user was told to do ishop but it says its already installed","Related Incident IM2918060 closed.
+LDAP had no cpy printer so DLPrint was not running..  Configured CPY1 printer in LDAP and ran esmprintcfg and dlterm reinstall.  Test ok.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2918060"
+SD3897433,Closed,02/17/17 09:25 AM,767011.0086,02/17/17 09:38 AM,SysOps - Help Desk,Windows 7,Windows 7,,AGS/AIRPORT/1/,BSO,,4,,920376,ZACCHEUS HAWKINS,706-772-4747,AGS,Z000755531,WAGSBAGS00001,753680,MARK COLLINS,configuration change,user needed two printers installed,user needed two printers installed,user had IP addresses so I installed prints for him.
+SD3898605,Closed,02/17/17 04:39 PM,767011.0107,02/21/17 09:36 AM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/ADMIN CENTER/5/,,4,3,4,926578,AUSTIN SMITH,404-715-3652,ATL,Z000685732,WATLCAMP02779,linker,,Software,User tries to print and gets prompted to install drivers,"User tries to print and gets prompted to install drivers////// ref ticket IM2918997
+**Title from related Incident record IM2919352:
+User tries to print and gets prompted to install drivers","Related Incident IM2919352 closed.
+Removed old printers and re-added them back.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2919352"
+SD3901451,Closed,02/19/17 12:48 PM,767011.001,02/19/17 12:49 PM,SysOps - Help Desk,,,,,,,,,970012,MICHAEL ARNOLD,0,SEA,,,371430,KEVIN DOYLE,User Training,user unable to install 3rd party apps on surface 3,user unable to install 3rd party apps on surface 3,working as intended.
+SD3904791,Closed,02/21/17 09:07 AM,767011.0107,02/21/17 09:23 AM,SysOps - Help Desk,Z000906283,XATLCAMP07385,TOSHIBA TECRA Z40 I5-4310U,ATL/ADMIN CENTER/5/,5SE044,,4,,801117,REGINALD BENNETT,404-714-4875,ATL,Z000906283,XATLCAMP07385,169727,MESSIAH PATEL,configuration change,user is getting driver install when trying to user the printer,"user is getting driver install when trying to user the printer
+installed printer drivers",user good to go
+SD3905539,Closed,02/21/17 01:29 PM,767011.0154,02/21/17 01:59 PM,SysOps - Help Desk,Z000703095,WSLCICRW00019,HP COMPAQ 6005 STANDARD SFF,SLC/AIRPORT  - CONCOURSE C/1/,INFLIGHT FISHBOWL OFFICE,3,3,3,255703,JANET OLEVSKY,801-744-4441,SLC,Z000703095,WSLCICRW00019,linker,,Software,hp tech says he wants to give me a file to install on the users pc,"hp tech says he wants to give me a file to install on the users pc
+tech says the user has an identity problem
+the printer is used for flight attendants
+unable to open ftp ip address HP tech sent me
+transferred to sys ods to help tech
+**Title from related Incident record IM2922364:
+hp tech says he wants to give me a file to install on the users pc","Related Incident IM2922364 closed.
+provided mos tech number to mos delta team
+user says he needs admin rights to complete configuration
+
+*** *** There are no other related records.  Interaction closed by Incident IM2922364"
+SD3906898,Closed,02/22/17 07:35 AM,767011.0138,02/22/17 07:55 AM,SysOps - Help Desk,,,,,WHSE,,,,538083,VIRGINIA MITCHELL,404-714-2402,ATL,Z000910596,XATLCAMP11153,169727,MESSIAH PATEL,configuration change,user says she cant open any adobe files like its not installed anymore,"user says she cant open any adobe files like its not installed anymore
+uninstalled reinstalled",user good to go
+SD3908019,Closed,02/22/17 02:56 PM,767011.0073,02/22/17 07:57 PM,SysOps - Help Desk,Crew Mobile Apps,Crew Mobile Apps,,ATL/VIRTUAL/VIRTUAL/,,4,3,4,922203,MICHAEL FLOOD,9092979148,JFK,Z000830305,RFOPSZ000830305,linker,,Unknown,user wants to installed ms 365,"user wants to installed ms 365 provided answer
+user wants to know how to send back the surface 2 provided answer
+user wants to know how to install audio device for a dockingstation for the surface 3
+user was giving the dockingstation for surface3 and its asking for admin rights
+contacted FOP no answer put in queue
+**Title from related Incident record IM2923579:
+user wants to installed ms 365","Related Incident IM2923579 closed.
+We do not support the docking stations. Only hand them out
+
+*** *** There are no other related records.  Interaction closed by Incident IM2923579"
+SD3908364,Closed,02/22/17 05:40 PM,767011.0103,03/22/17 10:11 PM,SysOps - Help Desk,Outlook,Outlook,,OSA/VIRTUAL/VIRTUAL/,,4,3,4,140100,MASAKAZU YAMAGUCHI,81663457275,OSA,Z000739994,XOSASFAM00003,linker,,Software Distribution,User called in because MS office didnt install correctly.,"User called in because MS office didnt install correctly.
+The user stated that it was a radia push and he stopped
+the push from completing by mistake. Seems like he needs
+a reinstall of MS Office. I attached 3 pictures below.
+**Title from related Incident record IM2923737:
+User called in because MS office didnt install correctly.","Related Incident IM2923737 closed.
+reimaged.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2923737"
+SD3909679,Closed,02/23/17 11:58 AM,767011.007,02/23/17 03:55 PM,SysOps - Help Desk,Avaya Communication,Avaya Communication,,ATL/ADMIN CENTER/5/,5CW100,4,3,4,433615,TERRY WEITZEL,404-773-5359,ATL,Z000738438,XATLCAMP05309,linker,,Software,user installed avaya one-x communicator but now the phone does not have dial tone,"installed avaya one-x communicator yesterday
+but still cannot get it to work.
+unplugged and plugged in the phone and the dial tone came back
+but still user needs assistance with installation
+**Title from related Incident record IM2924499:
+user installed avaya one-x communicator but now the phone does not have dial tone","Related Incident IM2924499 closed.
+Verified phone number was setup correctly and dialing out with Avaya communicator.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2924499"
+SD3910303,Closed,02/23/17 03:52 PM,767011.0221,02/23/17 04:24 PM,SysOps - Help Desk,Z000909633,XATLCAMP10503,TECRA Z40 BROADWELL I5-5300U 8GB FHD SCREEN,,WHSE,,4,,502653,BERTRAND DUTHIERS,4046772673,ATL,Z000909633,XATLCAMP10503,169727,MESSIAH PATEL,configuration change,user says everytime he hits prints it asks him to install the drivers,"user says everytime he hits prints it asks him to install the drivers
+10.4.143.131
+reinstalled drivers",user good to go
+SD3911582,Closed,02/24/17 10:21 AM,767011.0116,02/24/17 10:37 AM,SysOps - Help Desk,Z000907077,XATLCAMP08571,TOSHIBA TECRA Z40 - 16GB,ATL/ADMIN CENTER/5/,5SW054,,4,,687905,HAROLD KENNEDY,404-677-0079,ATL,Z000907077,XATLCAMP08571,040642,JEREMY WALLACE,configuration change,Printer will not print from user's PC asking to install driver,"Printer will not print from user's PC asking to install driver
+-----------------PLEASE SEE ATTACHMENT-----------------
+ IP address : 10.12.203.240
+User has a meeting to go to and will call back
+PC does not have the universal printer there and I will have it once user calls back with more time","gave user my direct line to call back after his meeting
+Issue resolved, I was able to get the printer to print the test page with a driver"
+SD3913922,Closed,02/25/17 01:49 PM,767011.0038,02/25/17 01:54 PM,SysOps - Help Desk,,,,,,,,,625550,SHARON ROBBINS,d,FLL,,,409529,AMANDA TICE,User Training,user is getting an error that adobe need to be installed from LMS,"user is getting an error that adobe need to be installed from LMS
+-got the user the correct version to install from adobe (personal pc)
+-went over the other requirements","user is getting an error that adobe need to be installed from LMS
+-got the user the correct version to install from adobe (personal pc)
+-went over the other requirements"
+SD3918994,Closed,02/28/17 09:46 AM,767011.0099,02/28/17 10:00 AM,SysOps - Help Desk,,,,,WHSE,,,,311589,DAN KELLEY,404-677-9254,ATL,Z000902224,XATLCTPF00069,169727,MESSIAH PATEL,configuration change,user says the printer keeps asking for install drivers,"user says the printer keeps asking for install drivers
+patltvpmos1537c
+10.108.98.204
+installed drivers",user good to go
+SD3924082,Closed,03/02/17 12:25 PM,767011.0127,03/02/17 12:44 PM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/CALL CENTER/5/,BAY 3,,,,984434,TIFFANY REYNOLDS,8004552720,ATL,Z000748700,WATLRES5B3P19,331190,MASIH MAHMOODI,configuration change,adobe flash player and adobe reader did not get installed correctly on the user's computer,adobe flash player and adobe reader did not get installed correctly on the user's computer,ran remote radia on the user's computer and re-installed both softwares.
+SD3925057,Closed,03/02/17 06:16 PM,767011.0432,03/02/17 06:33 PM,SysOps - Help Desk,Windows 7,Windows 7,,,WHSE,,4,,272041,LACEY BEAN,4047144045,ATL,,,281596,WILBERT SMITH,configuration change,the user is getting the message ' pdf reader is not installed',"the user is getting the message ' pdf reader is not installed'
+
+
+the user was able to read pdf's yesterday
+
+xatlcamp07400
+
+
+call dropped while trouble shooting",call dropped while trouble shooting
+SD3925153,Closed,03/02/17 06:58 PM,767011.0065,03/02/17 07:02 PM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/TOC1/2/,C-683,,,,272041,LACEY BEAN,0,ATL,Z000728626,XATLCAMP07400,420682,JENNIFER FRETWELL,configuration change,the user is getting the message ' pdf reader is not installed',the user is getting the message ' pdf reader is not installed',Ran Radia Re-Install for PDF Reader and asked the user to restart in 30 minutes and to call back if this does not work
+SD3925931,Closed,03/03/17 08:50 AM,767011.0229,03/03/17 09:23 AM,SysOps - Help Desk,Z000728626,XATLCAMP07400,HP ELITEBOOK 8470P NOTEBOOK,ATL/TOC1/2/,C-683,,4,,272041,LACEY BEAN,4047144045,ATL,Z000728626,XATLCAMP07400,515452,KEVIN JOHNSON,reboot/recycle,he user is getting the message ' pdf reader is not installed',"SD3925057
+he user is getting the message ' pdf reader is not installed'
+he user was able to read pdf's yesterday
+xatlcamp07400
+Call dropped while trouble shooting
+logged into Radia and uninstalled and force delete adobe,
+installing adobe through Radia self service...user will call back if any issues occur...thicket closed","SD3925057
+he user is getting the message ' pdf reader is not installed'
+he user was able to read pdf's yesterday
+xatlcamp07400
+Call dropped while trouble shooting
+logged into Radia and uninstalled and force delete adobe,
+installing adobe through Radia self service...user will call back if any issues occur...thicket closed"
+SD3926741,Closed,03/03/17 02:06 PM,767011.0021,03/07/17 04:14 PM,SysOps - Help Desk,Mozilla Firefox Saftware,Mozilla Firefox Saftware,,DEL/TCS NETWORK OPERATIONS CENTER/1/,DEL TCS NOC,4,3,4,X37368,KAUSHAL TRIPATHI,4049361720,MAA,TCS01HW1030003,WDELTCSO00026,linker,,Procedure/Human Error,user needs to get firefox installed on his workstation,"kaushal Tripathi
+WDELTCSO0003
+kaushal.tripathi00@delta.com
++919717111321
+
+firefox is entitled but after running radia software will not get installed.
+**Title from related Incident record IM2933398:
+user needs to get firefox installed on his workstation","Related Incident IM2933398 closed.
+Firefox installed for Kaushall on workstation successfully.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2933398"
+SD3926882,Closed,03/03/17 03:05 PM,767011.0126,03/03/17 03:23 PM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,508222,CHRIS DILEY,715-262-3539,MSP,,,753680,MARK COLLINS,environmentals restored,helped user install chrome,helped user install chrome,he was able to install and open
+SD3927470,Closed,03/03/17 08:06 PM,767011.0017,03/03/17 08:08 PM,SysOps - Help Desk,,,,,,,,,199286,GENE BERGERON,0,ATL,,,371430,KEVIN DOYLE,configuration change,user wanting to know if he can install printer on surface 3,user wanting to know if he can install printer on surface 3,LEt user know he will be unable to load the drivers for the printer.
+SD3928303,Closed,03/04/17 11:54 AM,767011.0299,03/08/17 10:46 AM,SysOps - Help Desk,Z000908291,XMSPBLDJ01263,TECRA Z40 BROADWELL I5-5300U 8GB,MSP/BUILDING J/1/,J1C0618,4,3,4,837940,NATHANIEL AUSTIN,612 743 2779,MSP,Z000908291,XMSPBLDJ01263,linker,,Software Distribution,User has rights to complete a install of Fiddler software,"User has rights to complete a install of Fiddler software
+Request was completed on 12/2
+Group Policy is blocking access and is installing via VPN
+**Title from related Incident record IM2934208:
+User has rights to complete a install of Fiddler software","Related Incident IM2934208 closed.
+Resolved.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2934208"
+SD3931563,Closed,03/06/17 10:18 AM,767011.0064,03/06/17 10:27 AM,SysOps - Help Desk,Z000739300,XATLCAMP06988,HP ELITEBOOK REVOLVE 810G2,ATL/AIRPORT - E CONCOURSE/1/,E7 INflight (Krista Hicks),,4,,880616,KRISTA HICKS,407145785,ATL,Z000739300,XATLCAMP06988,066278,ADEYINKA ADEDOTUN,software modification/reinstal,User wants Adobe Acrobat installed,"User wants Adobe Acrobat installed
+Advised user to submit ishop request",Advised user to submit ishop request
+SD3931709,Closed,03/06/17 11:10 AM,767011.0172,03/06/17 11:35 AM,SysOps - Help Desk,Z000713307,WATLCAMP02713,HP 6305 STANDARD SFF,ATL/OC1/4/,4C088-C,,4,,622906,JOHN GIORDANO,404-773-5741,ATL,Z000713307,WATLCAMP02713,169727,MESSIAH PATEL,configuration change,user says he can't print needs to install drivers,"user says he can't print needs to install drivers
+10.7.131.241
+INSTALLED THE DRIVER",user good to go
+SD3932675,Closed,03/06/17 04:19 PM,767011.0047,03/06/17 04:26 PM,SysOps - Help Desk,Z000909575,XATLCAMP11349,TECRA Z40 BROADWELL I5-5300U 8GB FHD SCREEN,ATL/TRAINING CENTER/2/,,,4,,712372,LASHONDA HOLLEY,404-773-5336,ATL,Z000909575,XATLCAMP11349,066278,ADEYINKA ADEDOTUN,software modification/reinstal,User got new pc and needs DBMS installed,"User got new pc and needs DBMS installed
+Advised user to submit Ishop",Advised user to submit Ishop
+SD3933697,Closed,03/07/17 08:00 AM,767011.0095,03/07/17 08:14 AM,SysOps - Help Desk,IShop,IShop,,,,,4,,722597,JACQUELINE BRADFORD,4047143349,ATL,,,066278,ADEYINKA ADEDOTUN,software modification/reinstal,User wants PTOUCH printers installed on PCS,"User wants PTOUCH printers installed on PCS
+Advised user to submit an Ishop request",Advised user to submit an Ishop request
+SD3938341,Closed,03/09/17 09:04 AM,767011.0047,03/09/17 09:11 AM,SysOps - Help Desk,Z000910109,XATLCAMP10807,TECRA Z40 BROADWELL I5-5300U 8GB FHD SCREEN,ATL/TOC1/2/,RM C576 S14-56 DAVID FOSSE,,4,,310521,DAVID FOSSE,404-677-1786,ATL,Z000910109,XATLCAMP10807,331190,MASIH MAHMOODI,configuration change,user needs to get hp printer installed on the workstation,"smspresdlfp01
+hp printer installation",completed installation.
+SD3940796,Closed,03/10/17 09:11 AM,767011.0233,03/10/17 09:45 AM,SysOps - Help Desk,Websphere,Websphere,,ATL/TOC1 POWER PLANT/MEZZANINE/,ROOM G-303 MTAC,,4,,233989,JODI WINDSCHITL,404-773-6621,ATL,Z000901829,XATLCAMP06643,753680,MARK COLLINS,environmentals restored,user could not open documents because Java had failed to install,user could not open documents because Java had failed to install,uninstalled java v3 and v4 and now it is working
+SD3943118,Closed,03/11/17 08:27 AM,767011.0057,03/11/17 08:36 AM,SysOps - Help Desk,Lync,Lync,,,,,4,,565532,DERRICK SHAW,404-715-1066,ATL,Z000745273,WATLRES3B1P60,753680,MARK COLLINS,procedure enforcement,user wanted Lync installed on PC,user wanted Lync installed on PC,not in PC's catalog IShop request required.
+SD3943783,Closed,03/11/17 01:57 PM,767011.0029,03/11/17 02:01 PM,SysOps - Help Desk,EFB JEPPESEN_GEN,EFB JEPPESEN_GEN,EFB JEPPESEN,,,,,,416627,JAMES HEILBORN,336-324-7397,JFK,,,753680,MARK COLLINS,environmentals restored,user had uninstalled old JEP and installed the new ver,user had uninstalled old JEP and installed the new ver,user showing ver 8.5 new ver
+SD3944387,Closed,03/11/17 08:14 PM,767011.0061,03/11/17 08:23 PM,SysOps - Help Desk,,,,,,,,,688179,PATRICK PARMA,0,ATL,,,371430,KEVIN DOYLE,configuration change,user having issues installing jeppesen FD pro update,user having issues installing jeppesen FD pro update,"had user log out, log back in, try to install update again. Advised user to try once more, and only give it 30 mintues. IF user calls back, will likely need to be forwarded over to flightopsbusinesssupport."
+SD3944434,Closed,03/11/17 09:07 PM,767011.0017,03/14/17 08:23 PM,SysOps - Help Desk,JEPPESEN_GEN,,JEPPESEN,ATL/VIRTUAL/VIRTUAL/,,4,3,4,688179,PATRICK PARMA,817-444-7166,ATL,Z000834246,RFOPSZ000834246,linker,,Unknown,USer's device isn't installing the update to Flightdeck pro,"http://itkms.delta.com/JeppesenFliteDeckPro/Troubleshooting/EDB/0006.htm
+Had user sign out and sign in, tried to install the update, user gave it 30minutes and tried again with the log out and log in, still has the old version
+WNS status is connected.
+User currently has 8.3.2.
+Please assist/advise...
+**Title from related Incident record IM2941561:
+USer's device isn't installing the update to Flightdeck pro","Related Incident IM2941561 closed.
+x
+
+*** *** There are no other related records.  Interaction closed by Incident IM2941561"
+SD3945393,Closed,03/12/17 12:52 PM,767011.0096,03/12/17 12:59 PM,SysOps - Help Desk,,,,,,,,,229202,PATRICIA MESMER,0,JFK,,,371430,KEVIN DOYLE,configuration change,user unable to get windows updates installed on the device,user unable to get windows updates installed on the device,"had user force the device off, then cut it back on."
+SD3946360,Closed,03/12/17 09:11 PM,767011.0088,03/12/17 09:24 PM,SysOps - Help Desk,,,,,,,,,348617,DEBORAH CALLAHAN,0,SEA,,,371430,KEVIN DOYLE,configuration change,USer unable ot get apps installed on skypro,"USer unable ot get apps installed on skypro
+user has noted she's been on leave.","tried to push down via AW; user has noted when she tries to install it states something about Can't in app.
+ADvised user to reach out to tthe SkyPro desk. Provided number. Has no further inquiries."
+SD3946482,Closed,03/13/17 12:15 AM,767011.0101,03/14/17 08:34 PM,SysOps - Help Desk,Z000823797,RFOPSZ000823797,MICROSOFT SURFACE 3 10.8 INCH 4GB 128GB SSD,MSP/VIRTUAL/VIRTUAL/,,4,3,4,748836,KENNETH SCHAUF,612-385-4184,MSP,,,linker,,Unknown,User is unable to install Jeppesen Flightdeck Pro,"User is unable to install Jeppesen Flight deck Pro
+
+User is unable to install Flightdeck Pro
+User also tried to hard reboot the tablet
+No progress on the tablet after clicking on Install
+User says he has a good WIFI connection
+User clicked to install Flightdeck Pro  and it says request has been received but no progress since last day
+Hence escalating
+**Title from related Incident record IM2942535:
+User is unable to install Jeppesen Flightdeck Pro","Related Incident IM2942535 closed.
+x
+
+*** *** There are no other related records.  Interaction closed by Incident IM2942535"
+SD3946775,Closed,03/13/17 07:09 AM,767011.0137,03/13/17 07:29 AM,SysOps - Help Desk,Hardware Management Console,Hardware Management Console,,ATL/TOC1 POWER PLANT/1/,DEPT 301A WELD 7,,4,,883232,BUDDY NOCK,7702411231,ATL,Z000655365,WATLCAMP03831,169727,MESSIAH PATEL,configuration change,user says printer wont install,"user says printer wont install
+10.4.159.195",user good to go
+SD3946925,Closed,03/13/17 08:31 AM,767011.0031,03/13/17 04:34 PM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/CALL CENTER/2/,next to kitchen,4,3,4,686125,ARLETTE FURRER,404-698-0175,ATL,Z000906347,XATLRES200040,linker,,Procedure/Human Error,user wants to install printer but says there's n oip address or name on pc,"user wants to install printer but says there's no ip address or name pr metwork address on pc
+**Title from related Incident record IM2942817:
+user wants to install printer but says there's n oip address or name on pc","Related Incident IM2942817 closed.
+SHOWED USER HOW TO MAP A PRINTER W\SUCCESS.  ISSUE SOLVED.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2942817"
+SD3948441,Closed,03/13/17 05:08 PM,767011.0014,03/13/17 05:10 PM,SysOps - Help Desk,,,,,,,,,429793,ROBERT WALKER,310-568-6060,LAX,,,371430,KEVIN DOYLE,User Training,User needs adobe acrobat installed,User needs adobe acrobat installed,user  doesn't have laptop with him. Will call back when he does.
+SD3950162,Closed,03/14/17 12:10 PM,767011.0089,03/15/17 03:01 PM,SysOps - Help Desk,Z000910580,XATLCAMP10613,TECRA Z40 BROADWELL I5-5300U 8GB FHD SCREEN,ATL/ADMIN CENTER/5/,5SE212,4,3,4,483397,LUANA ROBERTS,404-747-5712,ATL,Z000910580,XATLCAMP10613,linker,,Software,User wants to install HP officejet pro portable printer to Latop,"User wants to install HP officejet printer to Laptop
+XATLCAMP10613
+Assset tag number on printer:pseasalesconc-001
+IP Address:10.70.19.31
+**Title from related Incident record IM2944385:
+User wants to install HP officejet pro portable printer to Latop","Related Incident IM2944385 closed.
+Driver installed and tested on each of the user systems below.
+
+Alana Calhoun – Alana.calhoun@delta.com - XATLCAMP11412
+Erin Ganaway - erin.ganaway@delta.com - XATLCAMP11431
+Kellcie Fields - kellcie.fields@delta.com – XATLCAMP05062
+Regan Toomer - regan.toomer@delta.com – XATLCAMP11208
+
+*** *** There are no other related records.  Interaction closed by Incident IM2944385"
+SD3950189,Closed,03/14/17 12:18 PM,767011.0023,03/14/17 12:21 PM,SysOps - Help Desk,,,,,RM 375 CUBE 9,,,,341290,AARON ALDERMAN,612-266-7550,MSP,Z000712899,XSFOLMTC00009,446242,STEPHANIE ODUM,withdrawn by user,user needs help with installing printer,"ip
+prtmspcp1012
+smpsresdlfp01
+user needs help with installing printer
+user does not have ip or printer name, will call back when he does","user does not have ip or printer name, will call back when he does"
+SD3951974,Closed,03/15/17 08:30 AM,767011.011,03/15/17 08:46 AM,SysOps - Help Desk,Z000902964,XATLCAMP08095,TOSHIBA TECRA Z40 I5-4310U,ATL/TOC3/3/,WHSE,,4,,520865,STEPHEN BEAL,404-677-0710,ATL,Z000902964,XATLCAMP08095,169727,MESSIAH PATEL,configuration change,user says java 8 continues to try and install via radia but never does,"user says java 8 continues to try and install via radia but never does
+killed radia",user good to go
+SD3952717,Closed,03/15/17 12:51 PM,767011.0162,03/15/17 03:32 PM,SysOps - Help Desk,ATTACHMATE EXTRA X TREME,ATTACHMATE EXTRA X TREME,ATTACHMATE EXTRA X TREME,LAX/AIRPORT/3/,Operations/scheduling admin of,4,3,4,491710,MELINA CURKO,310-417-7548,LAX,Z000715326,WLAXICRW00001,linker,,Software,user says that the application is coming up as not installed,"user says that the application is coming up as not installed
+tried to uninstall and reinstall the app
+checked users account and she has multiple delta profiles
+transferred to ODS
+**Title from related Incident record IM2945630:
+user says that the application is coming up as not installed","Related Incident IM2945630 closed.
+Reinstalled Attachmate
+
+*** *** There are no other related records.  Interaction closed by Incident IM2945630"
+SD3955262,Closed,03/16/17 01:10 PM,767011.0048,03/16/17 01:17 PM,SysOps - Help Desk,Crew Mobile Devices,Crew Mobile Devices,,,,,4,,432850,RONALD KURIGER,7348502170,DTW,,,169727,MESSIAH PATEL,configuration change,user wants to install the new jeppesen,"user wants to install the new jeppesen
+show user the catalog",user good to go
+SD3956335,Closed,03/16/17 10:51 PM,767011.0215,03/16/17 11:22 PM,SysOps - Help Desk,Z000736044,WATLACSO00001,HP 6305 STANDARD SFF,ATL/AIRPORT - T CONCOURSE/3/,Breakrm above Gate T5 (Walkup,,4,,697873,ERIC FISH,404-714-7346,ATL,Z000736044,WATLACSO00001,Q89236,ARUNKUMAR PALANISWAMY,configuration change,User needs assistance in installing the EDIS patch,User needs assistance in installing the EDIS patch. Installing the software in radia connect.,User needs assistance in installing the EDIS patch. Installing the software in radia connect. installed the software in admin login
+SD3957076,Closed,03/17/17 10:00 AM,767011.0031,03/17/17 10:04 AM,SysOps - Help Desk,Outlook,Outlook,,,5CE034,,,,530494,TIZIANA RODRIGUEZ,404-715-5279,ATL,Z000902940,XATLCAMP03025,753680,MARK COLLINS,Configuration Change,office 2013 installed and user could not find outlook,office 2013 installed and user could not find outlook,found and opened and put short cut in desktop
+SD3957851,Closed,03/17/17 03:06 PM,767011.0126,03/17/17 03:24 PM,SysOps - Help Desk,Attachmate,Attachmate,,ATL/ADMIN CENTER/3/,3NW072,,4,,827445,ELIZABETH GINN,404-715-8108,ATL,Z000909731,XATLCAMP11507,753680,MARK COLLINS,environmentals restored,user got new laptop and was not installed,user got new laptop and was not installed,radia needed ran and now is installing.
+SD3961088,Closed,03/19/17 01:15 PM,767011.0085,03/19/17 01:27 PM,SysOps - Help Desk,SKYPRO MOBILE_GEN,SKYPRO MOBILE_GEN,SKYPRO MOBILE,,,,,,893643,ELBA MITRANI,0,MCO,,,371430,KEVIN DOYLE,configuration change,user needs helps installing edocs,user needs helps installing edocs,walked user through the process.
+SD3962023,Closed,03/20/17 12:11 AM,767011.0087,03/20/17 12:24 AM,SysOps - Help Desk,Adobe Flash Player,Adobe Flash Player,,SIN/CALL CENTER/14/,RES BAY 7 POSITION 6,,1,,143694,AMI SAITO,XXX,SIN,Z000725818,WSINRESEBFP02,Y99981,ANUDIVYA KANAGAVEL,configuration change,User wants to install Adobe reader on her computer,"User wants to install Adobe reader on her computer
+
+Ran Radia to intsll the Adobe flash player
+Asked the user to wait till Radia is complete",Ran Radia to install the Adobe flash player
+SD3962054,Closed,03/20/17 01:10 AM,767011.0028,03/20/17 01:14 AM,SysOps - Help Desk,Adobe Flash Player,Adobe Flash Player,,SIN/CALL CENTER/14/,RES BAY 7 POSITION 6,,1,,143694,AMI SAITO,XXX,SIN,Z000725818,WSINRESEBFP02,Y99981,ANUDIVYA KANAGAVEL,User Training,User wants to check the Adobe reader installation,"User wants to check the Adobe reader installation
+
+Asked the usre to wait for sometime
+And then restart the system","Asked the usre to wait for sometime
+And then restart the system"
+SD3965319,Closed,03/21/17 12:04 PM,767011.0223,03/22/17 03:23 PM,SysOps - Help Desk,Z000909727,XATLCAMP11575,TECRA Z40 BROADWELL I5-5300U 8GB FHD SCREEN,ATL/A2/1/,1NE008,4,4,5,049449,RICK RICE,4047152249,ATL,,,linker,,Procedure/Human Error,user was told to install dropbox on their laptop,"user was told to install dropbox on their laptop. It gives an error saying user is not connected to internet. Attmpted to install as admin but still get same error. Unable to make exception in firewall for program not currently installed.
+**Title from related Incident record IM2952153:
+user was told to install dropbox on their laptop","Related Incident IM2952153 closed.
+Closing ticket: Below email sent to user advising user to submit iShop for special request.
+
+Good morning Rick,
+
+I am responding to your ticket IM2952153 – regarding installing Dropbox on your laptop. Unfortunately, Dropbox is not a Delta supportive cloud to use. Many using it for data storage purposes not IT do not support it. You will need rights to install the software onto your laptop. You may submit an iShop special request for local admin access. The IT Security team will review your request and may grant you a 7 day Admin privilege to your local laptop so you can install the Dropbox software.
+
+Many do not know this but using the free Dropbox version is only for personal usage not corporate usage. In order to use for corporate data storage, license will need to be purchased through DropBox. That’s DropBox’s policy. If you need to store important Delta related data please submit iShop in to increase your network shared drive storage (your “I” drive).
+
+*** *** There are no other related records.  Interaction closed by Incident IM2952153"
+SD3966690,Closed,03/22/17 04:39 AM,767011.0175,03/22/17 05:04 AM,SysOps - Help Desk,Z000653033,WGSPACSO00003,HP COMPAQ 6005 STANDARD SFF,,WHSE,,4,,471692,RICHARD DIETERLE,612-306-9059,MSP,Z000653033,WGSPACSO00003,Q89236,ARUNKUMAR PALANISWAMY,configuration change,Users needs to install a plug in on his computer.,Users needs to install a plug in on his computer. Tool remote logged in as admin and installaed the plug in issue fixed,Users needs to install a plug in on his computer. Tool remote logged in as admin and installaed the plug in issue fixed
+SD3967197,Closed,03/22/17 09:39 AM,767011.0095,03/22/17 09:53 AM,SysOps - Help Desk,Z000706711,WDFWRES2B3P34,HP ELITEDESK 705G1 SFF,,WHSE,,4,,084903,MARTY DIAMOND,8002211212,ATL,Z000706711,WDFWRES2B3P34,169727,MESSIAH PATEL,configuration change,user says java keeps trying to install but not working,"user says java keeps trying to install but not working
+java already installed not sure why radia running",killed radia user good to go
+SD3967464,Closed,03/22/17 11:19 AM,767011.0034,03/22/17 11:24 AM,SysOps - Help Desk,,,,,J2D0549,,,,350806,SARAH OCONNOR,612-266-3057,MSP,Z000650188,XMSPBLDJ00495,639194,KYLE CZYSCON,User Training,user couldn't find hyperion. Showed them where it was installed. oracle studio,user couldn't find hyperion. Showed them where it was installed. oracle studio,user couldn't find hyperion. Showed them where it was installed. oracle studio
+SD3968066,Closed,03/22/17 03:09 PM,767011.002,03/27/17 11:12 AM,SysOps - Help Desk,Z000455880,RZZZTOPS02462,HP ELITEPAD 1000 Z3795 128GB,ATL/TOC1/1/,hanger front desk,4,4,5,947377,TIMOTHY DUGGER,404 723 8629,ATL,Z000455880,RZZZTOPS02462,linker,,Software Distribution,user would like outlook installed on techops laptop,"user would like outlook installed on techops laptop
+FO requested for assistance
+**Title from related Incident record IM2953591:
+user would like outlook installed on techops laptop","Related Incident IM2953591 closed.
+user does not have access to be able to put corporate email on his tablet.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2953591"
+SD3970500,Closed,03/23/17 05:09 PM,767011.0228,03/23/17 05:25 PM,SysOps - Help Desk,,,,,,,,,861393,JOSHUA GLENN,9134495051,DTW,,,281596,WILBERT SMITH,configuration change,the user needs to install the flight weather viewer,"the caller did not have time
+
+will call back",will call back
+SD3976448,Closed,03/27/17 07:09 AM,767011.0061,03/27/17 07:17 AM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,,CUBE AREA BY ROOM C-418,,,,457309,TIM MEER,404-714-3324,ATL,Z000906090,XATLCAMP05950,169727,MESSIAH PATEL,configuration change,user says the adobe just keeps trying to install but never does,"user says the adobe just keeps trying to install but never does
+checked pc it kept trying to run
+killed it for user",user good to go
+SD3976742,Closed,03/27/17 09:18 AM,767011.0072,04/04/17 03:23 PM,SysOps - Help Desk,Z000905930,XATLCAMP09303,TOSHIBA TECRA Z40 I5-4310U,ATL/ADMIN CENTER/5/,5SE282,4,3,4,995415,KAREN BOOMER,404-715-9846,ATL,Z000905930,XATLCAMP09303,linker,,Software,user says there is a add in for word and excel and it hasn't been working since adobe installed,"user says there is a add in for word and excel and it hasn't been working since adobe installed
+user says she was told the adobe needs to be reinstalled but was at home
+now in the office to get it done
+user says everything was working until the adobe was pushed by radia
+spoke to ODS and ask to send to engcs
+**Title from related Incident record IM2957953:
+user says there is a add in for word and excel and it hasn't been working since adobe installed","Related Incident IM2957953 closed.
+If this user has Office 2013, then the version of Adobe Acrobat Professional they user has is not compatible with Office 2013.  We are currently in progress upgrading all Adobe Acrobat Professional users to Adobe Acrobat Professional DC which will resolve this problem.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2957953"
+SD3976877,Closed,03/27/17 10:02 AM,767011.0054,04/04/17 03:26 PM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/A2/2/,A22SW024,4,3,4,732179,PAUL WHITE,404 677 0682,ATL,Z000714727,WATLCAMP01827,linker,,Software,user getting adobe install updates freezing,"user getting adobe install updates freezing
+user states he rebooted computer
+still getting same problem- adobe updates freezes
+ran gpudate
+**Title from related Incident record IM2957987:
+user getting adobe install updates freezing","Related Incident IM2957987 closed.
+This is being resolved through an automated script
+
+*** *** There are no other related records.  Interaction closed by Incident IM2957987"
+SD3978844,Closed,03/28/17 06:51 AM,767011.0067,03/28/17 07:00 AM,SysOps - Help Desk,ACROBAT PRO_GEN,ACROBAT PRO_GEN,ACROBAT PRO,ATL/ADMIN CENTER/1/,,,,,997057,STANLEY HAYS,404-245-0019,ATL,Z000908147,XATLCAMP06403,Y99981,ANUDIVYA KANAGAVEL,User Training,User is getting a message Acrobat is installing,"User is getting a message Acrobat is installing
+
+Informed the user that the Radia is still running to install
+Asked the user to wait till the radia is complete and restart the computer",Asked the user to wait till the radia is complete and restart the computer
+SD3979362,Closed,03/28/17 10:33 AM,767011.0037,03/28/17 11:13 AM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/VIRTUAL/VIRTUAL/,,4,3,4,873265,GABRIEL MICK,404-773-2905,ATL,Z000907101,XATLCAMP04266,linker,,Software Distribution,Adobe Acrobat Pro Win will not get installed on the user's computer,"material planning
+radia attempts to push adobe installation
+and it fails and attempts over and over again
+709 return code.
+**Title from related Incident record IM2959292:
+Adobe Acrobat Pro Win will not get installed on the user's computer","Related Incident IM2959292 closed.
+Acrobate 11 installed and working ok
+
+*** *** There are no other related records.  Interaction closed by Incident IM2959292"
+SD3979772,Closed,03/28/17 01:07 PM,767011.0108,04/04/17 11:49 AM,SysOps - Help Desk,Z000909601,XCLTGSEB00001,TECRA Z40 BROADWELL I5-5300U 8GB FHD SCREEN,CLT/AIRPORT/1/,WHSE,3,3,3,997940,TIMOTHY CARTER,704 712 4847,CLT,Z000909601,XCLTGSEB00001,linker,,Unknown,"USER NEEDS HP PRINTER INSTALLED, NO DISK DRIVE","USER NEEDS HP PRINTER INSTALLED, NO DISK DRIVE
+NO NETWORK FOR HD TO REMOTE INTO
+FO REQUESTED FOR INSTALLATION
+HP M203 PRINTER
+**Title from related Incident record IM2959509:
+USER NEEDS HP PRINTER INSTALLED, NO DISK DRIVE","Related Incident IM2959509 closed.
+we have agreed to deal with this on April 10th. closing because I have a workorder to install this printer.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2959509"
+SD3982608,Closed,03/29/17 04:04 PM,767011.0247,03/30/17 10:12 AM,SysOps - Help Desk,Middleware Was Mgmt,Middleware Was Mgmt,,ATL/ADMIN CENTER/2/,2NW002,4,3,4,Y51532,JAYAKUMAR VISWANATHAN,8603716866,MSP,Z000910483,XATLCAMP10765,linker,,Software Distribution,user having issues with installing RAD on his pc,"user having issues with installing RAD on his pc
+user has it showing in radia as not installed
+tried to uninstall it in radia and reinstalling it still same problem
+**Title from related Incident record IM2961226:
+user having issues with installing RAD on his pc","Related Incident IM2961226 closed.
+Will coordinate working session as we need to pour over the enterprise dist logs to track down failure.  My theory is that client interrupted the product push (as detailed by component doc).
+
+*** *** There are no other related records.  Interaction closed by Incident IM2961226"
+SD3984486,Closed,03/30/17 01:47 PM,767011.0104,04/05/17 11:15 AM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,ATL/VIRTUAL/VIRTUAL/,,4,3,4,853988,T LINDSEY,7708425368,ATL,Z000822009,RFOPSZ000822009,linker,,Unknown,user needs to get the flite deck pro updated and get the most recent installation,"user needs to get the flite deck pro updated and get the most recent installation
+
+flite deck pro keeps closing out on the user when he attempts to update it.
+hard rebooted and the same issue occurs
+
+I reached out to Tamala via lync messenger and she suggested uninstall
+uninstalled and re-installed, user still waiting for the icon to come back  - looked in apps by name and was not in the list
+
+please advise.
+**Title from related Incident record IM2962404:
+user needs to get the flite deck pro updated and get the most recent installation","Related Incident IM2962404 closed.
+Left vm for David to callback for further assistance.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2962404"
+SD3990857,Closed,04/02/17 02:40 PM,767011.0008,04/02/17 02:41 PM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,,,,,,296038,FRANK NGO,404-773-9310,ATL,,,753680,MARK COLLINS,environmentals restored,User had issue with adobe install now no PDF's will open,User had issue with adobe install now no PDF's will open,User called and I was able to reinstall adobe 11 and re associate his PDF's to adobe instead of photoshop  User is good to go now.
+SD3991258,Closed,04/02/17 05:58 PM,767011.008,04/04/17 10:15 AM,SysOps - Help Desk,Z000420629,,HP OFFICEJET 6600 E-ALL-IN-ONE PRINTER,ONT/AIRPORT/1/,ONT   ALASKA OPS  AREA,4,4,5,780158,RICKEY MARTINEZ,909-605-7394,ONT,Z000656110,WONTDGSG00003,linker,,Hardware,User needs a printer install the one he has installed on the PC is not working,"User needs a printer install the one he has installed on the PC is not working sent serveral test prints but user says they never come out enev though they went through the Q
+**Title from related Incident record IM2965603:
+User needs a printer install the one he has installed on the PC is not working","Related Incident IM2965603 closed.
+jipatel....The user does not have a replacement printer.  User is going to do an IShop request and order one.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2965603"
+SD3994057,Closed,04/03/17 08:28 PM,767011.0038,04/03/17 08:34 PM,SysOps - Help Desk,,,,,,,,,471292,MICHAEL DUNN,0,ATL,,,371430,KEVIN DOYLE,configuration change,user wants reader to show installed for reader in the catalog,user wants reader to show installed for reader in the catalog,walked user through on how to use reader
+SD3995924,Closed,04/04/17 02:23 PM,767011.0092,04/04/17 02:37 PM,SysOps - Help Desk,Axis,AXIS,AXIS,ATL/CALL CENTER/4/,BAY 5,,0,,298069,ADRIAN SIERRA-DELAROSA,4047151116,ATL,Z000710359,WATLRES300053,639194,KYLE CZYSCON,user training,chrome is not installed so user cannot access axis chrome. reinstalled chrome through radia,chrome is not installed so user cannot access axis chrome. reinstalled chrome through radia,chrome is not installed so user cannot access axis chrome. reinstalled chrome through radia
+SD3997206,Closed,04/05/17 07:03 AM,767011.0054,04/05/17 07:10 AM,SysOps - Help Desk,Adobe Flash Player,Adobe Flash Player,,CVG/AIRPORT - B CONCOURSE/1/,B-WEST MAINT,,1,,854358,ROBERT RAINEY,859-767-4266,CVG,Z000714967,WCVGLMTC00004,Y99981,ANUDIVYA KANAGAVEL,User Training,User says he could not have Adobe Acrobat reader installed,"User says he could not have Adobe Acrobat reader installed
+
+Asked the user to Run Radia full connect
+Asked to restart the system after it is complete","Asked the user to Run Radia full connect
+Asked to restart the system after it is complete"
+SD3998775,Closed,04/05/17 03:29 PM,767011.0039,04/12/17 10:14 AM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,ATL/VIRTUAL/VIRTUAL/,,4,4,5,827298,HITOSHI SUDA,3605733737,LAX,,,linker,,Software Distribution,"User's efb is unable to install jeppesen, currently has WNS disconnect so unable to reinstall after","User's efb is unable to install jeppesen, currently has WNS disconnect so unable to reinstall after he uninstalled it before  calling us. creating ticket so he can get a loaner before we fix jeppesen issue
+**Title from related Incident record IM2969446:
+EFB - User's efb is unable to install jeppesen","Related Incident IM2969446 closed.
+Jeppesen is installed to the tablet in v8.3.2 which is currently useable til the patch later this month
+For any other issues please call 404-714-4357
+
+*** *** There are no other related records.  Interaction closed by Incident IM2969446"
+SD4001238,Closed,04/06/17 01:29 PM,767011.0043,04/06/17 01:35 PM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,684837,G PAPPAS,000-000-0000,LGA,,,799286,ABNER HEARN,User Training,Information Only_user wanted to install bid software on efb_admin rights prevented user from install,"Information Only_user wanted to install bid software on efb_admin rights prevented user from install
+Directed user to contact Pilot Support but admin rights is still being accessed","Information Only_user wanted to install bid software on efb_admin rights prevented user from install
+Directed user to contact Pilot Support but admin rights is still being accessed"
+SD4001570,Closed,04/06/17 03:07 PM,767011.0106,04/28/17 04:09 PM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,ATL/VIRTUAL/VIRTUAL/,,4,3,4,411610,MORRIS TROTTER,404-715-9651,LAX,,,linker,,Unknown,user attempting to install or update reader.,"user attempting to install or update reader. it says ""processing"" on delta catalogue. on airwatch it lists ""failed to install"" user is up to date on windows updates. rebooted machine attempted install again. failed to install again.
+**Title from related Incident record IM2971347:
+user attempting to install or update reader.","Related Incident IM2971347 closed.
+Left vm for pilot to callback for further assistance.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2971347"
+SD4002921,Closed,04/07/17 07:32 AM,767011.0176,04/07/17 07:58 AM,SysOps - Help Desk,Radia,Radia,,ATL/ADMIN CENTER/1/,1SW222,,2,,908824,SCOTT WILSON,404-715-6710,ATL,Z000907875,XATLCAMP08369,753680,MARK COLLINS,environmentals restored,user has rada installing adobe,user has rada installing adobe,showed user how to kill radia but also explained needed to run and finish
+SD4006955,Closed,04/09/17 01:41 AM,767011.0154,04/17/17 02:00 PM,SysOps - Help Desk,SKYPRO MOBILE_GEN,SKYPRO MOBILE_GEN,SKYPRO MOBILE,HNL/VIRTUAL/VIRTUAL/,,4,3,4,563493,MARI WATANABE,808 783 6486,HNL,,,linker,,Software,User unable to install airwatch application,"User unable to install airwatch application . She acidently uninstalled it. she needs to instal thje airwatch and email confiugured. Caller having issues with Content Locker. Aldo getting message says license expired.
+
+Hence escalating
+**Title from related Incident record IM2974193:
+User unable to install airwatch application","Related Incident IM2974193 closed.
+issue was fixed by skyprofessor in HNL
+
+*** *** There are no other related records.  Interaction closed by Incident IM2974193"
+SD4009513,Closed,04/10/17 08:42 AM,767011.0215,04/10/17 09:13 AM,SysOps - Help Desk,Mobile - Cell Phone,Mobile - Cell Phone,,,,,3,,347010,JENNIFER ROSAGE,7166650872,ATL,,,169727,MESSIAH PATEL,configuration change,user has a samsung and getting the message certificate not installed,"user has a samsung and getting the message certificate not installed
+unable to encrpt message certicate not installed when user in emails now
+it did a update last night",user good to go
+SD4011122,Closed,04/10/17 05:15 PM,767011.0781,04/10/17 06:00 PM,SysOps - Help Desk,Z000911389,XATLCAMP00942,TECRA Z40 BROADWELL I5-5300U 8GB FHD SCREEN,ATL/VIRTUAL/VIRTUAL/,VOE Barbara Wobrock,,4,,804634,BARBARA WOBROCK,678-427-2550,ATL,Z000911389,XATLCAMP00942,522830,DIAMOND CRANE,User Training,user would like to install the wireless printer on her computer,user would like to install the wireless printer on her computer,I added the printer to the users computer as requested.
+SD4012648,Closed,04/11/17 11:28 AM,767011.0129,04/11/17 11:47 AM,SysOps - Help Desk,IShop,IShop,,MSP/BUILDING C - SHOPS/1/,tool crib,,4,,615293,THOMAS OCONNOR,612-619-1752,MSP,Z000676394,WMSPBLDC00256,169727,MESSIAH PATEL,configuration change,user is trying to install prizm viewer for my  boeing flight,"user is trying to install prizm viewer for my  boeing flight
+user says he has tried all the directions and its still not working",put in ishop request
+SD4013495,Closed,04/11/17 04:24 PM,767011.0073,04/12/17 09:46 AM,SysOps - Help Desk,Z000906909,XSTIACSB00001,TOSHIBA TECRA Z40 I5-4310U,STI/AIRPORT/1/,STM LUIS RODRIGUEZ LAPTOP,3,3,3,862317,ROBERTO RODRIGUEZ,8092338485,STI,Z000906909,XSTIACSB00001,linker,,Software,user needs to get hp printer purchased locally installed on the set,"HP Deskjet model 4640 series
+local printer needs to be installed on the set please.
+**Title from related Incident record IM2977399:
+user needs to get hp printer purchased locally installed on the set","Related Incident IM2977399 closed.
+loaded Deskjet 4640 on laptop and another HP driver on set #8
+
+*** *** There are no other related records.  Interaction closed by Incident IM2977399"
+SD4015773,Closed,04/12/17 03:57 PM,767011.0079,04/13/17 10:33 AM,SysOps - Help Desk,PhoneNotification,PhoneNotification,,MSP/BUILDING J/1/,WHSE,4,3,4,454532,SCOTT WERNER,404-773-0423,MSP,,,linker,,Procedure/Human Error,user says his phone is routed to someone else like a phone was install but his number was used,"user says his phone is routed to someone else like a phone was install but his number was used
+user has a speaker phone and the number is 6122663683
+user says when ppl call it now someone else answers or it goes to voice called number *3683
+when i called the number user ID 977067
+**Title from related Incident record IM2978559:
+user says his phone is routed to someone else like a phone was install but his number was used","Related Incident IM2978559 closed.
+Phone number was not correct that Scott was using.  TT'd the correct number into conf phone.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2978559"
+SD4016411,Closed,04/12/17 11:07 PM,767011.0061,04/13/17 11:02 AM,SysOps - Help Desk,Z000830138,,MICROSOFT SURFACE 3 10.8 INCH 4GB 128GB SSD,JFK/AIRPORT - TERMINAL 1/1/,WHSE,4,3,4,923277,QUENTIN MYERS,817 689  9846,JFK,Z000830138,,linker,,Unknown,User unable to install the content locker,"User unable to install the content locker. User tried to hard reboot and EFB mutiple times and tried to reinstall. It shows it is installed but not in the home screen. User unable to follow the instructions. Hence escalating
+**Title from related Incident record IM2978852:
+User unable to install the content locker","Related Incident IM2978852 closed.
+ordering a replacement.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2978852"
+SD4026474,Closed,04/18/17 08:03 AM,767011.0121,04/25/17 01:27 PM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/TOC3/3/,"DEPT. 231, CSR AREA, RM. P-301",4,3,4,690924,KAREEM MCDOLE,404-909-3473,ATL,Z000718727,XATLCAMP03082,linker,,Software,Adobe Acrobat not installing through Radia on user's laptop,"Adobe Acrobat not installing through Radia on user's laptop....Uninstalled/Reinstalled adobe acrobat through Radia remote console
+**Title from related Incident record IM2983445:
+Adobe Acrobat not installing through Radia on user's laptop","Related Incident IM2983445 closed.
+Adobe Acrobat Professional DC is now installed properly on this machine
+
+*** *** There are no other related records.  Interaction closed by Incident IM2983445"
+SD4026789,Closed,04/18/17 10:17 AM,767011.004,04/18/17 10:23 AM,SysOps - Help Desk,IShop,IShop,,,,,4,,718842,KYLE SMITH,4049094360,ATL,,,169727,MESSIAH PATEL,User Training,user wants admin rights to install fonts,user wants admin rights to install fonts,advised ishop request
+SD4031568,Closed,04/20/17 09:44 AM,767011.0134,04/20/17 10:03 AM,SysOps - Help Desk,Radia,Radia,,,4S122,,2,,863208,UCHENNA ROMAINE,404-677-7559,ATL,Z000906275,XATLCAMP07444,169727,MESSIAH PATEL,configuration change,user says radia is trying to install adobe,"user says radia is trying to install adobe
+got on pc and helped installed",user good to go
+SD4031738,Closed,04/20/17 10:43 AM,767011.0021,04/20/17 10:46 AM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,,,,,,174920,TAKERU MATSUHASHI,612-266-8736,ATL,,,799286,ABNER HEARN,User Training,ADOBE READER_GEN_information Only_told user to run full radia connect_silverlight affecting install,ADOBE READER_GEN_information Only_told user to run full radia connect_silverlight affecting install,ADOBE READER_GEN_information Only_told user to run full radia connect_silverlight affecting install
+SD4033572,Closed,04/21/17 04:04 AM,767011.0091,04/21/17 04:17 AM,SysOps - Help Desk,Z000908965,XLONFINC00002,TOSHIBA PORTEGE Z30 BROADWELL I5-5300U 8GB,LON/ARO METRO BUILDING HAMMERSMITH/1/,Installed M Avola,,4,,199695,MAX AVOLA,442082374609,LON,Z000908965,XLONFINC00002,Q89236,ARUNKUMAR PALANISWAMY,configuration change,User needsacrobat reader installed on computer.,User to acrobat reader installed on computer. installed in radia with backend. If the issue persists user will call back,User needs acrobat reader installed on computer. installed in radia with backend. If the issue persists user will call back
+SD4034636,Closed,04/21/17 12:48 PM,767011.0019,04/21/17 12:51 PM,SysOps - Help Desk,Safetrac AC Load Desk,Safetrac AC Load Desk,,,,,2,,710964,NOREEN BESNER,973-430-3911,EWR,,,753680,MARK COLLINS,environmentals restored,user could not open loadtrc because firefox was not installed,user could not open loadtrc because firefox was not installed,had to install fire fox
+SD4035721,Closed,04/21/17 10:32 PM,767011.0049,04/21/17 10:39 PM,SysOps - Help Desk,Radia,Radia,,,,,4,,701691,JEFFERY WILLIAMS,612-730-1605,MZJ,Z000660250,XBYHLMTC00001,Q89236,ARUNKUMAR PALANISWAMY,configuration change,User needs to install adobe player on the computer.,User needs to install adobe player on the computer. Installed the adobe player with radia,User needs to install adobe player on the computer. Installed the adobe player with radia
+SD4037156,Closed,04/22/17 09:31 PM,767011.0036,04/22/17 09:36 PM,SysOps - Help Desk,Mobile - Cell Phone,Mobile - Cell Phone,,,,,4,,149814,KARIN ZULLO,770-639-9115,ATL,,,Q89236,ARUNKUMAR PALANISWAMY,configuration change,User needs assistance in installing the air watch applciation in iphone.,User needs assistance in installing the air watch applciation in iphone. Sent him the steps. User will call back if any issues,User needs assistance in installing the air watch applciation in iphone. Sent him the steps. User will call back if any issues
+SD4041379,Closed,04/25/17 12:12 AM,767011.0091,04/25/17 12:25 AM,SysOps - Help Desk,Crew Distance Learning,Windows 7,,,,,4,,157622,JOEL WIGER,xxx,MSP,,,Y99981,ANUDIVYA KANAGAVEL,user training,User wants to install the thumb drive on the home computer,"User wants to install the thumb drive on the home computer
+
+User is unbale to complete the installtion
+It is stuck in Step 7 saying ""Verifying Please wait""
+Asked the user to wait for sometime and call us if it doesnot work","It is stuck in Step 7 saying ""Verifying Please wait""
+Asked the user to wait for sometime and call us if it doesnot work"
+SD4041396,Closed,04/25/17 01:13 AM,767011.0028,04/25/17 08:48 AM,SysOps - Help Desk,Crew Distance Learning,Crew Distance Learning,,MSP/AIRPORT - A CONCOURSE/1/,,4,3,4,157622,JOEL WIGER,651-257-7425/651-245-3057,MSP,,,linker,,Software,User is unable to install the thumb drive on the personal computer,"User is unable to install the thumb drive on the personal computer
+
+User is able to install till Step 6
+But it doesnot proceed after Step 6, it says ""Verifying Please wait""
+Tried to unplug &replug the thumb drive
+Still the same
+Hence escalating
+**Title from related Incident record IM2991105:
+User is unable to install the thumb drive on the personal computer","Related Incident IM2991105 closed.
+Bypass and credit
+
+*** *** There are no other related records.  Interaction closed by Incident IM2991105"
+SD4044770,Closed,04/26/17 10:39 AM,767011.0082,04/26/17 10:51 AM,SysOps - Help Desk,Information Technology,,,,MICHELE MEJIAS 930691,,,,930691,MICHELE MEJIAS,404,ATL,Z000912135,XATLCAMP11746,331190,MASIH MAHMOODI,configuration change,user needs to install a printer to laptop,"user needs to install a printer to laptop
+hp envy 7640 printer
+remotely.",updated the ishop requesr
+SD4044914,Closed,04/26/17 11:27 AM,767011.002,04/26/17 11:30 AM,SysOps - Help Desk,Crew Mobile Devices,Crew Mobile Devices,,,,,4,,575755,THOMAS SCHMELTZ,4697666079,ATL,,,169727,MESSIAH PATEL,user training,user says flight deck pro wont install,user says flight deck pro wont install,explained to uninstall and reinstall
+SD4045168,Closed,04/26/17 12:46 PM,767011.0056,04/26/17 01:05 PM,SysOps - Help Desk,Z000753037,WSLCLMTC00050,HP ELITEDESK 705G1 SFF,SLC/AIRPORT  - CONCOURSE D/1/,D- STORES,4,2,3,409680,MATA TIMOTEO,801-744-4474,SLC,wslclmtc00050,,linker,,Hardware,User printer setting are incorrect - on a replacement pritner - this was installed yesterday,"User printer setting are incorrect - on a replacement pritner
+She always has to select the tray - tried some other setting and still not workn
+User said this is a high Priority because they get orders send to this printer
+HPLJ M605
+**Title from related Incident record IM2993224:
+User printer setting are incorrect - on a replacement pritner - this was installed yesterday","Checking on the status of my missing folders. Don't have ticket nbr. This has been an issue since Monday 4/24 and the latest communication was that IBM Exchange was going to initiate a time stamp recovery. The missing folders are critical to our operation. These contain documents we receive from Engineering and distribute to my team for manual revisions. Just need an estimate on this recovery. Thx!
+Related Incident IM2993224 closed.
+logged into printer. set paper trays to Any Type instead of Plain. Print jobs now print without pausing.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2993224"
+SD4045472,Closed,04/26/17 02:42 PM,767011.0038,04/26/17 04:29 PM,SysOps - Help Desk,HP-DL04090,PLAXCGOMOSCGOADMNC-01,HP COLOR LASERJET CP3525X,LAX/CARGO/1/,ADMIN PL OFC,3,3,3,133349,STEPHEN KELTON,310-258-6009,LAX,HP-DL04090,PLAXCGOMOSCGOADMNC-01,linker,,Procedure/Human Error,user says a new printer was dopped off but no one installed it,"user says a new printer was dopped off but no one installed it
+user says the old printer is also there
+the new one is just sitting on the floor
+**Title from related Incident record IM2993348:
+user says a new printer was dopped off but no one installed it","Related Incident IM2993348 closed.
+4/26 This is a duplicate ticket, closing this ticket and leaving IM2963842 open.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2993348"
+SD4047490,Closed,04/27/17 12:52 PM,767011.0188,04/27/17 01:19 PM,SysOps - Help Desk,ATTACHMATE EXTRA X TREME,ATTACHMATE EXTRA X TREME,ATTACHMATE EXTRA X TREME,,,,,,599967,POOBESH KUMAR,404-715-4473,ATL,,,178226,AFOLABI BENSON,configuration change,User requesting attachmate my extra to be installed,"q914869
+-now he needs access to the APP
+-it's already entitled
+logged into Radia-uninstall, force del & let Radia connect install them again","q914869
+-now he needs access to the APP
+-it's already entitled
+logged into Radia-uninstall, force del & let Radia connect install them again"
+SD4048116,Closed,04/27/17 04:30 PM,767011.0141,04/28/17 11:05 AM,SysOps - Help Desk,Radia,Radia,,ATL/VIRTUAL/VIRTUAL/,,4,4,5,183830,DEBRA AVANT,6784688919,ATL,Z000749457,HATLRWAH00861,linker,,Unknown,user does not have ms lync installed after getting workstation back,"user does not have ms lync installed after getting workstation back
+all other applications seem to be installed
+unable to install via radia, user ran full connect, application not available on remote radia or self service manager
+**Title from related Incident record IM2994761:
+user does not have ms lync installed after getting workstation back","Related Incident IM2994761 closed.
+The user will have to submit an IShop.  Our records does not indicate Lync was ever ordered and an approval would be needed.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2994761"
+SD4049823,Closed,04/28/17 12:17 PM,767011.0098,05/04/17 11:28 AM,SysOps - Help Desk,Z000656826,WATLCAMP05465,HP COMPAQ 6005 STANDARD SFF,ATL/TOC1 POWER PLANT/MEZZANINE/,ROOM G-401 DAN LINDLY,4,3,4,477729,DAN LINDLY,404-714-5613,ATL,Z000656826,WATLCAMP05465,linker,,Software Distribution,User gets constant radia install prompts,"User gets constant radia install prompts about updating or installing Java, but it always fails citing some sort of method error.
+Attempted via radia console and also via ESD folder on machine, still fails to install
+Please assist/advise...
+**Title from related Incident record IM2995694:
+User gets constant radia install prompts","Related Incident IM2995694 closed.
+User is going to move process to different machine and once done we can reimage machine. User just received a replacement machine for running the processes.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2995694"
+SD4058873,Closed,05/02/17 04:12 PM,767011.0164,05/03/17 09:45 AM,SysOps - Help Desk,Z000905117,XATLCTPF00149,TOSHIBA TECRA Z40 I5-4310U,ATL/TRAVELPORT GALLERIA - 300/15/,0000,4,3,4,893384,JORDAN HARRELSON,4046779456,ATL,,,linker,,Unknown,the user gets a message ' needs to install a driver',"the user gets a message ' needs to install a driver'
+
+tied  to install teh printer
+PATLTVPMOS1515C-01 on satltocdlps05
+
+mapped the printer /sent a test ///did not print
+**Title from related Incident record IM2999422:
+the user gets a message ' needs to install a driver'","Related Incident IM2999422 closed.
+Actually, it started working for me. Dunno what the issue was, but a fix is a fix. I’m sure you’ll hear from Laura Hall or a few others in the Galleria if their problems still persist.
+
+Thank you
+Jordan Harrelson
+
+*** *** There are no other related records.  Interaction closed by Incident IM2999422"
+SD4064986,Closed,05/05/17 11:12 AM,767011.0045,05/10/17 11:39 AM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,ATL/VIRTUAL/VIRTUAL/,,4,3,4,977928,ABEL HAMID,404-377-7494,ATL,,,linker,,Unknown,EFB - user update Flideck Pro and now see's in VM Ware catalog  icon for  N/A auto installed app,"EFB - user update Flideck Pro and not see in VM Ware catalog  icon for  N/A auto installed app
+User has never seen this and wants to make sure it is ok...
+
+flightdeck pro 8.5 update
+VM ware app catolog - never seen - N/A auto installed app
+**Title from related Incident record IM3003068:
+EFB - user update Flideck Pro and now see's in VM Ware catalog  icon for  N/A auto installed app","Related Incident IM3003068 closed.
+X
+
+*** *** There are no other related records.  Interaction closed by Incident IM3003068"
+SD4065093,Closed,05/05/17 11:54 AM,767011.006,05/05/17 12:02 PM,SysOps - Help Desk,MOBILE_GEN,MOBILE_GEN,MOBILE,,,,,,739419,GERALYN KINGSTON,301-854-9646,WAS,,,331190,MASIH MAHMOODI,configuration change,user needs to install delta email on her corporate phone,"workspace services
+user needs to install delta email on her corporate phone
+
+followed the instructions to install aw agent and updated the password in delta email",user was able to install delta email on her phone and received email on the phone.
+SD4070158,Closed,05/08/17 06:59 AM,767011.0035,05/08/17 07:04 AM,SysOps - Help Desk,IShop,IShop,,,,,4,,750996,HENRY LASTER,750996,ATL,,,169727,MESSIAH PATEL,user training,user says the adobe has been installed but he still can't get into the master request form,"user says the adobe has been installed but he still can't get into the master request form
+user says his ishop request was completed q1056378
+user ishop request is showing pending user approval",advised user to reply to ishop request
+SD4071016,Closed,05/08/17 11:50 AM,767011.002,05/08/17 11:53 AM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,136073,LEO LAMBERT,7705920342,ATL,,,331190,MASIH MAHMOODI,configuration change,flite deck pro is not installing - user cannot update FDP,WNS is disconnected - update for the fdp,user was able to get into fdp and had it updated/
+SD4071184,Closed,05/08/17 12:42 PM,767011.0202,05/09/17 10:02 AM,SysOps - Help Desk,Z000905066,XATLCAMP02427,TOSHIBA TECRA Z40 I5-4310U,ATL/TOC1/2/,Room C-633,4,3,4,904797,GUY SIEWE,404 791 7485,ATL,Z000905066,XATLCAMP02427,linker,,Software Distribution,IM2984725 - User did not received all of the prevously installed apps after laptop replacement,"IM2984725 - User did not received all of the prevously installed apps after laptop replacement
+SAS
+Teradata SQL assistant
+Engaged ODS (Cleon)
+
+Had admin rights to install: Sublime and Notepad ++ himself
+**Title from related Incident record IM3005741:
+IM2984725 - User did not received all of the prevously installed apps after laptop replacement","Related Incident IM3005741 closed.
+Cust confirmed SAS and Teradata are working
+
+*** *** There are no other related records.  Interaction closed by Incident IM3005741"
+SD4072894,Closed,05/09/17 07:51 AM,767011.0295,05/09/17 08:06 AM,SysOps - Help Desk,Windows 7,Windows 7,,ALB/AIRPORT/1/,BAG ROOM,,4,,690537,KERMIT OBENG,xxxxx,ALB,Z000681211,WALBBAGR00001,Q89236,ARUNKUMAR PALANISWAMY,configuration change,User needs assistance in installing the internet explorer and make it as default browser.,User needs assistance in installing the internet explorer and make it as default browser. Check the user computer and was able to see IE was not installed.  So informed user to raise an ishop request,User needs assistance in installing the internet explorer and make it as default browser. Check the user computer and was able to see IE was not installed.  So informed user to raise an ishop request
+SD4076871,Closed,05/10/17 03:28 PM,767011.0133,05/10/17 03:48 PM,SysOps - Help Desk,Windows 7,Windows 7,,MSP/VIRTUAL/VIRTUAL/,WFH kristine daligdig,,4,,053209,KRISTINE DALIGDIG,404-209-3400,MSP,Z000759569,HMSPRWAH00199,329134,BRIAN CARSTENS,configuration change,User computer keeps running to install Adobe Flash Player,"User computer keeps running to install Adobe Flash Player
+rebooted  a coupel times",Did a Kill of the Radia -
+SD4078342,Closed,05/11/17 10:15 AM,767011.005,05/16/17 10:27 AM,SysOps - Help Desk,Z000428725,KLSETKD40A003,SITA D4 KIOSK V-3,LSE/AIRPORT/1/,tkt counter,3,3,3,078178,TYLER PAYNE,651-366-0067,LSE,,,linker,,Hardware,the user has installed a new kiosk,"the user can not print
+
+
+the kiosk continues to beep
+**Title from related Incident record IM3009655:
+KLSETKD40A003 D4 kiosk - the user has installed a new kiosk","Related Incident IM3009655 closed.
+Kiosk has been delivered.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3009655"
+SD4079355,Closed,05/11/17 03:20 PM,767011.0044,05/15/17 12:28 PM,SysOps - Help Desk,Z000404763,,NEC NP200 PROJECTOR,DCA/AIRPORT/1/,RAMP TRAINING ROOM,3,4,4,873612,ALEJANDRO ROMERO,703-419-6121,DCA,Z000694338,WDCAACSO00009,linker,,Hardware,User needs projector installed,"User is calling to install the projector in the training room
+
+User would like a field engineer to assist with the issue
+
+Location: Ramp training room, B7-676
+**Title from related Incident record IM3010026:
+User needs projector installed","Related Incident IM3010026 closed.
+the room already has a projector.  tried to call but no one is answering.  will try again tomorrow morning
+
+Business advised needs to complete an iShop request as currently project below water mark.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3010026"
+SD4079490,Closed,05/11/17 04:15 PM,767011.0014,05/11/17 07:23 PM,SysOps - Help Desk,PROJECTOR_GEN,PROJECTOR_GEN,PROJECTOR,MSP/BUILDING C - TOWER/5/,rm 5711,4,3,4,622579,CYNTHIA MAIERS,6127271336,HDQ,,,linker,,Hardware,"user has replacement bulb, needs it installed","classroom 1 or room 5711, user has bulb but needs it installed. user will leave bulb on podium
+**Title from related Incident record IM3010093:
+user has replacement bulb, needs it installed","Related Incident IM3010093 closed.
+Replaced bulb, reset counter
+
+*** *** There are no other related records.  Interaction closed by Incident IM3010093"
+SD4080857,Open - Linked,05/12/17 09:58 AM,767011.0237,,SysOps - Help Desk,Windows 7,Windows 7,,ATL/TRAINING CENTER/3/,rm327,4,3,4,217906,HANK OSTERLUND,404-750-2904,ATL,Z000739406,XATLCAMP05871,,,,user has Google earth Pro installed and cannot get open it in Open GL mode,user has Google earth Pro installed and cannot get open it in Open GL mode   room 737 flatpannal training room rm327,
+SD4084156,Closed,05/13/17 07:17 PM,767011.0081,05/13/17 07:28 PM,SysOps - Help Desk,HP-DL25148,PMSPFTOMOS06946M-01,HP LASERJET MONO MFD M527F,MSP/AIRPORT - C CONCOURSE/,BELOW GATE C5 MAINTENANCE AREA,,4,,548725,SCOTT WETTERBERG,612-770-1334,MSP,Z000658732,WMSPLMTC00025,753680,MARK COLLINS,environmentals restored,user needs a printer installed,user needs a printer installed,set up printer via IP address
+SD4086226,Closed,05/15/17 06:45 AM,767011.0048,05/15/17 06:49 AM,SysOps - Help Desk,ARIBA,ARIBA,,,,,3,,000000,No User,xxx,,,,499602,JANANI BALAKRISHNAN,User Training,USer wants to install the app in phone,Asked to raise request to get access user agree.,Asked to raise request to get access user agree.
+SD4090040,Closed,05/16/17 12:02 PM,767011.0043,05/19/17 04:17 PM,SysOps - Help Desk,Z000442666,WWYSTFKT00001,ET7000 RFID BAGTAG PRINTER,WYS/AIRPORT/1/,Station 1,3,4,4,055261,CAROLYN PINSON,4067561467 ext 14,FCA/AIRPORT/1/,Z000442664,WFCATKFT00001,linker,,Hardware,User called in bwecause bagtag printer states it need a new printhead installed,"User called in bwecause bagtag printer states it need a new printhead installed
+**Title from related Incident record IM3014876:
+User called in bwecause bagtag printer states it need a new printhead installed","Related Incident IM3014876 closed.
+Michelle was able to swap the printer and we confirmed that it's printing normally.  Defective received back to SLC.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3014876"
+SD4091390,Closed,05/16/17 07:41 PM,767011.0035,05/19/17 12:08 PM,SysOps - Help Desk,Z000428814,KLSETKD40A003,SITA D4 KIOSK V-3,LSE/AIRPORT/1/,ticket counter,4,3,4,943253,COLLIN JAHNKE,608-781-4774,LSE,,,linker,,Hardware,User got a Replacement KIOSK -and it will not install,"User got a Replacement KIOSK -and it will not install - Getting error- build not trusted
+I was unable to remote to the device -
+User got a Replacement KIOSK - I was unable to find a IM on this =
+IM
+**Title from related Incident record IM3015372:
+KLSETKD40A003 D4 kiosk - User got a Replacement KIOSK -and it will not install","Related Incident IM3015372 closed.
+Kiosk has been replaced.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3015372"
+SD4093105,Closed,05/17/17 01:32 PM,767011.0227,05/26/17 10:00 AM,SysOps - Help Desk,Z000737922,WATLRES2B6P16,HP 6305 STANDARD SFF,ATL/CALL CENTER/2/,BAY 6,4,3,4,667495,JERRY LIBURD,404-715-8837,ATL,Z000737922,WATLRES2B6P16,linker,,Hardware,User machine is stating installing windows and does nothing after.,"User machine is stating installing windows and does nothing after.
+The user goes to open outlook and get an error station that another application
+is installing. The user statehed that he was able to get into email earlier that day
+**Title from related Incident record IM3016321:
+User machine is stating installing windows and does nothing after.","Related Incident IM3016321 closed.
+Rebuild is complete
+
+*** *** There are no other related records.  Interaction closed by Incident IM3016321"
+SD4093612,Closed,05/17/17 04:28 PM,767011.0123,05/19/17 03:25 PM,SysOps - Help Desk,Z000902824,XATLCAMP03054,TOSHIBA TECRA Z40 ULTRABOOK LAPTOP,ATL/TOC1/2/,offic C-401E,4,3,4,466128,TELEETA ADAMS,404-714-3155,ATL,Z000902824,XATLCAMP03054,linker,,Unknown,the user called in because her workstation needs print installed.,"the user called in because her workstation needs print installed.
+The user stated that she was able to print to the printer yesterday
+The printer name the user is referencing is patltocmos18824c-01
+and patltocmos20333c-01
+I was unable to remote into the user machine because I kept recieving a
+time out request.
+**Title from related Incident record IM3016556:
+the user called in because her workstation needs print installed.","Related Incident IM3016556 closed.
+another tech fixed the problem
+
+*** *** There are no other related records.  Interaction closed by Incident IM3016556"
+SD4093979,Closed,05/17/17 07:26 PM,767011.0028,05/31/17 06:33 AM,SysOps - Help Desk,HP-DL25796,PMEMFTOMOSSKYCLUBM-02,HP LASERJET PRO MFP M426FDN,MEM/MAIN TERMINAL/1/,SKYCLUB MGR OFFICE,4,4,5,208208,TAMISHA MORRIS,901-922-0201,MEM,,,linker,,Procedure/Human Error,User needs someone to remove old Printer a new one was just installed,"User needs someone to remove old Printer a new one was just installed
+Tech advised to open a ticket
+**Title from related Incident record IM3016685:
+User needs someone to remove old Printer a new one was just installed","Related Incident IM3016685 closed.
+It was determined by the regional skyclub manager that this printer should not be removed. And this should not have been a IM ticket.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3016685"
+SD4094141,Closed,05/17/17 09:43 PM,767011.0172,06/02/17 07:11 AM,SysOps - Help Desk,IShop,IShop,,ATL/VIRTUAL/VIRTUAL/,,4,3,4,T91380,EMMANUEL PORTILLO,(+63) 916 626 7931,ATL,VM00006437,VMSPITWB00145,linker,,Software,RAD application is not installed properly on user pc,"user stated that the RAD application is not showing on user pc
+user raised and ishop request for installation-Q1028360 and has been closed
+when checked on Radia in the back end the software has been installed to user machine
+ran the complete radia on user machine and restaretd and checked but still the software is missing
+kindly help the user
+**Title from related Incident record IM3016863:
+RAD application is not installed properly on user pc","Related Incident IM3016863 closed.
+RAD is now installed correctly to the VM.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3016863"
+SD4097048,Closed,05/19/17 05:29 AM,767011.0017,05/19/17 05:32 AM,SysOps - Help Desk,Windows 7,Windows 7,,,,,4,,791392,JEREMIAH EDWARDS,310-417-7426,LAX,,,Q89236,ARUNKUMAR PALANISWAMY,User Training,User needs firefox to be installed on the computer,User needs firefox to be installed on the computer. informed the user to raise an ishop,User needs firefox to be installed on the computer. informed the user to raise an ishop
+SD4103398,Closed,05/22/17 06:16 AM,767011.0022,05/22/17 12:30 PM,SysOps - Help Desk,Z000404237,WBRDGATE00001,DESKO BOARDING PASS VALIDATOR,BRD/AIRPORT/1/,GATE 1,3,3,3,604312,SANDRA STAVIG,2188287748,BRD,Z000404237,WBRDGATE00001,linker,,Unknown,user says gate reader is not working keeps getting error message installation,"user says gate reader is not working keeps getting error message installation
+user says she needs some to come take a look at it
+user rebooted the machine multiple times
+**Title from related Incident record IM3021207:
+user says gate reader is not working keeps getting error message installation","Related Incident IM3021207 closed.
+J. Hendrickson - Gate Reader is working as it should, Tested all systems without issue
+
+*** *** There are no other related records.  Interaction closed by Incident IM3021207"
+SD4104584,Closed,05/22/17 12:56 PM,767011.0052,05/30/17 03:01 PM,SysOps - Help Desk,SECURITY CERTIFICATE_GEN,SECURITY CERTIFICATE_GEN,SECURITY CERTIFICATE,ATL/TOC2/1/,,4,3,4,903360,BILL GEORGE,4047143705/678-677-7821,ATL,,,linker,,Unknown,user unable to send email or login Jun  Unable to sign or encrypt message certificate not installed,"user unable to send email or login Juno   Error - Unable to sign or encrypt message certificate not installed
+
+Tried to call ODS and no one was available
+**Title from related Incident record IM3021722:
+user unable to send email or login Jun  Unable to sign or encrypt message certificate not installed","Related Incident IM3021722 closed.
+Cust has been advised to contact ODS/Level 2 if issue persists.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3021722"
+SD4113085,Closed,05/25/17 01:47 PM,767011.0026,05/25/17 01:50 PM,SysOps - Help Desk,Crew Mobile Devices,Crew Mobile Devices,,,,,4,,706244,STEVEN MINKLER,7724634563,ATL,,,169727,MESSIAH PATEL,user training,user trying to install jeppenson and other apps,user trying to install jeppenson and other apps,explained
+SD4123368,Closed,05/30/17 08:54 AM,767011.0059,05/30/17 02:51 PM,SysOps - Help Desk,Z000907471,XDTWTOWR00002,TECRA Z40 BROADWELL I5-5300U 8GB,DTW/AIRPORT - A CONCOURSE/1/,Control Center,4,3,4,955172,JOHN AZZARO,7349215100,MCO,Z000907471,XDTWTOWR00002,linker,,Unknown,user says he had some monitors installed and now has no volume,"user says he had some monitors installed and now has no volume
+user says he just relocated to new location
+check volume everything looked good
+unable to hear anything
+**Title from related Incident record IM3030889:
+user says he had some monitors installed and now has no volume","Related Incident IM3030889 closed.
+no problem found. speakers are working fine
+
+*** *** There are no other related records.  Interaction closed by Incident IM3030889"
+SD4129338,Closed,06/01/17 11:13 AM,767011.0071,06/01/17 11:23 AM,SysOps - Help Desk,Z000902491,XATLCAMP02195,TOSHIBA TECRA Z40 ULTRABOOK LAPTOP,ATL/ADMIN CENTER/2/,2SE122,,4,,779217,JAMES TROTTI,404-773-9248,ATL,Z000902491,XATLCAMP02195,066278,ADEYINKA ADEDOTUN,software modification/reinstal,User unable to open IBM installation Manager,"User unable to open IBM installation Manager..User want granted Admin right(q1074207)...But user gets error message attached below
+Ran Gpupdate",Ran Gpupdate
+SD4130948,Closed,06/01/17 10:40 PM,767011.0154,06/01/17 10:51 PM,SysOps - Help Desk,Windows 7,Windows 7,,SLC/AIRPORT  - CONCOURSE C/1/,DIPS ROOM BELOW C-1,,4,,219724,BRYAN LAURITZEN,xxxx,SLC,Z000704746,WSLCACSB00150,Q89236,ARUNKUMAR PALANISWAMY,configuration change,User needs a patch to be installed on the computer.,User needs a patch to be installed on the computer. Logged in admin and installed the patch. Issue fixed,User needs a patch to be installed on the computer. Logged in admin and installed the patch. Issue fixed
+SD4132275,Closed,06/02/17 01:33 PM,767011.0044,06/02/17 01:40 PM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/CALL CENTER/5/,,,4,,587817,PAUL CAMPBELL,404-715-9350,ATL,Z000749237,WATLRES5B5P49,753680,MARK COLLINS,environmentals restored,user needed printer installed,user needed printer installed,added printer and sent test page that printed
+SD4132469,Closed,06/02/17 02:47 PM,767011.0138,06/02/17 03:07 PM,SysOps - Help Desk,Windows 7,Windows 7,,MSP/BUILDING C - GO/2/,C2A2520,,4,,579951,NICHOLAS FISHER,612-266-2352,MSP,Z000904704,XMSPBLDJ00872,753680,MARK COLLINS,duplicate,user needed Iserver installed,user needed Iserver installed,installed program
+SD4138838,Closed,06/05/17 04:25 PM,767011.0187,06/05/17 04:52 PM,SysOps - Help Desk,,,,,,,,,413202,JAIME LUCKEY,0,ATL,,,371430,KEVIN DOYLE,configuration change,"User doesn't have admin, needs admin to install items","User doesn't have admin, needs admin to install items
+USer needs Whitney installed and printer driver installed","remotely connected and xfered driver, launched cmd prompt as admin, installed drivers and whitney fonts"
+SD4140597,Open - Linked,06/06/17 11:24 AM,767011.0077,,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/TOC2/1/,DEPT 554 RM A130 RODNEY KEARNS,4,3,4,296243,RODNEY KEARNS,404-677-1761,ATL,Z000912705,XATLCAMP12072,,,,User need Adobe Pro installed on his machine,"User called in because he just recieved a new laptop and the new laptop has Adobe Creative cloud installed but not Adobe Pro. the user stated that he does not need the creative cloud he only needs the Adobe Pro. Per Art advise t send to ODS. The user stated that he only had
+Adobe Pro installed on his previous eorkstation",

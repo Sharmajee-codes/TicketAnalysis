@@ -1,0 +1,679 @@
+Interaction ID,Status,Impact Start Date,Handle Time,Close Time,Assignment Group,Affected CI,CI Name,Hardware Type,CI Location,Office / Postion,Impact,Urgency,Severity,Employee ID,Name,Contact Phone,Location,Workstation Asset Tag,Workstation Name,Closed By,Closed By Name,Root Cause Code,Title,Description,Solution
+SD3730178,Closed,12/05/16 01:15 AM,767011.0041,12/12/16 06:41 AM,SysOps - Help Desk,Windows,WATLLMTC00013,HP COMPAQ 6005 STANDARD SFF,ATL/AIRPORT - E CONCOURSE/1/,E10 Line Mtc Leads Office,4,3,4,203884,CHRISTOPHER HARRISON,404-714-9891,ATL,Z000693221,WATLLMTC00013,linker,,Unknown,Windows asking to install adobe flashplayer,"Windows asking to install adobe flashplayer..
+hen user trying to do LMS training ..
+did delete temp files cookies , disabled pop ups, reinstall adobe from radia, reboot computer.
+it is working on other computer ..
+**Title from related Incident record IM2843362:
+Windows asking to install adobe flashplayer","Related Incident IM2843362 closed.
+NO ISSUE FOUND
+
+*** *** There are no other related records.  Interaction closed by Incident IM2843362"
+SD3730973,Closed,12/05/16 09:59 AM,767011.006,12/05/16 12:39 PM,SysOps - Help Desk,Z000821282,RFOPSZ000821282,MICROSOFT SURFACE 3 10.8 INCH 4GB 128GB SSD,ATL/VIRTUAL/VIRTUAL/,,4,3,4,289645,RANDY BAKER,8653006664,ATL,Z000821282,RFOPSZ000821282,linker,,Unknown,Adobe Reader not install,"Adobe Reader not installing
+No error message. Just saying processing
+User's waited for 2 hrs and still not installed
+**Title from related Incident record IM2843738:
+Adobe Reader not install","Related Incident IM2843738 closed.
+Called pilot back to assist with Reader app.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2843738"
+SD3753264,Closed,12/14/16 10:20 AM,767011.0129,12/14/16 10:39 AM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,MSP/BUILDING C - GO/1/,MSPC RES,,,,519179,LESLIE WEGNER,612-727-5700,MSP,Z000750494,WMSPRES1B2P48,796328,SEPIDEH BABAKHANI,user training,stated that adobe flash played installing on her computer,stated that adobe flash played installing on her computer,killed radia>reboot > issue resolved
+SD3770377,Closed,12/21/16 06:22 AM,767011.0044,12/21/16 06:29 AM,SysOps - Help Desk,Z000674514,WDTWGATEA70P1,HP COMPAQ 6005 STANDARD SFF,DTW/AIRPORT - A CONCOURSE/2/,GATE A70,,4,,618701,KAREN HOOVER,0,DTW,,,714910,JOANNA BURNLEY,reboot/recycle,Installation Adobe flash,requesting adobe flash to install/board in 25 minutes /computer runs boarding pass reader,killed radia connect/advised user once boaring is complete to let the installation complete
+SD3782833,Closed,12/27/16 10:35 AM,767011.0506,12/27/16 11:12 AM,SysOps - Help Desk,,,,,2NE100,,,,331031,VANESSA STREETER,404-714-2339,ATL,Z000713041,XATLCAMP00444,990214,THADDEUS MATTHEWS,User Training,Adobe flash player not installed,"User could nto take lms course because adobe flash was not insatalled
+Helpdesk ran full radia connect
+Helpdesk rebooted pc, had user test again, user was then able to take course.","User could nto take lms course because adobe flash was not insatalled
+Helpdesk ran full radia connect
+Helpdesk rebooted pc, had user test again, user was then able to take course."
+SD3797277,Closed,01/03/17 06:30 AM,767011.0363,01/03/17 06:48 AM,SysOps - Help Desk,RADIAN6,RADIAN6,RADIAN6,ATL/TOC1/2/,C-594  ENGINEERING& QUALITY Q1,,,,939358,HENRY PLOSINSKI,404-773-2669,ATL,Z000728708,XATLCAMP02911,W18098,PRAVINTH RAJ,rfc/service request,Adobe file is not installed properely,"Adobe file is not installed properely
+Took user PC in remote
+Reinstalled the software Adobe file again
+Informed the user to give us a call back in cas eof any issue
+user accepted it","Reinstalled the software Adobe file again
+Informed the user to give us a call back in cas eof any issue
+user accepted it"
+SD3812704,Closed,01/09/17 09:18 AM,767011.0161,01/09/17 09:41 AM,SysOps - Help Desk,Adobe Flash Player,Adobe Flash Player,,TRI/AIRPORT/1/,gate 3,,1,,427653,JESSICA MILLER,423-325-6282,TRI,Z000726971,WTRIGATE003P1,917840,JIM NISCHAL,configuration change,Adobe Flash Player Installation,User wanted Adobe Flash Player installed on the PC,"Installed Adobe Flash Player via Radia Remote Console
+Problem fixed"
+SD3832147,Closed,01/17/17 02:17 PM,767011.0159,01/17/17 02:59 PM,SysOps - Help Desk,Z000708422,HCVGRWAH07226,HP COMPAQ 6005 STANDARD SFF,CVG/VIRTUAL/VIRTUAL/,WHSE,4,3,4,482206,JENNIFER SALVAGNE,859-250-6146,CVG,Z000708422,HCVGRWAH07226,linker,,Software,Adobe Flash Player install,"Adobe Flash Player install
+User need adobe flash player installed to complete LMS training course
+Logged into Radia to uninstall / reinstall Adobe flash player
+**Title from related Incident record IM2885590:
+Adobe Flash Player install","Related Incident IM2885590 closed.
+Hi Jennifer, I tried to call , but only received a voice message. I just wanted to let you know that Adobe has been successfully installed on your computer. Please reboot before you begin.
+
+Thanks,
+Phillip Griffin
+ODS Team
+
+*** *** There are no other related records.  Interaction closed by Incident IM2885590"
+SD3840453,Closed,01/21/17 08:11 AM,767011.0275,01/21/17 08:31 AM,SysOps - Help Desk,,,,,Ops Training Rm,,,,663376,KEITH ROSS,00,TYS,,WRDUACSB00011,380523,KEYON SMITH,configuration change,"trying to take lms train ""error msg install adobe flash player","trying to take lms train ""error msg install adobe flash player",ran a full radia connect to repair adobe flash player. instructed to restart pc and try to load cousrse.
+SD3855019,Closed,01/27/17 03:24 PM,767011.0033,01/27/17 03:29 PM,SysOps - Help Desk,IShop,IShop,,,,,4,,616746,HEENA CHAVDA,4047736833,ATL,,,420682,JENNIFER FRETWELL,User Training,Would like to request that Adobe Pro be installed on her computer but it shows that she already has,Would like to request that Adobe Pro be installed on her computer but it shows that she already has it,"I had the user review her Radia manager to check for Adobe Professional and it was not there.
+Further advised the user to click on Contact Us from iShop and explain that she does not have the software and ask for guidance"
+SD3877653,Closed,02/08/17 06:42 AM,767011.022,02/08/17 08:50 AM,SysOps - Help Desk,Windows 7,Windows 7,,HIB/VIRTUAL/VIRTUAL/,DEBRA HENDRICKSON,4,3,4,589722,DEBRA HENDRICKSON,218-780-2209,HIB,Z000744493,HHIBRWAH00028,linker,,Software,Needs to instal the Adobe Flash Player,"User needs to instal the Adobe Flash Player
+HD uninstal, force delete, refresh and reinstal the Adobe,Rebooted it >>>  But still is not installed
+
+Please be advised thank you
+**Title from related Incident record IM2909217:
+Needs to instal the Adobe Flash Player","Related Incident IM2909217 closed.
+Issues resolved
+
+Steps:
+-remote into computer
+-logged in as admin
+-installed adobe
+-ran course
+
+Course code: RGEPTUS100
+
+*** *** There are no other related records.  Interaction closed by Incident IM2909217"
+SD3883656,Closed,02/10/17 01:05 PM,767011.0121,02/10/17 01:59 PM,SysOps - Help Desk,Z000737893,HATLCCAH00058,HP 6305 STANDARD SFF,ATL/VIRTUAL/VIRTUAL/,res work at home,4,3,4,247733,YVONNE HAMILTON,4704247038,ATL,Z000737893,HATLCCAH00058,linker,,Software Distribution,"Adobe Flash radia push is installing, started around 12:50pm","Adobe Flash radia push is installing, started around 12:50pm
+installment says not to open IE, but he user accidentally clicked IE to open it
+but it did not launch
+User is a work at home agent
+ODS is going to take over this call as it has been an ongoing issue
+**Title from related Incident record IM2912113:
+Adobe Flash radia push is installing, started around 12:50pm","Related Incident IM2912113 closed.
+Contacted Chip Yarri -- App Owner to investigate..Chip found problem and allowed  install to continue... user good to go
+
+*** *** There are no other related records.  Interaction closed by Incident IM2912113"
+SD3884943,Closed,02/11/17 04:17 AM,767011.0086,02/11/17 04:30 AM,SysOps - Help Desk,Radia,Radia,,,,,2,,432180,JANICE ACKMAN,x,CVG,Z000651163,HCVGRWAH07118,W18098,PRAVINTH RAJ,User Training,Update prompt for the Adobe shockwave installation,"Update prompt for the Adobe shockwave installation
+User informed that she want to stop that prompt
+Took user PC in remote
+Stopped the radia
+User accepted it","User informed that she want to stop that prompt
+Took user PC in remote
+Stopped the radia
+User accepted it"
+SD3887092,Closed,02/12/17 01:37 PM,767011.0044,02/12/17 01:44 PM,SysOps - Help Desk,,,,,,,,,022031,LISA MOORE,0,CVG,,,371430,KEVIN DOYLE,configuration change,adobe shockwave player keeps trying to install,adobe shockwave player keeps trying to install,Radia is running... force closed radia. Advised user to powercycle before leaving this evening. Has no further inquiries.
+SD3890918,Closed,02/14/17 11:03 AM,767011.0109,02/14/17 06:08 PM,SysOps - Help Desk,Adobe Flash Player,Adobe Flash Player,,ATL/TOC1/2/,RM C633 OFC C644 MICHELLE FROS,4,3,4,618781,MICHELLE FROST,404-677-0828,ATL,Z000908829,XATLCAMP09800,linker,,Software,Adobe Flash - not installing,"doing Software Distribution / install of adobe flash but will not complete
+
+xatlcamp09800
+
+unable to display computer name via RRC- get message:  unable to access WMI
+shutdown/reboot no help
+
+I engaged Mohindar (ODS). Says the WMI error may indicate a firewall is turned on on the laptop
+**Title from related Incident record IM2915546:
+Adobe Flash - not installing","Related Incident IM2915546 closed.
+RCC to machine and ran full Radia connect to install Adobe flash player.
+Currently its installed successfully.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2915546"
+SD3892628,Closed,02/15/17 08:28 AM,767011.0114,02/15/17 08:44 AM,SysOps - Help Desk,Adobe Flash Player,Adobe Flash Player,,ATL/GSE BUILDING/2/,ADMIN AREA 2ND CUBE ON RT.,,1,,068606,FERNANDO KOCK,718-831-5171,ATL,Z000910575,XATLCAMP10977,884984,MATTHEW BARBER,configuration change,adobe flash install stuck in radia,"flash player reinstall needed.
+had to run manual uninstall then reinstall from radia after reboot.",had to run manual uninstall then reinstall from radia after reboot.
+SD3901009,Closed,02/19/17 07:26 AM,767011.0037,02/19/17 07:29 AM,SysOps - Help Desk,Windows 7,Windows 7,,,WHSE,,4,,708191,DAVE SIKORIS,404-773-1605,ATL,,,397365,RAMYA VASUDEVAN,User Training,Adobe flah player is installing.,"Adobe flah player is installing.
+
+The raida is installing the software.
+User wants to know how long it itakes.
+Infored the user that we are not sure.
+User agreed.
+Hence closing.","Adobe flah player is installing.
+
+The raida is installing the software.
+User wants to know how long it itakes.
+Infored the user that we are not sure.
+User agreed.
+Hence closing."
+SD3916726,Closed,02/27/17 09:38 AM,767011.0039,02/27/17 09:44 AM,SysOps - Help Desk,Adobe Flash Player,Adobe Flash Player,,,,,1,,329747,DANNY WHITFIELD,404-405-7514,ATL,Z000712672,XATLCAMP08336,917840,JIM NISCHAL,configuration change,Adobe Flash Player Installation,User says Radia has been trying to install Adobe Flash Player over and over since this morning,"Killed Radia Connect from Radia CA Remote Console
+Problem fixed"
+SD3922464,Closed,03/01/17 04:51 PM,767011.0163,03/02/17 04:18 PM,SysOps - Help Desk,Z000737601,HATLCWAH00011,HP 6305 STANDARD SFF,ATL/VIRTUAL/VIRTUAL/,WHSE,4,3,4,680446,PATRICIA WILSON,4045781400,ATL,,,linker,,Software,Adobe DC is not installing correctly,"User keeps getting the same install for Adobe DC but it never finiahes the install. I tried to delte and install through radia but I still received a 999 error in Radia
+**Title from related Incident record IM2931212:
+Adobe DC is not installing correctly","Related Incident IM2931212 closed.
+Reinstalled application and tested pdf
+
+*** *** There are no other related records.  Interaction closed by Incident IM2931212"
+SD3923254,Closed,03/02/17 06:39 AM,767011.0108,03/02/17 06:54 AM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/OC3/3/,03C102-116,,,,707870,THOMAS DUNHAM,4047153406,ATL,Z000907365,XATLCAMP09357,162039,TERITA GRIER,configuration change,Adobe Acrobat -  needs to be installed,"original issue  (IM2930667/IM2928503 ) == Adobe Reader missing. Caller says that installing of Reader issue was resolved but he still needs Adobe Acrobat Pro installed,
+He is getting message to install Adobe Acrobat but unable to install.","caller checked laptop again and noticed that Adobe Acrobat Pro is now installed.
+
+Now caller watned to associate all pdf files to open in Adobie Acrobat Reader instead of Adobe Acrobat iIlustrator as it is now.
+
+I remoted to laptop and associated pdf files toopen in Adobe Acrobat Reader."
+SD3923294,Closed,03/02/17 07:02 AM,767011.0322,03/02/17 07:48 AM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/MIDFIELD SUPPORT/2/,2NE050,,,,527715,BAGATH ARUMAICHANDRAN,00918067675640,ATL,Z000911791,XATLCAMP11290,162039,TERITA GRIER,configuration change,Adobe Reader not installed,caller states Adobe Reader not installed and he is  unable to install it,"I checked RRC - and shows Return code 209 - AVIS = YNTX
+I then ran the Re-Install
+--------------------------------------
+Now caller is mentioning that also  PRIZM - W7 - V9.8.0.10 (Q1021835) was requested to by user to be installed but caller says she still doesn't have appl. He has no run Radia Connect yet
+
+I checked RRC and shows Return code 999
+will run Re-install after the Reader install completes.
+I advised caller and will email hm when completed"
+SD3923539,Closed,03/02/17 09:05 AM,767011.014,03/02/17 02:57 PM,SysOps - Help Desk,Z000737338,WMSPBLDC00250,HP 6305 STANDARD SFF,MSP/BUILDING C - GO/1/,WHSE,4,4,5,909929,ALEXANDER BURT,6122664477,MSP,,,linker,,Software,Adobe reader not installed/add on not installed,"User is not able to read pdfs in IE anymore. Reader is not installed on his computer.
+ran radia sef service to verify. Verifed reader. Program still not there.
+**Title from related Incident record IM2931821:
+Adobe reader not installed/add on not installed","Related Incident IM2931821 closed.
+logged in as admin and reinstalled the Adobe
+
+*** *** There are no other related records.  Interaction closed by Incident IM2931821"
+SD3925436,Closed,03/02/17 11:39 PM,767011.0136,03/02/17 11:49 PM,SysOps - Help Desk,Z000742635,WMSPBLDC00251,HP ELITE DISPLAY E190I MONITOR,,WHSE,,4,,949471,ALFRED CHIU,xxxx,MSP,Z000737378,WMSPBLDC00251,Q89236,ARUNKUMAR PALANISWAMY,configuration change,Install adobe reader on computer.,Install adobe reader on computer. Installed the adobe through radia. Issue fixed,Install adobe reader on computer. Installed the adobe through radia. Issue fixed
+SD3926124,Closed,03/03/17 10:13 AM,767011.0214,03/06/17 11:12 AM,SysOps - Help Desk,Z000728626,XATLCAMP07400,HP ELITEBOOK 8470P NOTEBOOK,ATL/TOC1/2/,C-683,4,4,5,272041,LACEY BEAN,4047144045/6784887179,ATL,Z000728626,XATLCAMP07400,linker,,Software,Adobe reader wasnt installed -,"uninstalled adobe and reinstalled
+he user is getting the message ' pdf reader is not installed'
+he user was able to read pdf's yesterday
+xatlcamp07400
+**Title from related Incident record IM2933189:
+Adobe reader wasnt installed -","Related Incident IM2933189 closed.
+RRC to machine and Re Installed Adobe Reader successfully via Radia.
+Issue is resolved closing this ticket.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2933189"
+SD3933919,Closed,03/07/17 09:35 AM,767011.0189,03/07/17 12:44 PM,SysOps - Help Desk,Adobe Flash Player,Adobe Flash Player,,BWI/AIRPORT/1/,,4,3,4,866781,AUSTIN SOMERSALL,410-855-7324,BWI,Z000714878,WBWILMTC00008,linker,,Software,adobe flash player won't install,"user ran radia full connect and it didn't install it.
+I tried manualluy forcing install from radia and it got stuck processing and never finished the install.
+10.125.96.36
+**Title from related Incident record IM2936771:
+adobe flash player won't install","Related Incident IM2936771 closed.
+Installed Adobe Flash 24 via Radia ... user good to go...
+
+*** *** There are no other related records.  Interaction closed by Incident IM2936771"
+SD3934185,Closed,03/07/17 11:17 AM,767011.0027,03/07/17 06:01 PM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,MTY/VIRTUAL/VIRTUAL/,WHSE,4,3,4,337915,ANTONIO SANCHEZARAIZA,52811088846,MTY,Z000906041,XMTYACSB00002,linker,,Software,adobe acrobat reader won't install,"tried pushing via radia, then uninstalling, manually deleting, then reinstalling, still won't install.
+**Title from related Incident record IM2936883:
+adobe acrobat reader won't install","Related Incident IM2936883 closed.
+RRC to machine and installed Adobe Reader successfully.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2936883"
+SD3934538,Closed,03/07/17 01:33 PM,767011.0094,03/08/17 12:10 PM,SysOps - Help Desk,Z000901832,XATLCAMP06909,TOSHIBA TECRA Z40 ULTRABOOK LAPTOP,ATL/TOC1/2/,ROOM C-594C CONFERENCE ROOM,4,3,4,713049,WILLIAM STOLL,404-714-3388,ATL,Z000901832,XATLCAMP06909,linker,,Software,adobe install issues,"Warning : unable to launch Adobe Reader Plugin. Check that Adobe Reader or Adobe acrobat is installed and that is configured to display PDFs in the browser
+**Title from related Incident record IM2937079:
+adobe install issues","Related Incident IM2937079 closed.
+reinstalled the adobe and issue has been resolved
+
+*** *** There are no other related records.  Interaction closed by Incident IM2937079"
+SD3936011,Closed,03/08/17 09:15 AM,767011.0135,03/08/17 09:35 AM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,,,,,,982589,JOHN DIADDORIO,215-863-5966,PHL,,,761587,VASUTHARINI RAMESH,user training,Adobe issue and Radio window pop up message installing adobe not gone,"Error when opening documents in Adobe (Attachment)
+AcroMissingCompWClass: AcroRD32.exe - Bad Image
+Uninstalled and reinstalled Adobe
+Re-Associated Adobe - Ran GPUPDATE and then restarted the user computer
+Icons do not show the associated icon with Adobe.
+-----------------------------------------------------------------------------
+HD remote into user computer there is adobe installation window(radia) asking to close IE,outlook , Radia self service manager - pushed the software again no response..
+The note from previous ticket :We have tried several methods including cleaning the Adobe Product installation databases and there is something awry with this OS or something was installed that is breaking it.  This laptop will need to be rebuilt.
+
+Asked the user to be patient till FO called him.","User will have to wait to be contacted by local FO
+updated in the ticket IM2931854"
+SD3952460,Closed,03/15/17 11:31 AM,767011.0197,03/16/17 08:09 AM,SysOps - Help Desk,Z000900565,XYYZSFAM00007,TOSHIBA TECRA Z40 ULTRABOOK LAPTOP,YYZ/VIRTUAL/VIRTUAL/,MICHAEL MAGLIOCCO,4,3,4,314081,MICHAEL MAGLIOCCO,6472728682,YYZ,,,linker,,Software,Adobe reader is not installing,"Adobe has removed itself after an update. Pdf files are now associated with google chrome instead. Tried installing adobe reader because it showed up in radia console with no errors. After radia console ran I recieved no errors but it did not install. Even after a reboot. Ran radia service manager and it came back as a broken program. Tried to verify any errors in rada console but was not able to reconnect to radia console. Ran radia full connect on computer.
+**Title from related Incident record IM2945528:
+Adobe reader is not installing","Related Incident IM2945528 closed.
+logged in as admin, connected to junos puls again and reinstalled the ADOBE issue resolved
+
+*** *** There are no other related records.  Interaction closed by Incident IM2945528"
+SD3957141,Closed,03/17/17 10:27 AM,767011.0047,03/17/17 10:34 AM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,,,,,,X77381,CHRIS LEBLANC,404-309-1544,ATL,Z000910054,XATLCAMP10991,753680,MARK COLLINS,environmentals restored,ADOBE printer not installed,ADOBE printer not installed,looked in printer and it was there just took a little while to install after updates
+SD3969870,Closed,03/23/17 12:55 PM,767011.0894,03/23/17 02:00 PM,SysOps - Help Desk,,,,,c415,,,,718197,NADESTRA BENSON,0,ATL,Z000705894,XATLCAMP08354,335650,RAYMOND KERR,procedure enforcement,unable to install adobe acrobat 11,"unable to install adobe acrobat 11
+HD remoted in and ran radia self service for acrobat 11
+program appeared to be installed at C:\Program Files (x86)\Adobe
+however after comlpeting the install radia then uninstalled Acrobat 11 and attempting to remove previous versions, although it appears that there were no other versions installed","ran radia again, appears to be working"
+SD3971455,Closed,03/24/17 09:07 AM,767011.0091,03/28/17 09:02 AM,SysOps - Help Desk,Z000738677,XATLCAMP03369,HP ELITEBOOK 8470P NOTEBOOK,ATL/OC2/4/,4S068,4,3,4,676166,JOE THOMPSON,404-715-1103,ATL,Z000738677,XATLCAMP03369,linker,,Software,Radia is installing Adobe Acrobe for 2hrs,"See attached screen shot. Radia has been installing Abobe program for over 2hr.
+Helpdesk cannot access pc through radia connect Console.
+**Title from related Incident record IM2955694:
+Radia is installing Adobe Acrobe for 2hrs","Related Incident IM2955694 closed.
+uninstalled Adobe Acrobat DC, reinstalled Acrobat reader manually from ESD and changed the return code from709 to 000 and issue resolved.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2955694"
+SD3974852,Closed,03/26/17 07:59 AM,767011.0061,04/13/17 06:43 AM,SysOps - Help Desk,Radio Application,Radio Application,,ATL/TOC2/MEZZANINE1/,DEPT. 389 MEZZ,4,3,4,486406,VIRGINIA AYCOCK,404-714-7054,ATL,Z000904164,XATLCAMP04270,linker,,Software Distribution,Caller reports that Radia Connect ADOBE install will not complete installing,"Caller reports that Radia connect install has taken multiple days
+The install prevents her from using her applications (locks the pc)
+Helpdesk completed end task and stopped the install temporarily .
+However it will install again. Previous installs have taken over an hour before caller restarts the pc to try to start
+working on the pc.
+**Title from related Incident record IM2957212:
+Caller reports that Radia Connect ADOBE install will not complete installing","Related Incident IM2957212 closed.
+Left multiple VM and email for user ... Radia logs indicate Adobe Pro install 4/11... closing ticket
+
+*** *** There are no other related records.  Interaction closed by Incident IM2957212"
+SD3975211,Closed,03/26/17 12:08 PM,767011.0132,03/26/17 04:15 PM,SysOps - Help Desk,Z000901779,XATLCAMP06894,TOSHIBA TECRA Z40 ULTRABOOK LAPTOP,ATL/TOC1/2/,C-575 CUBE S14-23,4,3,4,603231,KAY ZIMMER,404-312-0415,ATL,,,linker,,Software,adobe acrobat installment,"distribution continutes to run on my workstation since 03/24/2017
+user let it run on 03/25/2017 and it never completed
+
+tried to end process of showwait.exe in task manager
+Contacted ODS (Robert) Transfer the call
+**Title from related Incident record IM2957327:
+adobe acrobat installment","Related Incident IM2957327 closed.
+Reinstalled adobe through esd.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2957327"
+SD3976270,Closed,03/27/17 04:57 AM,767011.0177,03/27/17 05:22 AM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,,,,,,765635,KENNETH SECREST,404-773-1585,ATL,Z000904580,XATLCAMP05024,670006,ARTHUR SIMPSON,procedure enforcement,Message that PC is installing Adobe Acrobat XI,"Message that PC is installing Adobe Acrobat XI
+
+Then an Interactive Services Detection notification displays on taskbar.
+
+When clicking it, it shows ""Setup has detected that you have a more functional product installed. Setup will now terminate.""
+
+***SEE SCREENSHOT***","After re-running Radia once more, it no longer attempted to install Adobe Acrobat XI. Let Mr. Secrest know to let us know if this issue persists and we will have to escalate accordingly."
+SD3976511,Closed,03/27/17 07:38 AM,767011.0199,03/28/17 04:02 PM,SysOps - Help Desk,Adobe Flash Player,Adobe Flash Player,,ATL/OC2/2/,2c040,4,3,4,611091,BILL WATTS,404 358 4458,ATL,Z000672690,WATLCAMP04742,linker,,Software,adobe flash - not installing properly,"Adobe - user can sign-in  but cant open Outlook
+Gets error: windows cant access the specified file. you may not have the approrcriate permissions to access it.
+watlcamp04742
+
+Radia Remote console shows
+acrobat pro has AVIS code YNTX and return code 7019
+Adobe flash player win_has AVIS code NYYX and return code 833
+Adobe flash player  win 24_0_0 AVIS code NYYX and Return code 833
+Radia Remote console shows
+acrobat pro has AVIS code YNTX and return code 7019
+Adobe flash player win_has AVIS code NYYX and return code 833
+Adobe flash player  win 24_0_0 AVIS code NYYX and Return code 833
+Adobe flash player  win 24_0_2  installed properly
+
+I remoted to pc and noticed Software Distribution running but caller says its been running since Friday.
+also got message that Adobe didn't install properly due to correct version already installed
+
+I engaged Sandra (ODS) who will contact user
+
+I ran Radia Full Connect -  now caller says she can access Outlook and MS Word
+**Title from related Incident record IM2957865:
+adobe flash - not installing properly","Related Incident IM2957865 closed.
+Installed Adobe Flash and now working.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2957865"
+SD3976598,Closed,03/27/17 08:24 AM,767011.0056,04/04/17 03:15 PM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/TOC2/MEZZANINE1/,BAY 8 MEZZ RM  A199,4,3,4,950700,MARK KEMP,404-714-9509,ATL,Z000730016,XATLCAMP03504,linker,,Software,adobe pro - keeps trying to install,"trying to load acrobat pro 11 but has already installed acrobat pro DC version
+
+xatlcamp03504
+
+I engaged Marjan (ODS)
+**Title from related Incident record IM2957887:
+adobe pro - keeps trying to install","Related Incident IM2957887 closed.
+This issue is being resolved through an automated Powershell Script
+
+*** *** There are no other related records.  Interaction closed by Incident IM2957887"
+SD3977265,Closed,03/27/17 12:09 PM,767011.0042,03/29/17 10:51 AM,SysOps - Help Desk,Z000660716,XMSP9EMB00013,HP ELITEBOOK 8440P,MSP/BUILDING C - TOWER/3/,T3K0912,4,3,4,541548,MARCIA BORCHARDT,16122661351,HDQ,,,linker,,Software,adobe pro has been installing for an hour,"adobe pro has been installing for an hour
+
+unable to ping the   set
+
+
+reseeded  the laptop ... no change
+**Title from related Incident record IM2958163:
+adobe pro has been installing for an hour","Related Incident IM2958163 closed.
+Control Panel -> add/remove programs -> uninstalled Adobe DC 15
+radia installed adobe pro XI successfully user should be good to go
+
+*** *** There are no other related records.  Interaction closed by Incident IM2958163"
+SD3978681,Closed,03/28/17 03:40 AM,767011.0158,03/28/17 05:14 AM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/VIRTUAL/VIRTUAL/,,4,3,4,765635,KENNETH SECREST,404 405 2645,ATL,Z000904580,XATLCAMP05024,linker,,Software,Installation issue in adobe acrobat,"With reference to the SD3976270.
+User still ahve the same issue were the adobe acrobat installation running on.
+So user needs to escalate it
+Called ods to check to which team to be escalate for this issue.
+Asked to asign it to ODS team.
+**Title from related Incident record IM2958893:
+Installation issue in adobe acrobat","Related Incident IM2958893 closed.
+machine was not completing Adobe Pro install via radia getting 800 error msg.  machine had Adobe Acrobate DC installed on the machine causing the system not to install Abode Pro(setup would exit with already installed) / removed Adobe Acrobate DC  - reinstalled Abode Pro to correct the problem with the install
+
+*** *** There are no other related records.  Interaction closed by Incident IM2958893"
+SD3978788,Closed,03/28/17 06:11 AM,767011.0029,03/28/17 06:15 AM,SysOps - Help Desk,Z000906661,XATLCAMP07867,TOSHIBA TECRA Z40 I5-4310U,,WHSE,,4,,397761,NORMAN WHITMIRE,404-714-1052,ATL,Z000906661,XATLCAMP07867,962743,ABRAHAM RIVERA,configuration change,Adobe is not installing,"User is calling in regards to an issue with adobe not fully installing
+
+Steps:
+-remote into computer
+-verified it is a radia install
+-killed radia connect
+-advised user i would reinstall software
+
+user should contact us back if he runs into issues.",user should contact us back if he runs into issues.
+SD3978825,Closed,03/28/17 06:38 AM,767011.0036,03/28/17 07:53 AM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/TOC2/3/,A-453 TECH PUBS,4,3,4,108969,MARGARET GREUTERT,404 714 2448,ATL,Z000713619,WATLCAMP01400,linker,,Software Distribution,Adobe not installing,"Adobe Acrobat v11- not installing properly
+
+watlcamp01400
+
+caller ran Radia Full Connect but still re-occurred
+
+I escalated to Cleon (ODS) who advised to put ticket in queue
+**Title from related Incident record IM2958984:
+Adobe not installing","Related Incident IM2958984 closed.
+Reinstall completed successfully..
+
+*** *** There are no other related records.  Interaction closed by Incident IM2958984"
+SD3979057,Closed,03/28/17 08:33 AM,767011.0048,04/04/17 03:35 PM,SysOps - Help Desk,Z000901813,XATLCAMP02761,TOSHIBA TECRA Z40 ULTRABOOK LAPTOP,ATL/TOC1/1/,TOC,4,3,4,790502,CHRIS BISGARD,404-773-4862,ATL,Z000901813,XATLCAMP02761,linker,,Software Distribution,Adobe pro X1 radia installation issue,"Adobe pro X1 radia installation issue
+User restarted pc multiple times
+**Title from related Incident record IM2959119:
+Adobe pro X1 radia installation issue","Related Incident IM2959119 closed.
+This issue is being resolved by an automated script that is currently running.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2959119"
+SD3979196,Closed,03/28/17 09:26 AM,767011.0033,04/04/17 03:33 PM,SysOps - Help Desk,Z000904693,XMSPBLDJ00577,TOSHIBA TECRA Z40 I5-4310U,MSP/BUILDING J/2/,,4,3,4,327655,DAVID QUAM,612-964-2681,MSP,Z000904693,XMSPBLDJ00577,linker,,Software Distribution,Adobe Acrobat pro XI Radia installation issue,"Adobe Acrobat pro XI Radia installation issue....User restarted pc multiple time
+**Title from related Incident record IM2959198:
+Adobe Acrobat pro XI Radia installation issue","Related Incident IM2959198 closed.
+This issue is being resolved by an automated script that is currently running.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2959198"
+SD3979209,Closed,03/28/17 09:30 AM,767011.0058,03/28/17 10:42 AM,SysOps - Help Desk,Radia,Radia,,SEA/VIRTUAL/VIRTUAL/,Tech Ops Cabin Service,4,3,4,911289,BRYAN HALL,206-301-6876,SEA,Z000904853,XSEALMTC00001,linker,,Software,adobe will not install properly and radia will re-initiate and fail again.,"radia has tried to run and keeps coming up
+shutting all applications down
+it keeps attempting to run adobe installation.
+acrobat pro win - 709 return code
+**Title from related Incident record IM2959206:
+adobe will not install properly and radia will re-initiate and fail again.","Related Incident IM2959206 closed.
+Uninstalled Adobe DC and installed Adobe XI successfully to resolve the users issue.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2959206"
+SD3979725,Closed,03/28/17 12:49 PM,767011.0014,03/29/17 06:29 PM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/ADMIN CENTER/1/,JONAH KEEGAN   187836,4,3,4,187836,JONAH KEEGAN,425-501-8454,ATL,Z000906978,XATLCAMP07039,linker,,Software Distribution,Adobe Acrobat will not get installed and Radia keeps re-initiating,"Adobe Acrobat  continues to run every day after software installed, 4th install, forces me to shut of MS Office every time, but installation always fails because the update was already completed.
+
+709 retrun code - radia
+**Title from related Incident record IM2959466:
+Adobe Acrobat will not get installed and Radia keeps re-initiating","Related Incident IM2959466 closed.
+Per Trey, a Radia Connect will be kicked off tonight to uninstall v15 and re-install v11
+
+*** *** There are no other related records.  Interaction closed by Incident IM2959466"
+SD3981178,Closed,03/29/17 06:21 AM,767011.0029,04/04/17 03:37 PM,SysOps - Help Desk,Adobe Flash Player,Adobe Flash Player,,ATL/TOC2/1/,DEPT 335 Room D129,4,3,4,498304,KELLY MERTENS,404-714-4569,ATL,Z000905785,XATLCAMP06674,linker,,Software,adobe acrobat pro 11 not installing,"adobe acrobad pro not installing  and its been going on for a week>method error
+**Title from related Incident record IM2960453:
+adobe acrobat pro 11 not installing","Related Incident IM2960453 closed.
+This issue is being resolved through an automated Powershell Script
+
+*** *** There are no other related records.  Interaction closed by Incident IM2960453"
+SD3981430,Closed,03/29/17 08:46 AM,767011.0041,04/04/17 03:32 PM,SysOps - Help Desk,Z000736416,WATLCAMP01415,HP 6305 STANDARD SFF,ATL/MIDFIELD SUPPORT/2/,,3,3,3,446731,ROBERT RIPLEY,4047143554,ATL,Z000736416,WATLCAMP01415,linker,,Software Distribution,WATLCAMP01415_Radia keeps trying to install Adobe Acrobat XI_hanging_Escalating ticket,"WATLCAMP01415_Radia keeps trying to install Adobe Acrobat XI_hanging_Escalating ticket
+**Title from related Incident record IM2960608:
+WATLCAMP01415_Radia keeps trying to install Adobe Acrobat XI_hanging_Escalating ticket","Related Incident IM2960608 closed.
+This issue is being resolved by an automated script that is currently running.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2960608"
+SD3981608,Closed,03/29/17 10:00 AM,767011.0016,04/04/17 03:30 PM,SysOps - Help Desk,Radia,Radia,,ATL/ADMIN CENTER/1/,,4,3,4,997057,STANLEY HAYS,404-245-0019,ATL,Z000908147,XATLCAMP06403,linker,,Software Distribution,adobe acrobat stuck installing in radia,"adobe acrobat stuck installing in radia
+known issue with radia and acrobat, sending to enterprise apps
+**Title from related Incident record IM2960717:
+adobe acrobat stuck installing in radia","Related Incident IM2960717 closed.
+This issue is being resolved by an automated script that is currently running.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2960717"
+SD3981938,Closed,03/29/17 11:53 AM,767011.0181,04/07/17 05:19 PM,SysOps - Help Desk,Radia,Radia,,MSP/BUILDING B/1/,HGR 7 Managers Office,3,3,3,152788,CHRISTINA WALLACE,612-266-4334,MSP,Z000713694,WMSPBLDB00065,linker,,Software,"radia adobe install: ""setup has detected that you already have a more functional product installed""","""setup has detected that you already have a more functional product installed. setup will now terminate""
+radia attempts to install acrobat XI on machines that already have the adobe reader dc 15.7.3 installed
+users are calling in saying that the installation has been running for hours when it is actually displaying this error on the
+view message popup that appears when radia is running
+screen shot attached
+**Title from related Incident record IM2960917:
+radia adobe install: ""setup has detected that you already have a more functional product installed""","Related Incident IM2960917 closed.
+called user a few times and left 2 voice mails , closing the ticket
+
+*** *** There are no other related records.  Interaction closed by Incident IM2960917"
+SD3981966,Closed,03/29/17 12:03 PM,767011.0101,03/29/17 12:59 PM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/TOC1/2/,\,4,3,4,591713,ANDREW PIILOLA,404-715-4759,ATL,Z000906325,XATLCAMP07510,linker,,Software,Adobe getting keeps trying to install and hangs up,"Adobe getting keeps trying to install makes him close everything and will attempt to install and just hangs up -
+He has to reboot to get out of this. User will then get
+**Title from related Incident record IM2960915:
+Adobe getting keeps trying to install and hangs up","Related Incident IM2960915 closed.
+Uninstalled Adobe Acrobat DC and installed Adobe Acrobat Xi successfully.
+Issue is resolved closing this ticket.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2960915"
+SD3983487,Closed,03/30/17 07:43 AM,767011.0078,04/04/17 03:28 PM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/TOC2/3/,A-453 TECH PUBS,4,3,4,889701,TODD CHASTINE,404-773-4181,ATL,Z000700821,WATLCAMP01403,linker,,Software Distribution,Issue installing Adobe,"User stated that Adobe Acrobat 11 is having issues installing via Radia
+-logged into Radia
+(had to kill Radia connect from installing Radia incorrectly)
+-Radia shows Return code 709
+-Acrobat will not install properly via Radia Self Service Manager
+Please assist the the user with installing Radia properly
+**Title from related Incident record IM2961753:
+Issue installing Adobe","Related Incident IM2961753 closed.
+This issue is being resolved by an automated script that is currently running.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2961753"
+SD3983639,Closed,03/30/17 08:56 AM,767011.0057,04/05/17 10:44 AM,SysOps - Help Desk,ACROBAT PRO_GEN,ACROBAT PRO_GEN,ACROBAT PRO,ATL/TOC2/MEZZANINE1/,A-130 Dept 554 Engineering,4,3,4,296243,RODNEY KEARNS,404-677-1761,ATL,Z000738780,XATLCAMP02961,linker,,Software Distribution,adobe acrobat 2015 will not install,"advise user to log off while ODS uninstall his adobe reader and install the newer version.....
+**Title from related Incident record IM2961837:
+adobe acrobat 2015 will not install","Related Incident IM2961837 closed.
+I checked user's software catelog and user now has acrobat pro 2011 entitled// I verified with user that 2011 is currently installed// it appears that 2015 may have been uninstalled and reverted back to 2011// it is working properly now so closing incident
+
+*** *** There are no other related records.  Interaction closed by Incident IM2961837"
+SD3983988,Closed,03/30/17 11:00 AM,767011.0059,03/30/17 11:09 AM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/TOC2/3/,RM A-431 TECH PUBS AREA,,,,450098,ALAN LABREC,404-773-3348,ATL,Z000903267,XATLCAMP03673,446242,STEPHANIE ODUM,configuration change,adobe install error,"adobe install error
+user continues to get system stuck as adobe treis to update
+ran gpupdate",ran gpupdate
+SD3985866,Closed,03/31/17 06:42 AM,767011.0043,04/04/17 03:26 PM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/OC2/2/,4N070,4,3,4,611091,BILL WATTS,404-715-7136,ATL,Z000672690,WATLCAMP04742,linker,,Software Distribution,"installing adobe acrobat pro 11, stuck installing update in radia","had user end task, but issue occurs daily
+user killed process and it restarted as soon as he opened IE
+**Title from related Incident record IM2963308:
+installing adobe acrobat pro 11, stuck installing update in radia","Related Incident IM2963308 closed.
+This issue is being resolved by an automated script that is currently running
+
+*** *** There are no other related records.  Interaction closed by Incident IM2963308"
+SD3986657,Closed,03/31/17 12:04 PM,767011.002,04/04/17 09:11 AM,SysOps - Help Desk,Z000653119,WATLCAMP04707,HP COMPAQ 6005 STANDARD SFF,ATL/TOC1 POWER PLANT/1/,"DEPT. 283, POLE 40B",4,3,4,715814,RICHARD CHRISTY,404-677-2860,ATL,,,linker,,Software,Adobe installation keeps running,"Automatic upgrade to Adobe XI keeps trying to install then stops when it responds with message that I have better upgrade Adobe Pro already installed - causes slow function and shutdown
+
+Unable to kill radia connect/ user states that it continues to happen
+**Title from related Incident record IM2963803:
+Adobe installation keeps running","Related Incident IM2963803 closed.
+reinstalled and worked
+
+*** *** There are no other related records.  Interaction closed by Incident IM2963803"
+SD3987246,Closed,03/31/17 03:28 PM,767011.0012,03/31/17 03:30 PM,SysOps - Help Desk,,,,,,,,,582652,GYSELE MIRANDA,8555130980,ATL,,,446242,STEPHANIE ODUM,User Training,adobe install,"user keeps getting adobe install
+had uesr reboot",had user reboot computer
+SD3990373,Closed,04/02/17 10:41 AM,767011.0154,04/02/17 11:03 AM,SysOps - Help Desk,Z000738625,XLASACSB00010,HP E2570P LAPTOP,LAS/AIRPORT/1/,OSM OFFICE/JASON WADE,,4,,441624,JASON WADE,4049848256,LAS,Z000738625,XLASACSB00010,515452,KEVIN JOHNSON,configuration change,Adobe acrobat install,Remoted in and ran radia to install adobe...ticket closed,Remoted in and ran radia to install adobe...ticket closed
+SD3992074,Closed,04/03/17 08:22 AM,767011.0125,04/03/17 08:40 AM,SysOps - Help Desk,,,,,,,,,045222,LORI LANES,612-266-8641,ATL,,,514038,CLEON WAHLIN,software modification/reinstal,Stuck on Adobe Acrobat install,"Script has not fixe this one yet..
+Manually uninstalled Acrobat DC",Installed and tested ok.
+SD3996311,Closed,04/04/17 04:31 PM,767011.0062,04/05/17 07:28 AM,SysOps - Help Desk,Z000903898,XATLCAMP04256,TOSHIBA TECRA Z40 I5-4310U,ATL/TOC1/2/,C-595,4,3,4,296038,FRANK NGO,404-735-6351,ATL,Z000903898,XATLCAMP04256,linker,,Software,Adobe Acrobat Pro install issue,"Radia Push keeps trying to push ADOBE through and when it does it locks out IE11
+User has apps that he needs to run but the radia push stops him from doing so
+the User said that they unlock him everyday, when this happens
+Reference to ticket IM2956761 and IM2957310
+Best time to call user is tomorrow 4/5/17 from 7am-5pm,  then will be gone for 10 days
+**Title from related Incident record IM2968136:
+Adobe Acrobat Pro install issue","Related Incident IM2968136 closed.
+it was reinstalled
+
+*** *** There are no other related records.  Interaction closed by Incident IM2968136"
+SD4010389,Closed,04/10/17 01:18 PM,767011.0128,04/12/17 09:25 AM,SysOps - Help Desk,Z000755141,AATLCAMP00821,HP ELITEDESK 705G1 SFF,ATL/OC3/2/,2002,4,3,4,988769,THOMAS DAVIS,404-773-4781,ATL,Z000755141,AATLCAMP00821,linker,,Software,Adobe XI install being pushed to Pc by Radia,"Adobe install being pushed to Pc by Radia
+Users are unable to use IE,outlook etc...wants Radia push killed completely
+**Title from related Incident record IM2975881:
+Adobe XI install being pushed to Pc by Radia","Related Incident IM2975881 closed.
+Installed Adobe Acrobat successfully on machine to resolve users issue.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2975881"
+SD4012160,Closed,04/11/17 08:35 AM,767011.0153,04/11/17 04:03 PM,SysOps - Help Desk,Z000902964,XATLCAMP08095,TOSHIBA TECRA Z40 I5-4310U,ATL/TOC3/3/,l2,4,3,4,520865,STEPHEN BEAL,404-677-0710  706-247-1320,ATL,Z000902964,XATLCAMP08095,linker,,Software,Java 8 and adobe  trys to installs,"user stating once a day since December his laptop will try to install application and then it stops and he can not work on his laptop....i checked radia console and saw several application executing...engaged ODS...Marcus will assist user issues from this point....
+**Title from related Incident record IM2976826:
+Java 8 and adobe  trys to installs","Related Incident IM2976826 closed.
+kicked off Radia for all installs that was missing ...... everything has installed properly ... advised user that he was good to go.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2976826"
+SD4012205,Closed,04/11/17 08:53 AM,767011.0132,04/11/17 09:12 AM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,,"Bay 4 Work Center, Rm. C-192",,,,708323,JOE STEWART,404-677-2307,ATL,Z000715386,WATLCAMP01703,446242,STEPHANIE ODUM,reboot/recycle,adobe is trying to install and cannot open any ms office,"adobe is trying to install and cannot
+ open any ms office
+ran gpupdate
+killed radia and restarted his computer",killed radia and restarted his computer
+SD4016904,Closed,04/13/17 08:58 AM,767011.0009,04/13/17 08:59 AM,SysOps - Help Desk,Z000718727,XATLCAMP03082,HP ELITEBOOK 8470P NOTEBOOK,ATL/TOC3/3/,"DEPT. 231, CSR AREA, RM. P-301",,4,,690924,KAREEM MCDOLE,404-714-4357,ATL,,,514038,CLEON WAHLIN,user training,Stuck on Adobe Acrobat install,Verified Install is progressing..  advised cust to give it more time..,Advised cust to give it time to install
+SD4017015,Closed,04/13/17 09:53 AM,767011.0041,04/13/17 04:33 PM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/VIRTUAL/VIRTUAL/,5N188,4,3,4,886458,CHELSEA STANLEY,404-714-5916,ATL,Z000728590,XATLCAMP06496,linker,,Software,Radia has been stuck on installing Adobe for about 2 hours,"Radia has been stuck on installing Adobe for about 2 hours
+Keeps doing this and keeps having to stop it
+
+Engaged ODS (AJAY)
+**Title from related Incident record IM2979261:
+Radia has been stuck on installing Adobe for about 2 hours","Related Incident IM2979261 closed.
+Opened a new ticket for the tech
+
+*** *** There are no other related records.  Interaction closed by Incident IM2979261"
+SD4017123,Closed,04/13/17 10:38 AM,767011.0065,04/13/17 11:39 AM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/TOC2/MEZZANINE1/,ROOM A-130 ABOVE WOMAN'S RESTR,4,3,4,997932,JOHN RUSIN,404-773-6041,ATL,Z000712627,XATLCAMP03873,linker,,Software,Adobe acrobat not installing correctly,"adobe acrobat pro 15_7--   not installing after user ran Radia Connect. However Adobe Acrobat not showing in Remote Radia Console but Radia Self Service Manager shows Adobe Acrobat 15_7 has a ""Method Error ""
+
+I engaged Frank (ODS) who advised to put ticket in queue
+xatlcamp03873
+**Title from related Incident record IM2979323:
+Adobe acrobat not installing correctly","Related Incident IM2979323 closed.
+installed from radia and did not work
+logged in as admin and reinstalled it and worked
+changed the return code
+user is able to open the PDF file
+
+*** *** There are no other related records.  Interaction closed by Incident IM2979323"
+SD4017175,Closed,04/13/17 10:56 AM,767011.0193,04/20/17 08:46 AM,SysOps - Help Desk,Z000677342,WATLCAMP02788,HP 6305 STANDARD SFF,ATL/TOC1/2/,RM C586,4,3,4,077846,NEIL SUTHERLAND,404-714-8947,ATL,,,linker,,Software,Adobe pro is not installing,"10.4.130.140
+Adobe and reader were on the computer I removed reader and tried to reinstall pro but it is erroring out.
+**Title from related Incident record IM2979384:
+Adobe pro is not installing","Related Incident IM2979384 closed.
+reinstall adobe via radia ..... uninstall all previous version .... user should be good to go. Had user test adobe and everything seems to be fine now.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2979384"
+SD4017560,Closed,04/13/17 01:06 PM,767011.0286,04/13/17 01:56 PM,SysOps - Help Desk,Z000907442,XATLCAMP07151,TECRA Z40 BROADWELL I5-5300U 8GB,ATL/OC3/4/,RM 4012-4N044,4,3,4,605866,SALIMA SEHIL,404-773-9101,ATL,Z000907442,XATLCAMP07151,linker,,Software,Adobe DC cannot complete install,"DC is reading Adobe reader but I did not see reader in radia. Distiller is installed. Cannot install DC.
+**Title from related Incident record IM2979596:
+Adobe DC cannot complete install","Related Incident IM2979596 closed.
+RRC to machine and ran full radia connect to install Adobe Acrobat DC.
+Currently Adobe Acrobat is successfully installed on his machine.
+User able to open PDF files successfully.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2979596"
+SD4018107,Closed,04/13/17 04:00 PM,767011.0562,04/13/17 04:27 PM,SysOps - Help Desk,,,,,EMT CONF. RM G-363,,,,383953,HARINDER GREWAL,00000,ATL,Z000728660,XATLCAMP06824,335650,RAYMOND KERR,procedure enforcement,adobe install stuck,adobe install stuck,reinstall
+SD4019091,Closed,04/14/17 08:06 AM,767011.0062,04/20/17 04:48 AM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,IND/AIRPORT/1/,Rm C415 S20-13,4,3,4,751425,STEPHEN GRIFFITHS,317 652 1328,IND,Z000683357,XATLCAMP08353,linker,,Software Distribution,adobe acrobat pro - not installing,"adobe acrobat pro_WIN_15_7 not installing
+
+
+I engaged Frank (ODS) who advised caller to logoff and he will resolve issue
+xatlcamp08353
+**Title from related Incident record IM2980289:
+adobe acrobat pro - not installing","Related Incident IM2980289 closed.
+Have not heard back from caller at last check Adobe DC was installed unable to verify that it is working for him.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2980289"
+SD4019839,Closed,04/14/17 01:36 PM,767011.0044,04/14/17 01:42 PM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,MSP/AIRPORT - D CONCOURSE/1/,D206 ROOM D1008,,,,256495,TODD ANDERSON,320-334-1124,MSP,Z000727818,WMSPLMTC00065,409529,AMANDA TICE,configuration change,adobe reader is  not installed correctly,"172.26.6.83
+ran the radia full connect",will call back if issue continues
+SD4023721,Closed,04/17/17 04:41 AM,767011.0428,04/17/17 05:43 AM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/TOC3/3/,"DEPT. 231 CSR, RM P-3016, CUBE",,,,340439,MARTY PAGE,404-714-1060,ATL,Z000729662,XATLCAMP03178,670006,ARTHUR SIMPSON,withdrawn by user,Adobe install on going for a few days...,"Adobe install on going for a few days... (Radia 1st atempted Thursday 4/13, and has been ongoing ever since)
+
+I used the Interactive Services Detection from task bar to cee status via command prompt window etc...
+
+As I was awaiting the Adobe Acrobat DC install, Marty's laptop continued to sporadically go to Ctrl+Alt+Del screen?
+
+Once Adobe Acrobat DC installer progress bar was full, progress bar started going in reverse?
+
+Seems that after close to a hr, installation for Adobe Acrobat DC has finally completed.",Ran Radia once more and let Marty know that if Adobe Acrobat DC installer comes back to call us to have a ticket created for our 2nd level escalation (SYSOPS-ODS)
+SD4023896,Closed,04/17/17 07:13 AM,767011.03,04/17/17 12:05 PM,SysOps - Help Desk,ACROBAT PRO_GEN,ACROBAT PRO_GEN,ACROBAT PRO,ATL/TOC1/2/,C-594  ENGINEERING& QUALITY Q1,4,3,4,939358,HENRY PLOSINSKI,404-773-2669,ATL,Z000728708,XATLCAMP02911,linker,,Software,Radia ran this morning and now Adobe Pro is no longer installed,"Radia ran this morning and now Adobe Pro is no longer installed
+IP:  10.4.149.183
+
+Unable to connect remotely via Dameware
+Reviewed installed apps on the laptop and did not see Acrobat pro
+Logged into Radia and removed and reinstalled
+restarted
+Still not there
+Engaged ODS (Marjan)
+**Title from related Incident record IM2982273:
+Radia ran this morning and now Adobe Pro is no longer installed","Related Incident IM2982273 closed.
+logged in as admin and reinstalled the Adobe and worked
+
+*** *** There are no other related records.  Interaction closed by Incident IM2982273"
+SD4024209,Closed,04/17/17 09:33 AM,767011.0134,04/17/17 12:29 PM,SysOps - Help Desk,ACROBAT PRO_GEN,ACROBAT PRO_GEN,ACROBAT PRO,ATL/TOC1 POWER PLANT/MEZZANINE/,RM G-363 INSIDE G-365,4,3,4,968800,SAMUEL GOSS,404-677-1873,ATL,Z000680494,XATLCAMP06800,linker,,Software Distribution,adobe pro and reader and  sw not installing,"acrobat pro >>>>>>>> reader >>>>> SW broken and not updating
+**Title from related Incident record IM2982378:
+adobe pro and reader and  sw not installing","Related Incident IM2982378 closed.
+Finally completed install
+
+*** *** There are no other related records.  Interaction closed by Incident IM2982378"
+SD4024563,Closed,04/17/17 11:32 AM,767011.0115,04/20/17 05:40 PM,SysOps - Help Desk,Z000737032,WSLCLMTC00005,HP 6305 STANDARD SFF,SLC/AIRPORT/1/,C GATE MTC WORK AREA,4,3,4,889313,RUSS ANDERSON,801-809-3015,SLC,Z000737032,WSLCLMTC00005,linker,,Software,adobe reader is stuck on installing killed radia connect and attempted to verify repair acrobat read,"adobe reader is stuck on installing killed radia connect and attempted to verify repair acrobat reader
+still took a long time to verify install. sending to ods.
+**Title from related Incident record IM2982511:
+adobe reader is stuck on installing killed radia connect and attempted to verify repair acrobat read","Related Incident IM2982511 closed.
+Adobe Acrobat DC re-installed through Powershell WinRm Script
+
+*** *** There are no other related records.  Interaction closed by Incident IM2982511"
+SD4026476,Closed,04/18/17 08:05 AM,767011.0029,04/18/17 08:28 AM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/TOC2/1/,BAY 5 INSIDE OF THE FISHBOWL,4,3,4,900068,JONATHAN JACKSON,404-713-5213,ATL,Z000907973,XATLCAMP08230,linker,,Software,Adobe Pro install,"Radia push uninstalled Adobe Pro off user computer and installed Adobe Acrobat DC
+Requesting to have Adobe Pro installed back onto PC
+**Title from related Incident record IM2983434:
+Adobe Pro install","Related Incident IM2983434 closed.
+Acrobat_Pro__win_15_4_3 has been installed and user does have acrobat DC
+
+*** *** There are no other related records.  Interaction closed by Incident IM2983434"
+SD4026763,Closed,04/18/17 10:06 AM,767011.0045,04/18/17 10:12 AM,SysOps - Help Desk,Adobe Flash Player,Adobe Flash Player,,,C-415 Engineering Cube R20-18,,1,,775947,MARTIN NJOROGE,404-677-1791,ATL,Z000903712,XATLCAMP04660,796328,SEPIDEH BABAKHANI,user training,adobe reader and SW needs to be installed,unable to open or edit any PDF files,asked user to wait 2 or 3 hourse and see if it woorks
+SD4026795,Closed,04/18/17 10:19 AM,767011.0055,04/18/17 10:27 AM,SysOps - Help Desk,,,,,2NE082,,,,758772,MEHRET TAFESSE,404-715-7330,ATL,Z000728947,XATLCAMP04200,514038,CLEON WAHLIN,user training,Stuck on Adobe Acrobat install,It is progressing,advised cust to give it more time..
+SD4026824,Closed,04/18/17 10:29 AM,767011.0587,04/18/17 11:54 AM,SysOps - Help Desk,,,,,2SE019,,,,577339,MELISSA BEACH,404-714-3336,ATL,Z000680625,XATLCAMP03608,514038,CLEON WAHLIN,user training,Stuck on Adobe Acrobat install,Install is progressing,advised user to let it progress..
+SD4029042,Closed,04/19/17 08:34 AM,767011.0925,04/19/17 10:48 AM,SysOps - Help Desk,Z000906167,XATLACSB00102,TOSHIBA TECRA Z40 I5-4310U,ATL/AIRPORT - T CONCOURSE/3/,T4 Corp Sec Office (Mark Lucas,,4,,717710,MARK LUCAS,404-825-2309,ATL,,,415282,LOREAL GOGGINS,configuration change,Adobe flash player will not install,Flash shockware will not install. Even after kiling radia,ran radia and uninstalled then installed program back. After process the program seemed to be error free and installed
+SD4029562,Closed,04/19/17 12:05 PM,767011.0135,04/19/17 12:24 PM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/AIRPORT - C CONCOURSE/1/,C30 Admin Office (James E. Bri,,,,709784,JAMES BRIMBERRY,404-714-1988,ATL,Z000688459,XATLHRBO00004,397287,NISHANT YADAV,procedure enforcement,Adobe acrobat not completing installation,"Tech distribution- updating an hour- installing- Adobe acrobat DC
+* user rebooted earlier after 25- 30 mns radia connect
+* cancelling Radia for now and advising user to leave it connected at night",* cancelling Radia for now and advising user to leave it connected at night
+SD4029579,Closed,04/19/17 12:12 PM,767011.0316,04/19/17 06:30 PM,SysOps - Help Desk,Z000910459,XATLCAMP10787,TECRA Z40 BROADWELL I5-5300U 8GB FHD SCREEN,ATL/GEORGIA TECH HANGAR/7/,7th,4,3,4,291165,PRAFULLA SRINIVASAN,4044081823,ATL,,,linker,,Software,Adobe pro is not installing,"Acrbat Pro is missing and pdf files are not opening. Ran radia. User is working from home and it is taking a long time to install.
+**Title from related Incident record IM2985084:
+Adobe pro is not installing","Related Incident IM2985084 closed.
+RRC to machine and ran full Radia connect.
+Currently as per RRC Adobe pro is installed successfully on this machine.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2985084"
+SD4029769,Closed,04/19/17 01:17 PM,767011.0366,04/19/17 02:10 PM,SysOps - Help Desk,Z000712333,XATLCAMP06535,HP ELITEBOOK 8470P NOTEBOOK,ATL/OC1/3/,3S016,,4,,617291,AUGUST OO,404-714-1053,ATL,,,415282,LOREAL GOGGINS,configuration change,Adobe DC is not installing,Adobe DCinstall will not fully install. It is interfering with users production because it shuts down applications. Needs to run a full radia,ran full radia connect
+SD4031231,Closed,04/20/17 07:14 AM,767011.0082,04/24/17 12:50 PM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,MEM/VIRTUAL/VIRTUAL/,W@H,4,2,3,120118,TONYA KERR,678-428-3785,MEM,Z000712448,XATL9EBO00008,linker,,Software,Issue with Adobe installing,"User stated that with Adobe not being installed properly, she's not able to complete payroll where she is/USER STATED THIS IS IMPORTANT THAT THIS IS WORKED ON ASAP...
+She is remote agent is Memphis
+she stated Adobe has been trying to install for an hour-but the installation fails
+im2983831-reference ticket
+
+caller cant open any PDF files on workstation/i am not able  to remote into the workstation using the ip address for computer name/ xatl9ebo00008/remote radia console will cant access the machine//error message states unable to acessWMI on the remote XATL9EBO00008 COM exceptopm//i am not able to ping the set//contacted ODS  and was advised to send to tech//caller is based in MEM//caller requesting assistance ASAP call not able to process payroll
+**Title from related Incident record IM2986016:
+Issue with Adobe installing","Related Incident IM2986016 closed.
+User states they Trey from Application support was able to get issue resolved
+Closing ticket
+
+*** *** There are no other related records.  Interaction closed by Incident IM2986016"
+SD4031311,Closed,04/20/17 07:53 AM,767011.0151,04/20/17 11:24 AM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,MSP/BUILDING C - TOWER/6/,T6713,4,3,4,599124,RONALD PEKAR,16122661625,HDQ,Z000680481,XMSP9EBO00109,linker,,Software,adobe not installing,"adobe not installing >>>>>>>  acrbat pro and reader
+**Title from related Incident record IM2986073:
+adobe not installing","Related Incident IM2986073 closed.
+Installed all applications with no corruptions or errors via radia
+
+*** *** There are no other related records.  Interaction closed by Incident IM2986073"
+SD4031715,Closed,04/20/17 10:33 AM,767011.0854,04/20/17 12:36 PM,SysOps - Help Desk,Z000904024,XATLCAMP04678,TOSHIBA TECRA Z40 I5-4310U,ATL/OC1/4/,4C002,,4,,537823,MARGARET GROSEL,404-773-1731,ATL,,,415282,LOREAL GOGGINS,configuration change,adobe dc not installing,DC keeps reverting back on the install. Will not complete.,ran install
+SD4034555,Closed,04/21/17 12:19 PM,767011.0036,04/25/17 09:15 AM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/MIDFIELD SUPPORT/2/,2NE034,4,3,4,446731,ROBERT RIPLEY,404-353-5661,ATL,Z000904004,XATLCAMP04379,linker,,Software,A Radia push just completed and now I no longer have any Adobe programs installed,"User states: ""A Radia push just completed and now I no longer have any Adobe programs installed.
+User also states: ""I also had adobe cc installed and i don't see it on this list so I am concerned that it is gone as well
+I already did the iShop and it's been approved and paid for once. I would have to request and have it paid for again?
+The installation was completed two months ago on the same computer
+On the task bar below is the broken shortcut for what used to point to photoshop""
+
+Please be advised thank you
+**Title from related Incident record IM2987730:
+A Radia push just completed and now I no longer have any Adobe programs installed","Related Incident IM2987730 closed.
+user submitted ishop request for Acrobat cloud,
+un-entitled the Acrobat Pro , refresh catalog and ran the radia
+user will have acrobat after 1 hour
+
+*** *** There are no other related records.  Interaction closed by Incident IM2987730"
+SD4037541,Closed,04/23/17 08:27 AM,767011.1114,04/28/17 09:03 AM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/TOC3/3/,P-3016 Dept 231 CSR,4,3,4,882811,KAREN HENKE,404-714-1415,ATL,Z000680398,XATLCAMP03175,linker,,Unknown,ADOBE DC will not install,"ADOBE DC will not install has failed several time installing and user cannot view any .PDF's   Licensing server error is what comes up. User has opened 3 or 4 tickets on this issue and issues has never been fixed.   Screen shot attached
+**Title from related Incident record IM2989371:
+ADOBE DC will not install","Related Incident IM2989371 closed.
+I called user 3 times// no answer// closing incident
+Failing to install properly even with automated script - Still Checking ....
+Machine may need rebuild, it is not responding to repair methods.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2989371"
+SD4039690,Closed,04/24/17 10:34 AM,767011.0401,04/24/17 11:32 AM,SysOps - Help Desk,Z000904281,XMDWACSB00002,TOSHIBA TECRA Z40 I5-4310U,MDW/AIRPORT - LANDSIDE/1/,station managers office,,4,,299854,TORRENCE ABERCROMBIE,920-257-9737,MDW,,,711734,AMOY DAVIS,data changed/recovered,Adobe not  installed,"user stated that he is unable to open any PDF files
+When he opens the file Windows media center opens
+looked at his program files and found that adobe was missing",reinstalled adobe pro
+SD4039833,Closed,04/24/17 11:17 AM,767011.0014,04/24/17 11:19 AM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,,2CW150,,,,487400,ROBERT JONES,404-677-5781,ATL,Z000738033,XATLCAMP00570,514038,CLEON WAHLIN,software modification/reinstal,Stuck on Adobe Acrobat install,"Bob Jones 487400/ workstation installing Adobe Acrobat hung/ fixed last week, but is happening again / XATLCAMP00570
+	Cust requested Install be aborted as he had to work / had been running for 2 hrs","Canceled install, cust will call back when he has time to let install run."
+SD4042312,Closed,04/25/17 10:55 AM,767011.006,04/25/17 11:04 AM,SysOps - Help Desk,Adobe Livecycles ES,Adobe Livecycles ES,,ATL/ADMIN CENTER/1/,1SW350,,4,,228262,KAREN DAVIS,404-715-9854,ATL,Z000905574,XATLCAMP05105,761587,VASUTHARINI RAMESH,software modification/reinstal,Adobe acrobat pro installation failed,"User stated do not have acrobat pro get metod error
+Ran full radia connect keep getting the same error/error something about licensing
+
+HD uninstalled/force deleted the app
+reinstalled it from Service manager/asked her to run full radia connect again",full radia connect
+SD4044630,Closed,04/26/17 09:50 AM,767011.0025,04/26/17 02:39 PM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/VIRTUAL/VIRTUAL/,5SE310,4,3,4,617149,DAWEI EASTERWOOD,404-714-1567,ATL,Z000903673,XATLCAMP05060,linker,,Software Distribution,Adobe Acrobat Pro install,"Radia push uninstalled Adobe Acrobat Pro off user's machine and installed Adobe Reader DC
+Requesting to have Adobe Acrobat Pro 11 installed on machine
+**Title from related Incident record IM2992932:
+Adobe Acrobat Pro install","Related Incident IM2992932 closed.
+Advised IShop request for Adobe Pro
+
+Checked Radia logs do not see any Adobe Pro on machine listed in ticket... Client Database query does not show Adobe Pro ever entitled .. Radia logs indicate Adobe Reader DC installed  3/3/2017...  possibly different machine than listed in ticket... if same machine IShop request...
+
+*** *** There are no other related records.  Interaction closed by Incident IM2992932"
+SD4045432,Closed,04/26/17 02:26 PM,767011.0088,05/05/17 09:15 AM,SysOps - Help Desk,Z000905574,XATLCAMP05105,TOSHIBA PORTEGE Z30 I5-4310U,ATL/ADMIN CENTER/1/,1SW350,4,4,5,228262,KAREN DAVIS,404-715-9854,ATL,Z000905574,XATLCAMP05105,linker,,Software,installing adobe acrobat reading. taking a long time. told them to call back later and opening incid,"installing adobe acrobat reading. taking a long time. told them to call back later and opening incident to ods
+**Title from related Incident record IM2993338:
+installing adobe acrobat reading. taking a long time. told them to call back later and opening incid","Related Incident IM2993338 closed.
+Completed ....
+
+*** *** There are no other related records.  Interaction closed by Incident IM2993338"
+SD4045700,Closed,04/26/17 04:15 PM,767011.0549,04/26/17 04:42 PM,SysOps - Help Desk,ACROBAT PRO_GEN,ACROBAT PRO_GEN,ACROBAT PRO,,,4,3,4,228262,KAREN DAVIS,404-715-9854,ATL,,,420682,JENNIFER FRETWELL,configuration change,Adobe DC will not install - IM2993338,Adobe DC will not install - IM2993338,Restarted laptop and Marjan will contact tech to take a look.  restarted install
+SD4049728,Closed,04/28/17 11:40 AM,767011.0045,04/29/17 12:15 PM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,SLC/AIRPORT  - CONCOURSE C/1/,C GATE MTC WORK AREA,4,3,4,889313,RUSS ANDERSON,801-809-3015,SLC,Z000737032,WSLCLMTC00005,linker,,Hardware,adobe reader is stuck on installing killed radia connect and attempted to verify repair acrobat read,"adobe reader is stuck on installing killed radia connect and attempted to verify repair acrobat read
+
+Previos
+**Title from related Incident record IM2995654:
+adobe reader is stuck on installing killed radia connect and attempted to verify repair acrobat read","Related Incident IM2995654 closed.
+Verified and build was completed and all printers were installed as well.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2995654"
+SD4052675,Closed,04/23/17 08:27 AM,767011.113,04/30/17 05:29 AM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/TOC3/3/,P-3016 Dept 231 CSR,4,3,4,882811,KAREN HENKE,404-714-1415,ATL,Z000680398,XATLCAMP03175,670006,ARTHUR SIMPSON,Unknown,ADOBE DC will not install (DUPLICATED REF SD4037541),"ADOBE DC will not install has failed several time installing and user cannot view any .PDF's   Licensing server error is what comes up. User has opened 3 or 4 tickets on this issue and issues has never been fixed.   Screen shot attached
+**Title from related Incident record IM2989371:
+ADOBE DC will not install
+
+BEST CONTACT - (727) 743-8987
+
+Escalating back to FO","Related Incident IM2989371 closed.
+I called user 3 times// no answer// closing incident
+Failing to install properly even with automated script - Still Checking ....
+Machine may need rebuild, it is not responding to repair methods.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2989371"
+SD4072945,Closed,05/09/17 08:09 AM,767011.0056,05/09/17 08:17 AM,SysOps - Help Desk,Z000912555,XMSP9EMB00101,TOSHIBA TECRA Z40-C I5-6300U 8GB,,WHSE,,4,,365233,GERARDO SORIANO,4,HDQ,,,482832,ANDRE ARCHER,user training,unable to install adobe through radia,"unable to install adobe through radia
+errors says adobe creative cloud, it does not exsist","user rebooted computer, and radia ran. user did not recieve same error message
+will call back if it does not install correctly"
+SD4075323,Closed,05/10/17 06:15 AM,767011.0258,05/31/17 08:42 AM,SysOps - Help Desk,Z000901497,XMOWSFAM00003,TOSHIBA PORTEGE  Z30 LAPTOP,MOW/DISTRICT SALES/2/,Sales,4,3,4,764500,TATIANA CHUGAEVA,+74959379098,MOW,Z000901497,XMOWSFAM00003,linker,,Software Distribution,Needs to install the Adobe Acrobat professional,"User needs to install the Adobe Acrobat professional
+logged in as admin / run the radia / it failed/ tried to uninstal and reinstal from the Radia counsel, it says that the radia is running on the computer
+Tried to kill the radia, it takes too long with no respond and sits there
+
+Please be advised thank you
+**Title from related Incident record IM3008087:
+Needs to install the Adobe Acrobat professional","Related Incident IM3008087 closed.
+Pushed install via Radia .... dameware to verify software is installed.....Everything installed successfully.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3008087"
+SD4077955,Closed,05/11/17 07:49 AM,767011.0173,05/16/17 11:18 AM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/TOC3/3/,P-3036 Dept  231  CSR Area,4,3,4,362673,MIKE SULLIVAN,404-773-4049/ cell: 770-823-7809,ATL,Z000729370,XATLCAMP03074,linker,,Software,Adobe failed to install,"User states that the Adobe failed to install
+killed the radia, uninstalled, force delete, refresh catalog and reinstall/ asked to reboot / Adobe didn't instal properly
+
+Please be advised thank you
+**Title from related Incident record IM3009493:
+ Adobe failed to install","Related Incident IM3009493 closed.
+Completed --- re-installed and re-licensed
+
+*** *** There are no other related records.  Interaction closed by Incident IM3009493"
+SD4090181,Closed,05/16/17 12:40 PM,767011.0029,05/17/17 02:33 PM,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/ADMIN CENTER/4/,4NE056,4,3,4,080225,MASON ELLEDGE,470-455-8030,SAO,Z000909199,XATLCAMP05003,linker,,Software,no longer have Adobe Acrobat Pro installed,"After running a radia connect yesterday, I no longer have Adobe Acrobat Pro installed on my computer. I re-ran a full radia connect today with no result.
+(12:22:30) Mason Elledge said:
+I am in the DL sales office in Sao Paulo. But with an ethernet connection
+
+* Return code- 209 in Radia
+
+Requesting FE assiatance
+**Title from related Incident record IM3014933:
+no longer have Adobe Acrobat Pro installed","Related Incident IM3014933 closed.
+return code was 202 in radia
+chose ATL proxy and reinstalled the ADOBE
+issue resolved
+
+*** *** There are no other related records.  Interaction closed by Incident IM3014933"
+SD4128780,Open - Linked,06/01/17 07:45 AM,767011.009,,SysOps - Help Desk,ADOBE READER_GEN,ADOBE READER_GEN,ADOBE READER,ATL/TOC2/MEZZANINE1/,Dept. 554  Chip Lewis,4,3,4,160039,GEMMA DICRISTINA,404 714 5843,ATL,Z000738551,XATLCAMP02922,,,,Needs to instal the Adobe Reader,"User had called on 5/19, SD4097220 and needed to instal the Adobe Reader, but it seems it doesn't work
+HD run the radia and  run the update on C/ESD/DIS and rebooted it the computer/ same issue
+
+Please be advised thank you",
+SD4137273,Closed,06/05/17 08:21 AM,767011.0056,06/05/17 08:29 AM,SysOps - Help Desk,Z000729316,XATLCAMP04049,HP ELITEBOOK 8470P NOTEBOOK,ATL/OC1/4/,4S154,,4,,552631,DEBRA DUDEK,404-715-2629,ATL,Z000729316,XATLCAMP04049,066278,ADEYINKA ADEDOTUN,software modification/reinstal,Radia connection not installating Adobe Acrobat,Radia connection not installating Adobe Acrobat..Advised user to let Radia finish installing Adobe pro....If issue persist she can call back,Advised user to let Radia finish installing Adobe pro....If issue persist she can call back
+SD4137383,Open - Idle,06/05/17 08:21 AM,767011.0058,,SysOps - Help Desk,Z000729316,XATLCAMP04049,HP ELITEBOOK 8470P NOTEBOOK,ATL/OC1/4/,4S154,,4,,552631,DEBRA DUDEK,404-715-2629,ATL,Z000729316,XATLCAMP04049,,,software modification/reinstal,Radia connection not installating Adobe Acrobat,Radia connection not installating Adobe Acrobat..Advised user to let Radia finish installing Adobe pro....If issue persist she can call back,Advised user to let Radia finish installing Adobe pro....If issue persist she can call back
