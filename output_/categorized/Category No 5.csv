@@ -1,0 +1,302 @@
+Interaction ID,Status,Impact Start Date,Handle Time,Close Time,Assignment Group,Affected CI,CI Name,Hardware Type,CI Location,Office / Postion,Impact,Urgency,Severity,Employee ID,Name,Contact Phone,Location,Workstation Asset Tag,Workstation Name,Closed By,Closed By Name,Root Cause Code,Title,Description,Solution
+SD3723663,Closed,12/01/16 10:00 PM,767011.0049,12/01/16 10:04 PM,SysOps - Help Desk,Windows,Windows,,HIB/VIRTUAL/VIRTUAL/,CANDY NADING,,4,,533850,CANDY NADING,xx,HIB,Z000681958,HHIBRWAH00086,397365,RAMYA VASUDEVAN,User Training,Installation of software.,"Installation of software.
+
+A software has been installed.
+User wants to know whether anything has to be done from her end.
+Indformed the user.
+hence closing.","Installation of software.
+
+A software has been installed.
+User wants to know whether anything has to be done from her end.
+Indformed the user.
+hence closing."
+SD3730680,Closed,12/05/16 08:26 AM,767011.0042,12/05/16 08:32 AM,SysOps - Help Desk,,,,,B1SW023,,,,631203,SHANNON GERHARD-SOUTH,770-826-6425,ATL,Z000907938,XATLCAMP08559,167248,CAMEI SAMPSON,withdrawn by user,Radia not install software,"Radia not install software
+User didn't know what software she was having issues with
+Unable to remote into user's compuer / wasn't on the network
+User verified that her issue has been resolved","Radia not install software
+User didn't know what software she was having issues with
+Unable to remote into user's compuer / wasn't on the network
+User verified that her issue has been resolved"
+SD3736812,Closed,12/07/16 12:09 PM,767011.0021,12/07/16 12:12 PM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,987215,JEREMY KIM,000-000-0000,ATL,,,799286,ABNER HEARN,User Training,Information only_EFB Installing new software,Information only_EFB Installing new software,Information only_EFB Installing new software
+SD3747987,Closed,12/12/16 11:17 AM,767011.0024,12/12/16 11:20 AM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,471910,GLENN COOPER,000-000-0000,ATL,,,522830,DIAMOND CRANE,User Training,questions about installing software on surface 3 tablet,questions about installing software on surface 3 tablet,I informed the user of the current admin email and password issue with installing software on the surface 3 devices.
+SD3770173,Closed,12/21/16 02:06 AM,767011.0597,12/21/16 03:32 AM,SysOps - Help Desk,Windows 7,Windows 7,,,WHSE,,4,,W29626,VISWANATHAN OTHEESWARAN,9445453091,MAA,VM00004096,VATLODCB00088,499602,JANANI BALAKRISHNAN,User Training,Installation of software,"User raised ishop request and it got approved but not able to install
+Initiated radia full connect and asked to restart and check it worked.
+Issue fixed","User raised ishop request and it got approved but not able to install
+Initiated radia full connect and asked to restart and check it worked.
+Issue fixed"
+SD3799899,Closed,01/04/17 03:34 AM,767011.0176,01/05/17 09:54 PM,SysOps - Help Desk,VM00004153,VATLRMGT00050,VMWARE VIRTUAL PLATFORM,AMS/VIRTUAL/VIRTUAL/,,4,3,4,563784,DHIRAJ AGRAWAL,+31206492964,AMS,VM00004153,VATLRMGT00050,linker,,Software,Software installation issue,"User called and informed that the software from the radian shows it is installed, but when in the computer it is not installed
+User need assistance for it
+Software: SAS Enterprise guide 5.1
+Took user PC in remote
+Able to find the SAS 9.4 version in the control panel
+Tried to re-install the SAS Enterprise Version
+User is not able to find the software in the All programs
+User need assistance in it
+Called the ODS, line was busy
+Hence assigning it
+**Title from related Incident record IM2872063:
+Software installation issue","Related Incident IM2872063 closed.
+01/04/17 15:57:18 US/Eastern (304503):
+User called and reported that SAS EG didn't get installed on his machine its missing from All Programs.
+Engaged SC and got newer version of SAS entitled  SAS Developer Role 7.1 - Win 7 - v1.0.0.0 (Nested).
+
+*** *** There are no other related records.  Interaction closed by Incident IM2872063"
+SD3800500,Closed,01/04/17 09:12 AM,767011.0091,01/04/17 10:04 AM,SysOps - Help Desk,Z000909987,XATLCAMP10929,TECRA Z40 BROADWELL I5-5300U 8GB FHD SCREEN,ATL/OC1/5/,5S044,4,3,4,068461,EDWIN FERNANDEZ,404-715-5653,ATL,Z000909987,XATLCAMP10929,linker,,Software,Software install Q980809,"User submitted iShop request Q980809 to have software installed
+Software hasn't been installed on user computer. User ran Radia Full Connect 3 times
+Approved software Adobe Acrobat Pro, MS Project, MS Visio, Adobe Photoshop.
+**Title from related Incident record IM2872358:
+Software install Q980809","Related Incident IM2872358 closed.
+Do not see any line items in Quote for optional s/w... Contacted Allen Sulton (TPC)... Allen indicated user needed to contact him regarding Adobe S/W required...
+Allen was going to follow-up with user.
+
+Ok to close ticket...
+
+*** *** There are no other related records.  Interaction closed by Incident IM2872358"
+SD3803461,Closed,01/05/17 11:06 AM,767011.0017,01/05/17 11:08 AM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,148775,JAMES KELLOGG,-,ATL,,,397287,NISHANT YADAV,user training,unable to install personal software EFB 3,"surface 3
+advsied pilot that Admn functions are not activated",advsied pilot that Admn functions are not activated
+SD3808544,Closed,01/07/17 11:10 AM,767011.0019,01/07/17 11:12 AM,SysOps - Help Desk,,,,,,,,,196683,ERIC HARRISON,00,LGA,,,380523,KEYON SMITH,User Training,wanted to know about install software on the personal side of the EFB,wanted to know about install software on the personal side of the EFB,wanted to know about install software on the personal side of the EFB....informed him that at the moment this not available for EFB admin rights
+SD3817801,Closed,01/11/17 03:37 AM,767011.0146,01/11/17 07:47 AM,SysOps - Help Desk,ITUNES,ITUNES,ITUNES,MAD/EUROPEAN SALES OFFICE/5/,MAIN,4,3,4,770446,ANA CASENAVE,34917580162,MAD,Z000739917,XMADSFAM00003,linker,,Software,software not installed.,"User has submitted the Ishop request  to install Itunes.
+The request id is Q986811.
+The request is closed but the software is not yet installed.
+Ran radia.
+Unable to find the Itunes in Radia software manager.
+Hence escalating.
+checked with ODS
+**Title from related Incident record IM2879451:
+software not installed.","Related Incident IM2879451 closed.
+it was reinstalled
+
+*** *** There are no other related records.  Interaction closed by Incident IM2879451"
+SD3819009,Closed,01/11/17 12:39 PM,767011.0012,01/11/17 12:41 PM,SysOps - Help Desk,,,,,,,,,294016,JAY EDMUNDS,4356406298,SLC,,,282711,SAM SOLAIMANI,User Training,Pilot asking for Admin rights to install prohibited software,Pilot asking for Admin rights to install prohibited software,Informed user that I cannot fulfill that request
+SD3823071,Closed,01/13/17 02:42 AM,767011.0071,01/13/17 02:53 AM,SysOps - Help Desk,WINDOWS-SERVERS_GEN,WINDOWS-SERVERS_GEN,WINDOWS-SERVERS,,,,,,424127,GAYATHIRI KATHIRESAN,xx,ATL,,,Q89236,ARUNKUMAR PALANISWAMY,User Training,Need assistance in software installation.,"Need assistance in software installation.
+
+Guided him to raise a ishop request","Need assistance in software installation.
+
+Guided him to raise a ishop request"
+SD3836709,Closed,01/19/17 01:11 PM,767011.0086,01/19/17 01:24 PM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,265420,SHIDDHARTH SANGAL,N/a,LGA,,,279383,SANAZ HAKIMI-SAEIDI,configuration change,"Keep recieving a pop up: ""Air watch LLC, wants to instal software on the tablet""","User states that keep recieving a pop up: ""Air watch LLC, wants to instal software on the tablet""",Asked user to instal it from catalog/ esolved
+SD3849511,Closed,01/25/17 09:32 AM,767011.0029,01/30/17 08:16 AM,SysOps - Help Desk,Z000909856,XATLCAMP10968,TECRA Z40 BROADWELL I5-5300U 8GB FHD SCREEN,ATL/ADMIN CENTER/5/,5SE226,4,3,4,305793,DAMAR CLARKE,4047730031,ATL,,,linker,,Software,Software install,"User needs a software install for teradata client 15. version 1.0.1.0.
+**Title from related Incident record IM2893286:
+Software install","Related Incident IM2893286 closed.
+01/26/17 09:47:42 US/Eastern (353792):
+Reinstalled both components from Radia--
+SD_TERADATA_SA_W64_V15.10.2.3
+SD_TERADATA_SA_WIN_V15.11.0.0
+
+*** *** There are no other related records.  Interaction closed by Incident IM2893286"
+SD3849929,Closed,01/25/17 11:57 AM,767011.0127,01/25/17 12:15 PM,SysOps - Help Desk,RAD,,,,2SE126,,,,818929,TEJESH KETHAM REDDY,000,ATL,Z000736411,WATLCAMP00565,761587,VASUTHARINI RAMESH,software modification/reinstal,RAD software installation failed -Q896821,"User stated had an ishop request on july and they have pushed the software in to my system still not able to get the software and see the software in radia self service manager.
+
+Helpdesk,
+REmote itno user computer verified the software exists in user computer but there was a method erro, uninstall reinstall the software but there was an error: The RAD 7.5.5 install will only work during an overnight radia connect.
+Asked the user to run radia full connect call back if the software not installed",Asked the user to run radia full connect call back if the software not installed
+SD3855828,Closed,01/28/17 06:12 AM,767011.0394,01/28/17 07:08 AM,SysOps - Help Desk,,,,,,,,,633538,COREY REYNOLDS,000-000-0000,TYS,,,670006,ARTHUR SIMPSON,withdrawn by user,Q999462 - Software install (Flight Tracking software),"Q999462 - Software install (Flight Tracking software)
+
+Caller received email stating completed yest.",Let caller know to run Radia Full Connect and reboot. Let caller know it can take up to 24/48 hrs to process. Let caller know to let us know if app isn't installed
+SD3861840,Closed,01/31/17 10:38 AM,767011.005,02/03/17 02:03 PM,SysOps - Help Desk,Z000910005,XATLCAMP10925,TECRA Z40 BROADWELL I5-5300U 8GB FHD SCREEN,ATL/TOC1/2/,WHSE,4,4,5,466582,DOUG HASSER,404-660 8904,ATL,Z000910005,XATLCAMP10925,linker,,Unknown,unable to install dual monitor software,"unable to install dual monitor software
+could not connect via radia or dameware
+FO requested
+toc1 /2nd floor
+**Title from related Incident record IM2900737:
+unable to install dual monitor software","Related Incident IM2900737 closed.
+CALLED USER NO ANSWER CLOSING TICKET
+
+*** *** There are no other related records.  Interaction closed by Incident IM2900737"
+SD3868396,Closed,02/03/17 07:59 AM,767011.0072,02/03/17 08:09 AM,SysOps - Help Desk,SQL Server,SQL Server,,VATLITWB00341,,,,,098646,TAPANAYAN MANNA,919674669440,BLR,VATLITWB00341,,420682,JENNIFER FRETWELL,configuration change,when i am trying to run the installed software its asking for a key,"when i am trying to run the installed software its asking for a key
+sql navigator
+iShop request for this:  Q993260","Please contact 613025, if Radia does not push the SQL Navigator
+Also advised the caller that normally he must wait 24 to 48 hours after completion"
+SD3874039,Closed,02/06/17 01:23 PM,767011.0108,02/06/17 03:29 PM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/ADMIN CENTER/2/,2NW010-9,4,3,4,000000,No User,678 414 5738,,Z000911431,XATLCAMP00805,linker,,Software Distribution,software install,"wants team viewer appl installed on pc
+--  caller wants to have application installed on pc but its not listed in ishop
+
+I engaged Mohindar (ODS) who advised me to send to software group
+**Title from related Incident record IM2907346:
+software install","Related Incident IM2907346 closed.
+We do not have an application under the name of team viewer.  I've reached out to the user letting them know that a software by this name is not available to Delta users.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2907346"
+SD3891500,Closed,02/14/17 02:44 PM,767011.0138,02/14/17 03:04 PM,SysOps - Help Desk,Windows 7,Windows 7,,,5NW020,,4,,782773,RYAN BURR,404-6777597,ATL,Z000908853,XATLCAMP09768,714910,JOANNA BURNLEY,user training,Windsoft not installing correctly not delta software,unable to install software correctly/ able to install but when appplication download did not succeessfully installed contact your administrator /system unavailable,advised user to try to install software off the delta network/ advised user to contact software troubleshooting
+SD3897621,Closed,02/17/17 10:30 AM,767011.0106,02/17/17 05:20 PM,SysOps - Help Desk,Z000903228,XATLCAMP03279,TOSHIBA TECRA Z40 I5-4310U,ATL/VIRTUAL/VIRTUAL/,WHSE,4,3,4,404846,WILLIAM HILL,404-714-1358,ATL,Z000903228,XATLCAMP03279,linker,,Software,Trying to install turning point software,"Trying to install turning point software
+Advised user that he has to have admin rights to install this which can be obtain via iShop
+Accessed users PC and the message is attached that he is receiving
+User states that others on his team have this plugin and didn't have to create an iShop request
+Engaged Team Lead (Sal) - Advised to contact ODS
+Engaged ODS (Byron)
+**Title from related Incident record IM2919036:
+Trying to install turning point software","Related Incident IM2919036 closed.
+User has to request admin right to install this application
+
+*** *** There are no other related records.  Interaction closed by Incident IM2919036"
+SD3897821,Closed,02/17/17 11:33 AM,767011.0071,02/17/17 11:43 AM,SysOps - Help Desk,,,,,QUALITY CONTROL MCH-1307,,,,546885,DOUG SCHOLZ,612-266-4636,MSP,Z000705886,XMSPBLDC00075,420682,JENNIFER FRETWELL,configuration change,ishop request was completed for Rosetta Stone and still does not have access to install this softwar,ishop request was completed for Rosetta Stone and still does not have access to install this software,"confirmed that iShop request was complete and asked the user to run full radia and then retart the laptop and attempt to reinstall.
+ishop request - Q1013088"
+SD3925566,Closed,03/03/17 05:32 AM,767011.007,03/03/17 05:42 AM,SysOps - Help Desk,Windows 7,Windows 7,,IND/AIRPORT/2/,GATE A12,,4,,706668,JEFFREY SYFERD,xxx,IND,Z000656598,WINDGATEA12P1,499602,JANANI BALAKRISHNAN,user training,Radia instaling software,"Adobe reader is getting installed so asked to wait till the radia completes.
+USer agreed","Adobe reader is getting installed so asked to wait till the radia completes.
+USer agreed"
+SD3940095,Closed,03/09/17 10:07 PM,767011.0063,03/10/17 12:22 PM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,SEA/VIRTUAL/VIRTUAL/,,4,3,4,935752,CURTIS MCINTYRE,406 249 8173,SEA,Z000826981,RFOPSZ000826981,linker,,Unknown,Installation of driver software on EFB,"Installation of driver software on EFB
+User trying to do it but asking for admin rights.
+Hence escalating.
+**Title from related Incident record IM2939898:
+Installation of driver software on EFB","Related Incident IM2939898 closed.
+Left vm for pilot to callback for further assistance.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2939898"
+SD3968083,Closed,03/22/17 03:17 PM,767011.0421,03/22/17 04:18 PM,SysOps - Help Desk,,,,,,,,,953273,KELLIE HARRIS,7738947842,ATL,,,639194,KYLE CZYSCON,withdrawn by user,im2952413 radia was being pushed as i remoted in to install the software,im2952413 radia was being pushed as i remoted in to install the software,im2952413 radia was being pushed as i remoted in to install the software
+SD3968261,Closed,03/22/17 04:30 PM,767011.0041,03/28/17 11:56 AM,SysOps - Help Desk,Z000911835,XATLCAMP11242,TOSHIBA TECRA Z40-C I5-6300U 8GB,ATL/ADMIN CENTER/2/,2NW272,4,4,5,405423,NATALIE MITCHELL,4047 73 9403 desk  // 770 235 5722 cell,ATL,Z000911835,XATLCAMP11242,linker,,Software Distribution,RAD software is not installing correctly,"RAD software is not installing correctly
+
+opening ticket per John Demko to engcs - software asset mgt
+**Title from related Incident record IM2953688:
+RAD software is not installing correctly","Related Incident IM2953688 closed.
+RAD successfully installed closing ticket...
+
+From: Mitchell, Natalie
+Sent: Tuesday, March 28, 2017 11:53 AM
+To: Brown, Randy <Randy.Brown@delta.com>
+Subject: RE: Incident IM2953688 RAD installation...
+
+I know have the RAD installed.  Please close out the ticket.
+
+Thank you kindly.
+
+Natalie
+
+From: Brown, Randy
+Sent: Tuesday, March 28, 2017 11:25 AM
+To: Mitchell, Natalie <Natalie.Mitchell@delta.com>
+Cc: Brown, Randy <Randy.Brown@delta.com>
+Subject: Incident IM2953688 RAD installation...
+
+Natalie,
+
+Please contact the ODS Department regarding your open ticket at 404-714-5500 selecting option 1. Please reference ticket number in the
+subject line of this email when responding. Even if you are no longer having this issue please contact us so we can close out your ticket.
+
+Thank you,
+
+Randy Brown
+ODS 404 714 5500 option 1
+
+*** *** There are no other related records.  Interaction closed by Incident IM2953688"
+SD3981566,Closed,03/29/17 09:41 AM,767011.0079,03/29/17 09:52 AM,SysOps - Help Desk,Radia,Radia,,ATL/AIRPORT - A CONCOURSE/1/,A17 In-Flight Wall St (Alice M,,2,,454015,ALICE MCNULTY,404-714-9050,ATL,Z000740139,XATLICRW00053,761587,VASUTHARINI RAMESH,software modification/reinstal,Delta It installing software Distribution,"Radia installing software Acrobat Pro and user stated unabel to open any applicaiton from computer
+Have called yesterday they killed it it happened again
+
+Hd killed the radia connect and rebooted the system",Hd killed the radia connect and rebooted the system
+SD3998410,Closed,04/05/17 01:56 PM,767011.0041,04/05/17 02:02 PM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,901752,CHRISTOPHER CONNOLLY,149191,JFK,,,884984,MATTHEW BARBER,configuration change,ebid software install questions,recommend checkingfor equivalent software in microsoft app store,recommend checkingfor equivalent software in microsoft app store
+SD4003963,Closed,04/07/17 01:57 PM,767011.0011,04/07/17 01:59 PM,SysOps - Help Desk,,,,,,,,,427020,ARMANDO VALDEZ,0,ATL,,,420682,JENNIFER FRETWELL,configuration change,Needs to install software,Needs to install software,iShop
+SD4011227,Closed,04/10/17 05:59 PM,767011.0017,04/10/17 06:02 PM,SysOps - Help Desk,,,,,,,,,402436,MICHAEL DEHART,00000,ATL,,,774839,KAJA CARTER,User Training,Unable to install software,Trying to install software on tablet. Getting message to enter admin password,Advised user that he dont have admin rights
+SD4027851,Closed,04/18/17 03:50 PM,767011.0035,04/28/17 03:18 AM,SysOps - Help Desk,ATTACHMATE EXTRA X TREME,ATTACHMATE EXTRA X TREME,ATTACHMATE EXTRA X TREME,BOG/FINANCE/7/,,4,3,4,183073,GUALBERTO PEREZ,571-357-2210,BOG,Z000677375,WBOGFINC00021,linker,,Software,Software  not installed,"Software  not installed
+Attachmate Xtreme  for the following users  290894 and 769062
+the ISHOP code is CS – ISHOP Q1041017-001
+Ran Radia Connect yesterday and today. We just did again
+SysOps - ODS Please Advise
+Thank you
+**Title from related Incident record IM2984010:
+Software  not installed","Related Incident IM2984010 closed.
+4/24/2017
+ Standard HR policies apply to Instant Messaging. Messages may be logged.
+Brown, Randy 2:09 PM
+Good afternoon Donna,  This is Randy Delta I.T. with a quick question... were u able to advise BOG personnel Attachmate is needed for
+
+BARTS access... Thank you
+Kelley, Donna H 2:14 PM
+I cannot find him listed in a user grp. He cannot work if he is not in a user gpr also. I sent an email to his mgr who I work with
+
+alot to ask him. they hv not replied
+I hv to call the HD because my pw is not working.  can you give me a little more time
+Kelley, Donna H 2:26 PM
+can you see if my ID works in DBS 419987
+HD is cking but my ID/pw is not working
+Brown, Randy 2:29 PM
+HD is good source for DBMS pwd
+Kelley, Donna H 2:29 PM
+no luck so far - we chgd pw but still not working.  I need to see if your guy is under me in barts.
+Kelley, Donna H 2:36 PM
+Randy - I'm in BARTS - I cannot find any user table with this ID.  I can add him and see if he can get in.  Do you want me to do that
+
+and have him retry?  I understand attachmate also.
+Brown, Randy 2:38 PM
+he will need attachmante 1st ... no need to try unless  attachmate is added
+Kelley, Donna H 2:38 PM
+He needs both - Attachmate and he needs to be added to a user table.  I will tell him
+
+
+Contacted Donna Kelley... REV ACCTG... Donna grants Bart Access... Donna is going to contact BOG...
+04/19/17 07:05:11 US/Eastern (407719):
+IShop request is for MVS / BARTS access which SECIDM completed.... Request does net mention Attachmate... Attachmate is needed for MVS / MAI screens...
+
+*** *** There are no other related records.  Interaction closed by Incident IM2984010"
+SD4040864,Closed,04/24/17 04:45 PM,767011.0083,04/25/17 08:44 AM,SysOps - Help Desk,Z000740153,XATLCAMP11733,HP ELITEBOOK REVOLVE 810G2,ATL/ADMIN CENTER/3/,3SE044,4,3,4,582840,LINDA BIERE,404-677-0689,ATL,XATLCAMP11733,,linker,,Software,Wrong software installed on Laptop Q1048413,"Q1048413 is the request to move MS Project 13 that was originally on the her initial laptop to new Laptop XATLCAMP11733
+Caller request for MS Project 13 recieved MS Project10
+**Title from related Incident record IM2990781:
+Wrong software installed on Laptop Q1048413","Related Incident IM2990781 closed.
+Q1048413 was submitted for moving SD_VISIO_STANDARD_WIN_V11.0.1.2 from current computer to the new one. A new Ishop request will have to be  submitted  for current request. Thanks.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2990781"
+SD4056497,Closed,05/01/17 05:15 PM,767011.027,05/01/17 05:54 PM,SysOps - Help Desk,Z000902635,XATLCAMP02771,TOSHIBA TECRA Z40 ULTRABOOK LAPTOP,ATL/ADMIN CENTER/5/,5SW210,,4,,880492,WILLIAM GAST,404-773-9187,ATL,Z000902635,XATLCAMP02771,515452,KEVIN JOHNSON,user training,SAS Software installed,"SAS Developer - Win 7 - V9.4.1.1
+user needed software installed on WS...
+remoted in and unistalled and reinstalled software...
+770-833-5288-Cell
+Taking awhile for install , radia running and user will check back with helpdesk....","SAS Developer - Win 7 - V9.4.1.1
+user needed software installed on WS...
+remoted in and unistalled and reinstalled software...
+770-833-5288-Cell
+Taking awhile for install , radia running and user will check back with helpdesk...."
+SD4063079,Closed,05/04/17 01:35 PM,767011.0069,05/04/17 01:38 PM,SysOps - Help Desk,Hyperion Financial Suite,Hyperion Financial Suite,,ATL/TRAINING CENTER/2/,2NW062,4,3,4,424205,MARY WILHELMY,4047145938,ATL,Z000906412,XATLCAMP07191,420682,JENNIFER FRETWELL,configuration change,Software is not installed onto laptop - Q1051685,Software is not installed onto laptop - Q1051685,Request has a projected completion date of 5/8
+SD4073012,Closed,05/09/17 08:37 AM,767011.0086,05/12/17 01:54 PM,SysOps - Help Desk,Z000911722,XATLCAMP11631,TOSHIBA TECRA Z40-C I5-6300U 8GB,ATL/ADMIN CENTER/2/,2sw158-simi clement,4,3,4,749819,SIMI CLEMENT,404-773-9049 or 979-676-7211,ATL,Z000911722,XATLCAMP11631,linker,,Software,Software install,"User requesting to have an FO preset Friday (12 May) @ 10am to install vendor software on computer
+Software user requesting to have installed : Crossmatch
+**Title from related Incident record IM3006804:
+Software install","Related Incident IM3006804 closed.
+closing ticket. provide local admin access to vendor to install and configure crossmatch software
+
+*** *** There are no other related records.  Interaction closed by Incident IM3006804"
+SD4076595,Closed,05/10/17 02:01 PM,767011.0081,05/16/17 08:30 AM,SysOps - Help Desk,Radia,Radia,,ATL/TOC1/2/,C-575 CUBE S14-40,4,3,4,982258,BARRY WHITE,404-714-4038,ATL,Z000904783,XATLCAMP05585,linker,,Software Distribution,SAS software request -  did not install correctly,"SAS software request -  having issues -
+user got an email  from John Demko
+It looks like the installation has errors which would need to be addresses by the Software Center group.
+
+You will need to contact the Help Desk & request they open an Incident Report to the Software Center group.
+
+The key is they have to open an Incident Report ( not an IShop ) to get the issue looked into & corrected for you.
+
+
+10.4.130.219
+**Title from related Incident record IM3008618:
+SAS software request -  did not install correctly","Related Incident IM3008618 closed.
+Application installed by Faizuddin Mohammed / he used a custom install file to work around the license error.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3008618"
+SD4076875,Closed,05/10/17 03:29 PM,767011.0221,05/10/17 04:01 PM,SysOps - Help Desk,Windows 7,Windows 7,,,,,1,,735300,PATRICIA PUCHKO,757-428-5146,WAS,Z000900438,XORFSFAM00001,962743,ABRAHAM RIVERA,security access command,Issues installing software,"User is attempting to install a software on the computer
+
+I remoted into computer and logged user out, which kicked me out
+since user is working remotely I advised her she either has to come into the offie or request admin access to install the software
+
+User then rebooted computer and started having issues with IE and deltanet not loading
+
+spoke with lead and the issue is the deltanet is down",verify security and remove lock
+SD4092578,Closed,05/17/17 10:42 AM,767011.0081,05/17/17 10:54 AM,SysOps - Help Desk,Z000739414,XATLCAMP08728,HP ZBOOK 17 I7-4810MQ,,WHSE,,4,,304208,FORREST BALK,000,ATL,,,178226,AFOLABI BENSON,configuration change,Need help installing software,"installed the software for the user
+-had to run the download as a different user","installed the software for the user
+-had to run the download as a different user"
+SD4104934,Open - Linked,05/22/17 02:38 PM,767011.0118,,SysOps - Help Desk,Windows 7,Windows 7,,CCS/VIRTUAL/VIRTUAL/,Juan Carlos Fermin,4,3,4,410106,NOEL PACHECO,404-915-9321,CCS,Z000900341,XCCSSFAM00001,,,,Anti-Virus software listed in security requirements is not installed,"Your computer's security is unsatisfactory
+Your computer does not meet the following security requirements.
+Please follow the instructions below to fix these problems.
+When you are done click Retry.
+If you choose to Close without fixing these problems, you may not have access to all of your intranet servers.1.	Ent_VPN_Host_Checker
+ 	Instructions:	No instructions are available.
+ 	Reasons:	CylancePROTECT 1.2.1390.74 does not comply with policy. Compliance requires real time protection enabled.
+Anti-Virus software listed in security requirements is not installed.
+Action Taken:	No actions are available.
+130 - CSIRT-STAR Please Advise
+Thank you",
+SD4111680,Closed,05/25/17 03:36 AM,767011.0033,05/25/17 03:41 AM,SysOps - Help Desk,,,,,,,,,749812,ESTHER SUTTON,678-923-6529,ATL,,,W18098,PRAVINTH RAJ,User Training,Software installation,Software installation,Software installation
+SD4118773,Closed,05/27/17 09:45 PM,767011.0012,05/27/17 09:47 PM,SysOps - Help Desk,FSM,FSM,FSM,,,,1,,961896,DALERYAN PETRALBA,xx,LAX,,,499602,JANANI BALAKRISHNAN,User Training,Install the software,"Asked to raise ishop request.
+User agreed.","Asked to raise ishop request.
+User agreed."
+SD4121467,Closed,05/29/17 11:48 AM,767011.0012,05/29/17 11:50 AM,SysOps - Help Desk,,,,,,,,,014472,PAMELA ESQUIVELMASIS,50683114923,SJO,,,420682,JENNIFER FRETWELL,configuration change,Needs to install software,Needs to install software,iShop to request admin rights
+SD4136664,Closed,06/04/17 09:49 PM,767011.006,06/04/17 09:58 PM,SysOps - Help Desk,Z000912506,XATLCAMP11912,TOSHIBA PORTEGE Z30-C I5-6300U,ATL/TOC2/1/,HANGAR FRONT DESK  JOHN DURHAM,,4,,271237,JOHN DURHAM,678-205-9975,ATL,Z000912506,XATLCAMP11912,Y99981,ANUDIVYA KANAGAVEL,user training,Unable to install the software for the  Mouse,"Unable to install the software for the  Mouse
+
+User is unable to update the software, it was asking for Admin rights
+Asked the user to raise an iShop request","User is unable to update the software, it was asking for Admin rights
+Asked the user to raise an iShop request"
+SD4140164,Open - Linked,06/06/17 09:16 AM,767011.0044,,SysOps - Help Desk,HPL0400486,RZZZTOPS02654,HP 1000 G2 ELITEPAD TABLET,ATL/TOC1/1/,pwr plant mezz,4,3,4,163922,SIMON PETERSON,404-714-2463,ATL,HPL0400486,RZZZTOPS02654,,,,software for cabin air monitoring system sw install needed,"user doesnt' have admin permissions to install software.
+winmuster AT needed for techops tablet",
+SD4140439,Closed,06/06/17 10:42 AM,767011.0086,06/06/17 10:54 AM,SysOps - Help Desk,Z000912004,XMSPBLDJ01480,TOSHIBA PORTEGE Z30-C I5-6300U,MSP/BUILDING J/2/,J2E1205,,4,,X10487,IVAN KUZNIA,3,MSP,,,482832,ANDRE ARCHER,user training,unable to install software,"unable to install software
+the previous person had software installed, so user is unable to install software under his name
+advised user to try to user program before trying to request it again","unable to install software
+the previous person had software installed, so user is unable to install software under his name
+advised user to try to user program before trying to request it again"

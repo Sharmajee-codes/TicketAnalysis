@@ -1,0 +1,1124 @@
+Interaction ID,Status,Impact Start Date,Handle Time,Close Time,Assignment Group,Affected CI,CI Name,Hardware Type,CI Location,Office / Postion,Impact,Urgency,Severity,Employee ID,Name,Contact Phone,Location,Workstation Asset Tag,Workstation Name,Closed By,Closed By Name,Root Cause Code,Title,Description,Solution
+SD3722111,Closed,12/01/16 11:43 AM,767011.0044,12/01/16 11:49 AM,SysOps - Help Desk,Z000706095,XATLCAMP08798,HP E8460 NOTEBOOK,ATL/OC2/4/,4C027,,4,,867912,JUSTIN HOWELL,d,ATL,,,409529,AMANDA TICE,User Training,"wants to add admin rights, but ishop does not recognize the pc name","wants to add admin rights, but ishop does not recognize the pc name
+-the pc does not have his name attatched, but if he leaves that out and just uses the pc name, it comes up with the correct role","wants to add admin rights, but ishop does not recognize the pc name
+-the pc does not have his name attatched, but if he leaves that out and just uses the pc name, it comes up with the correct role"
+SD3724898,Closed,12/02/16 11:38 AM,767011.0038,12/02/16 11:43 AM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/VIRTUAL/VIRTUAL/,,,4,,748880,JERMESE MITCHELL,8002211212,ATL,Z000754904,HATLRWAH00618,780701,ANTONIO BOLTON,procedure enforcement,windows giving a pop up window askin for admin right,user keeps getting a pop up for a windows update and it was asking for admin rights to run the,ran gpupdate
+SD3726420,Closed,12/02/16 09:26 PM,767011.0028,12/05/16 01:54 PM,SysOps - Help Desk,Z000825034,RFOPSZ000825034,MICROSOFT SURFACE 3 10.8 INCH 4GB 128GB SSD,SEA/VIRTUAL/VIRTUAL/,,4,4,5,951799,BUCK MARTIN,3145661756,SEA,,,linker,,Unknown,Surface Admin Rights,"user wants the ability to add chrome to his
+tablet but lacks teh ability.
+when he tries t install it is asking for admin
+credentials
+**Title from related Incident record IM2841772:
+Surface Admin Rights","Related Incident IM2841772 closed.
+Called pilot and left vm advising that I will email him instructions to install Chrome.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2841772"
+SD3730760,Closed,12/05/16 08:51 AM,767011.0028,12/05/16 09:28 AM,SysOps - Help Desk,Z000680953,WMSPFIDMF09P1,HP COMPAQ 6005 STANDARD SFF,MSP/AIRPORT - F CONCOURSE/2/,F09 FIDS,3,4,4,645199,JANET HEAVER,612-266-9608,MSP,Z000680953,WMSPFIDMF09P1,linker,,Hardware,"WMSPFIDMF09P1_Left side of the FIDS screen is INOP, right side is working_Sending to FO","WMSPFIDMF09P1_Left side of the FIDS screen is INOP, right side is working_Sending to FO
+IM2843067
+**Title from related Incident record IM2843645:
+WMSPFIDMF09P1_Left side of the FIDS screen is INOP, right side is working_Sending to FO","Related Incident IM2843645 closed.
+Powered off monitor and turned it back on
+
+*** *** There are no other related records.  Interaction closed by Incident IM2843645"
+SD3730810,Closed,12/05/16 09:07 AM,767011.0504,12/05/16 10:20 AM,SysOps - Help Desk,,,,,,,,,684232,JOHN JONES,0,ATL,,,415282,LOREAL GOGGINS,software modification/reinstal,Admin rights,"q971638
+https://prezi.com/downloading/
+Admin rights not working for downloading program",logged into admin and installed program
+SD3731615,Closed,12/05/16 12:55 PM,767011.0039,12/05/16 01:00 PM,SysOps - Help Desk,Windows,Windows,,,WHSE,,4,,502591,JOHN GRAMMER,5106847877,SEA,,,796328,SEPIDEH BABAKHANI,User Training,trying to download  NAVTECH TBS  on S3 and asking for admin right,trying to download  NAVTECH TBS  on S3 and asking for admin right,advised user that he can not download anything
+SD3733373,Closed,12/06/16 07:07 AM,767011.0035,12/06/16 07:12 AM,SysOps - Help Desk,Z000738927,XATLCAMP02926,HP ELITEBOOK 8470P NOTEBOOK,ATL/TOC1/2/,ROOM C-618,,4,,298521,DAVID BARNES,404-714-3736,ATL,Z000738927,XATLCAMP02926,169727,MESSIAH PATEL,reboot/recycle,user says the pc is not acting right on the dockingstation,"user says the pc is not acting right on the dockingstation
+user rebooted the pc same issue
+still holding on startup repairs",user good to go
+SD3734464,Closed,12/06/16 01:29 PM,767011.0035,12/06/16 03:29 PM,SysOps - Help Desk,Z000653445,WCVGACSB00031,HP COMPAQ 6005 STANDARD SFF,CVG/AIRPORT - B CONCOURSE/2/,GATE SUPV B-BD12-7,4,4,5,313452,LESLIE MARTINEZ,8597675086,CVG,Z000653445,WCVGACSB00031,linker,,Software,workstation WCVGACSB00031 right moniter will not display,"user called in because his right moniter will not display but the left moniter works. Advise user to checked the cables and to ensure a solid connection and the user stated that everything is connected correctly.
+**Title from related Incident record IM2845187:
+workstation WCVGACSB00031 right moniter will not display","Related Incident IM2845187 closed.
+setting had been changed
+
+*** *** There are no other related records.  Interaction closed by Incident IM2845187"
+SD3734961,Closed,12/06/16 03:54 PM,767011.0301,12/06/16 04:38 PM,SysOps - Help Desk,QUALITY CENTER,QUALITY CENTER,QUALITY CENTER,MSP/BUILDING J/1/,J1C0519,,4,,740898,RAVI SAGI,612-266-2262,MSP,Z000713159,XMSPBLDJ00546,017062,KEVIN DILLARD,User Training,Administrative rights needed add Add-in file to excel spreadsheet for html tool,"Caller is trying to extract add-in ( ) file however admin rights are need to put the addin file into Excel and export it into a html tool for the HP Quality Center application
+HPALM 11.5.0 application",Caller needs to submit an ishop request to obtain admin rights access add-in files.
+SD3736210,Closed,12/07/16 08:57 AM,767011.0268,12/07/16 09:36 AM,SysOps - Help Desk,ITUNES,ITUNES,ITUNES,,,,,,757005,ALLAN HARRISON,404-714-5480,ATL,Z000906434,XATLCAMP07227,017062,KEVIN DILLARD,configuration change,Admin rights,Itunes needs admin right to update,Leads updated itunes
+SD3736502,Closed,12/07/16 10:32 AM,767011.0147,12/07/16 10:54 AM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/CALL CENTER/2/,ROOM 2C1,,4,,628602,STEPHEN LEWIS,808-833-8261,ATL,Z000750778,WATLRES200212,040642,JEREMY WALLACE,Configuration Change,User tries to log on and once he does it logs him right back off,"User tries to log on and once he does it logs him right back off
+
+User said that a tech told him that he is still picking up as if he's in Hawii
+Instead of Atlanta
+
+User said that the other pc that he was using logged him in and out was logging out for 20 mins
+never allowing him to log in
+
+user said that some days he can log on and some day he cannot
+
+I remoted in to watch what happens when user tries to log in and the user is
+stuck at the Welcome screen just spinning waiting to sign in
+and before it could sign in, it switched to signing off
+
+
+Checked user's profile and he has everything there except a terminal path
+
+User needs to do a move and transfer form in Ishop in order to get that fix
+
+After viewing the user's profile path it has HNL in the path so the user is still in HNL profile path
+
+informed the user to have his Mgr do a move and transfer form in Ishop to get the profile path changed","User tries to log on and once he does it logs him right back off
+
+User said that a tech told him that he is still picking up as if he's in Hawii
+Instead of Atlanta
+
+User said that the other pc that he was using logged him in and out was logging out for 20 mins
+never allowing him to log in
+
+user said that some days he can log on and some day he cannot
+
+I remoted in to watch what happens when user tries to log in and the user is
+stuck at the Welcome screen just spinning waiting to sign in
+and before it could sign in, it switched to signing off
+
+
+Checked user's profile and he has everything there except a terminal path
+
+User needs to do a move and transfer form in Ishop in order to get that fix
+
+After viewing the user's profile path it has HNL in the path so the user is still in HNL profile path
+
+informed the user to have his Mgr do a move and transfer form in Ishop to get the profile path changed"
+SD3736610,Closed,12/07/16 11:03 AM,767011.0057,12/16/16 01:28 PM,SysOps - Help Desk,Windows 7,Windows 7,,MSP/BUILDING J/2/,J2C0730,4,3,4,384997,JONATHAN SCHAUMBURG,952-905-0285,MSP,Z000906902,XMSPBLDJ01005,linker,,Hardware,Local Admin Rights not working on laptop,"Jon said his Local Admin rights won't work on his laptop even though he is Clearly the laptops administrator
+Satiah Tugbe is looking into
+**Title from related Incident record IM2846295:
+Local Admin Rights not working on laptop","Related Incident IM2846295 closed.
+The user is comfortable with the work-around on the issue.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2846295"
+SD3737949,Closed,12/07/16 07:29 PM,767011.0068,12/07/16 07:38 PM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,400225,TIMOTHY RORICK,0,ATL,,,040642,JEREMY WALLACE,User Training,User needs Admin rights to download software,User needs Admin rights to download software,Informed user that he would need to do an Ishop request
+SD3738707,Closed,12/08/16 08:42 AM,767011.003,12/08/16 08:47 AM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,299769,JOSEPH TULLOSS,000-000-0000,ATL,,,799286,ABNER HEARN,User Training,"Information Only_EFB_questions on Buy back, Admin rights on Surface 3","Information Only_EFB_questions on Buy back, Admin rights on Surface 3","Information Only_EFB_questions on Buy back, Admin rights on Surface 3"
+SD3741033,Closed,12/09/16 07:07 AM,767011.008,12/09/16 12:48 PM,SysOps - Help Desk,Z000701826,WATLCAMP05754,HP COMPAQ 6005 STANDARD SFF,ATL/OC2/5/,5S094,4,3,4,478437,ERICA ESTICK-GREENE,404-677-8061,ATL,Z000701826,WATLCAMP05754,linker,,Hardware,Inflight scheduling user okidata printer will not print and right  monitor will not come on,"user first time logging in today and having issues with her printer and right monitor....I mapped and could not map in to fix the user printer and monitor issues located 5S094 OC2 5th floor....possible power outage where user located as she is the only user with issues...please send local tech ASAP!
+**Title from related Incident record IM2848576:
+Inflight scheduling user okidata printer will not print and right  monitor will not come on","Related Incident IM2848576 closed.
+Printer was working when I had arrived.  Changed the video dongle for the monitor.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2848576"
+SD3745364,Closed,12/11/16 09:43 AM,767011.0052,12/12/16 12:23 PM,SysOps - Help Desk,Z000832916,RFOPSZ000832916,MICROSOFT SURFACE 3 10.8 INCH 4GB 128GB SSD,MSP/VIRTUAL/VIRTUAL/,,4,4,5,406885,KEVIN DAY,9522393556,MSP,,,linker,,Unknown,Admin Rights Needed,"User is having an issue adding application to his personal side
+Tablet is asking for admin right
+**Title from related Incident record IM2850284:
+Admin Rights Needed","Related Incident IM2850284 closed.
+Left VM stating that we do not have access to the admin rights.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2850284"
+SD3749040,Closed,12/12/16 04:21 PM,767011.0018,12/12/16 04:24 PM,SysOps - Help Desk,Windows 7,Windows 7,,,WHSE,,4,,391704,DONALD HARTE,4046611414,ATL,,,169727,MESSIAH PATEL,User Training,user wants to know eta on admin rights,user wants to know eta on admin rights,no eta user good to go
+SD3754319,Closed,12/14/16 04:12 PM,767011.0188,12/14/16 04:39 PM,SysOps - Help Desk,Z000738731,XATLCAMP07043,HP ELITEBOOK 8470P NOTEBOOK,ATL/TOC1/2/,Room C669 Supplier Ops,,4,,390343,MIKE FOSTER,404-353-2852,DAB,Z000738731,XATLCAMP07043,761587,VASUTHARINI RAMESH,user training,Printer connection issue-Require Admin rights,"User is trying to connect to printer and not able to connect.
+User stated this is a vendor printer (AAR Air craft services)
+When user try to install the printer asked for admin rights.
+Printer Name:HP LaserJet 400MFP M425, remoteinto user computer and logged as an admin and then Installed the driver.",Printer received the test page.
+SD3754673,Closed,12/14/16 06:48 PM,767011.0051,12/14/16 07:34 PM,SysOps - Help Desk,Z000671395,WMSPGATEG10P2,HP COMPAQ 6005 STANDARD SFF,MSP/AIRPORT - G CONCOURSE/2/,GATE G10 POS 2,4,3,4,526959,KAREN EDGE,612-266-9710,MSP,,,linker,,Hardware,"keyboard key broke - the key to the right of ""b"" + left of ""m""","keyboard key broke - the key to the right of ""b"" + left of ""m""
+Requesting FE assistance
+
+(18:44:50) This session has been transferred to Yadav, Nishant.
+
+(18:44:55) You said:
+Thank you for contacting Delta IT Helpdesk, this is Yadav, Nishant
+
+Please hold one moment ...
+
+(18:46:28) You said:
+Hi Kare
+
+(18:46:46) You said:
+Let me open a ticket to the Field Opns
+
+(18:47:05) You said:
+is 612-266-9710  a good call back #
+
+(18:47:34) kare edge said:
+yes
+
+(18:47:56) You said:
+ok
+
+(18:48:08) You said:
+and what is the computer #
+
+(18:48:31) kare edge said:
+wmspgateg10p2
+**Title from related Incident record IM2854660:
+keyboard key broke - the key to the right of ""b"" + left of ""m""","Related Incident IM2854660 closed.
+WW: KB replaced
+
+*** *** There are no other related records.  Interaction closed by Incident IM2854660"
+SD3757887,Closed,12/16/16 03:37 AM,767011.0033,12/20/16 05:16 AM,SysOps - Help Desk,VM00005794,VATLITOP00031,VMWARE VIRTUAL PLATFORM,ATL/OC1/1/,,4,3,4,649821,ARNAB GHOSH,718-565-3936,ATL,VM00005794,VATLITOP00031,linker,,Unknown,Admin rights is not granted,"Admin rights is not granted
+Ishop:  980100
+Request is being closed
+User had tried to run the Radai Full Connect
+User restarted the machine, but still he is not having the admin access
+User need assistance for it
+**Title from related Incident record IM2856330:
+Admin rights is not granted","Advised user where to complete form.   Specialists Identify form you provided instructions on using
+Related Incident IM2856330 closed.
+User responded to email stating that issue is resolved
+
+*** *** There are no other related records.  Interaction closed by Incident IM2856330"
+SD3761479,Closed,12/17/16 01:20 PM,767011.0115,12/17/16 01:37 PM,SysOps - Help Desk,Axis,AXIS,AXIS,CVG/CALL CENTER/6/,BAY 6 POS 22,,0,,072597,ROBERT ALLEN,404-4507-2314,CVG,Z000690281,WCVGRES6B6P22,753680,MARK COLLINS,environmentals restored,axis not working right,axis not working right,gpupdate
+SD3765680,Closed,12/19/16 10:53 AM,767011.0023,12/19/16 12:00 PM,SysOps - Help Desk,Z000265438,WPHXGATE325P1,DESKO KEYBOARD - 101-KEY KEYBOARD - INTEGRATED DATA CAPTURE,PHX/AIRPORT - TERMINAL 3 NORTH CONCOURSE/2/,NORTH CONCOURSE GATE 19 POSITI,4,4,5,907303,CORI WILLIAMS,6026815119,PHX,Z000265438,WPHXGATE325P1,linker,,Hardware,mouse will not right click,"mouse will not right click
+-had user disconnect mouse/reboot computer still would not R-click
+**Title from related Incident record IM2859160:
+mouse will not right click","Related Incident IM2859160 closed.
+Found nothing wrong with the mouse it will right click.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2859160"
+SD3770673,Closed,12/21/16 08:56 AM,767011.0203,12/21/16 05:16 PM,SysOps - Help Desk,TechOps Home Page,TechOps Home Page,,ATL/TOC1/1/,ROOM G-303 under eng records,3,3,3,799092,GEORGE EASTON,404-773-8358,ATL,Z000728770,XATLCAMP06794,linker,,Software,Techops manuals page does not open right away,"10.4.138.168....user have to click several times before his techops manuals page open....remote into user ran the gpupdate, deleted temp files and cookies then restarted wkstn....user still not able to log into work Techops home page without clicking several times...please advise when user goes to techops homepage, maintenance links, fleet manuals, shop work card search, here the work card should come to the front and it does not, type in (7321-01218-04-shop) search user have to click 3 quickly before card come up...sometime card does not come up some times for user....please advise ASAP!
+**Title from related Incident record IM2861236:
+Techops manuals page does not open right away","Related Incident IM2861236 closed.
+George said that when he goes to Shop Work Card Search from Fleet Manuals, he has to select the submit button several times to process his search.
+Remoted into George's pc. Added delta.com to the Compatibility View Settings. After adding delta.com, George was able to get search results immediately after hitting the button.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2861236"
+SD3771122,Closed,12/21/16 11:44 AM,767011.0086,12/21/16 11:57 AM,SysOps - Help Desk,,,,,RES2B9P09,,,,321769,SUSAN ASLAMI,0,SLC,Z000752628,WSLCRES2B9P09,639194,KYLE CZYSCON,User Training,dlterm hiding had to right click and move on screen,dlterm hiding had to right click and move on screen,dlterm hiding had to right click and move on screen
+SD3771339,Closed,12/21/16 12:50 PM,767011.0085,12/27/16 11:56 AM,SysOps - Help Desk,Security,Security,,MSP/BUILDING J/2/,J2D1210,4,3,4,302045,ARLENE PETERSON,612-266-3768,MSP,Z000677959,XMSPBLDJ00638,linker,,Security,Ishop Q982337 Local Admin Rights Windows 7,"User was advise SECIDM Casey Ploehn request that a Incident be created as user did receive Local Admin Rights Windows 7 on her laptop...as user need investigated ASAP!
+**Title from related Incident record IM2861468:
+Ishop Q982337 Local Admin Rights Windows 7","Related Incident IM2861468 closed.
+The user 302045 now has a local admin rights in workstation XMSPBLDJ00638
+
+*** *** There are no other related records.  Interaction closed by Incident IM2861468"
+SD3773029,Closed,12/22/16 08:26 AM,767011.0041,12/22/16 08:32 AM,SysOps - Help Desk,Microsoft Office,,MICROSOFT OFFICE,,BAY 5 POS 42,,5,,665433,MARY FREEMAN,218-254-7500,HIB,Z000736708,WHIBRES2B5P42,279383,SANAZ HAKIMI-SAEIDI,configuration change,Unable to get the right IM,"User unable to get the Im message
+signed with dissferent email
+changed it from setting
+worked successfully","User unable to get the Im message
+signed with dissferent email
+changed it from setting
+worked successfully"
+SD3773281,Closed,12/22/16 10:01 AM,767011.0083,12/22/16 10:13 AM,SysOps - Help Desk,Microsoft Office,,MICROSOFT OFFICE,ATL/AIRPORT - E CONCOURSE/1/,E RAMP,,5,,580143,KENNETH BANNISTER,404-714-8347,ATL,Z000752861,WATLACSB00523,331190,MASIH MAHMOODI,configuration change,user has excel files that are not in the right format,user has excel files that are not in the right format,closed and resaved the excel spreadsheets and the user was able to get them back to working order gain.
+SD3773463,Closed,12/22/16 10:57 AM,767011.0057,12/22/16 11:05 AM,SysOps - Help Desk,,,,,,,,,609911,MICHAEL HAYES,2484253066,DTW,,,281596,WILBERT SMITH,configuration change,Air watch will send admin rights,"780395
+
+wanting to know steps to clean up the devise
+
+Air watch will send admin rights",Air watch will send admin rights
+SD3773477,Closed,12/22/16 11:02 AM,767011.0063,12/22/16 11:29 AM,SysOps - Help Desk,Z000746835,WTPARES3B1P32,HP ELITE DISPLAY E190I MONITOR,TPA/CALL CENTER/3/,WTPARES3B1P32,4,3,4,209098,JULIANNE NEILSON,813-286-5034,TPA,Z000746835,WTPARES3B1P32,linker,,Hardware,Right monitor has a black screen only,"advise user to reboot...monitor has a amber light...advise user to check the cable.....moniotr is inop....please send TPA GTS 3rd ASAP!
+**Title from related Incident record IM2862424:
+Right monitor has a black screen only","Related Incident IM2862424 closed.
+Reconnected Video cable
+
+*** *** There are no other related records.  Interaction closed by Incident IM2862424"
+SD3773663,Closed,12/22/16 12:01 PM,767011.0093,12/22/16 12:14 PM,SysOps - Help Desk,Windows,Windows,,MSP/BUILDING J/1/,J1D1374,,4,,350516,ERICA JOHNSON,612-266-2599,MSP,Z000651946,XMSPBLDJ00050,796328,SEPIDEH BABAKHANI,user training,need admin right,trying to add trusted sites to sharepoint and optionis grayed out and she cant add it,call was on hold for so long had to end the call
+SD3776370,Closed,12/23/16 02:33 PM,767011.0029,12/23/16 02:38 PM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,435099,SCOTT MACKIE,0,ATL,,,040642,JEREMY WALLACE,User Training,User wanted how he can get admin rights,User wanted how he can get admin rights  for a VPN on his personal side,Advised user that he could do an Ishop request to see if it will be aprproved
+SD3777945,Closed,12/24/16 12:05 PM,767011.0072,12/27/16 10:35 PM,SysOps - Help Desk,Axis,AXIS,AXIS,ATL/VIRTUAL/VIRTUAL/,w@h,4,3,4,954841,MICHELLE JOHNSON,770-713-6440,ATL,Z000752205,HATLRWAH00572,linker,,Software,Axis is not importing IVR or allowing right click itinerary options,"Axis is not importing IVR or allowing right click itinerary options
+-strangely all the right click options work from my end
+-cleared all temp files and cookies
+-ran the gpupdate
+-her right click is still not working consistently, had her test right click outside of axis with no result
+-unplugged and plugged in the mouse to reinitiate drivers
+-Still not working
+-mouse needs replacing
+**Title from related Incident record IM2864144:
+User is receiving an error in Axis.  I've attached the error message","Related Incident IM2864144 closed.
+known issue . Defect#9113  is available QC to track and resolve this issue.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2864144"
+SD3780696,Closed,12/26/16 11:28 AM,767011.0067,12/26/16 11:38 AM,SysOps - Help Desk,Axis,AXIS,AXIS,,Bay 3  Postion 3652,,0,,902733,NOELLE OWENS,770-875-2989,ATL,Z000749956,WATLRES3B6P52,169727,MESSIAH PATEL,configuration change,user says axis is no longer right size,user says axis is no longer right size,user good to go y
+SD3780944,Closed,12/26/16 01:00 PM,767011.0016,12/28/16 11:25 AM,SysOps - Help Desk,Z000680773,WLAXGATE54BP4,HP COMPAQ 6005 STANDARD SFF,LAX/AIRPORT/3/,"GATE 54B, POS 4",3,3,3,417828,JAMES FLECKENSTEIN,310-417-7354,LAX,Z000680773,WLAXGATE54BP4,linker,,Software,Right click isn't working on workstation,"Mouse right click isn't working; remoted in, and it works for me. Appears to be hardware failure. Please assist/advise...
+**Title from related Incident record IM2865097:
+Right click isn't working on workstation","Related Incident IM2865097 closed.
+The pc was remoted into by the help desk, the issue is now fixed.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2865097"
+SD3781735,Closed,12/26/16 06:29 PM,767011.002,01/04/17 02:42 PM,SysOps - Help Desk,RADIO_GEN,RADIO_GEN,RADIO,CAE/AIRPORT/1/,,3,3,3,707563,EUGENE JAMES,803-822-0544,CAE,,,linker,,Unknown,Walkie talkies/radios aren't working right,"Walkie talkies/radios aren't working right
+Radios aren't putting out any recieved signal
+please assist/advise.
+**Title from related Incident record IM2865274:
+CAE - Radios aren't working right","Related Incident IM2865274 closed.
+Currently, there are no communications issues.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2865274"
+SD3783499,Closed,12/27/16 02:13 PM,767011.0073,12/27/16 02:24 PM,SysOps - Help Desk,,,,,,,,,310521,DAVID FOSSE,404-677-1786,ATL,,,167248,CAMEI SAMPSON,User Training,Requesting amin right,"Requesting admin right
+User requesting to have temp 24 hrs admin rights to install drivers for home docking station.
+Instructed user to submit iShop request","Requesting admin right
+User requesting to have temp 24 hrs admin rights to install drivers for home docking station.
+Instructed user to submit iShop request"
+SD3788272,Closed,12/29/16 02:22 PM,767011.0034,12/29/16 02:27 PM,SysOps - Help Desk,Crew Mobile Devices,Crew Mobile Devices,,,,,4,,339184,WILLIAM EDWARDS,8043014653,JFK,,,169727,MESSIAH PATEL,configuration change,user trying to setup personal side with admin right,"user trying to setup personal side with admin right
+no admin rights",user good to go
+SD3790152,Closed,12/30/16 11:42 AM,767011.0073,12/30/16 11:53 AM,SysOps - Help Desk,,,,,,,,,910192,J MAHONY,0000000,LAX,,,711734,AMOY DAVIS,user training,Admin rights for the Surface,user wanted to know what the admin user name and password was for the Surface,informed user that if his userf name and password didnt work that he wouldnt be able to asccess it
+SD3794833,Closed,01/02/17 05:11 AM,767011.0061,01/02/17 10:31 AM,SysOps - Help Desk,WINDOWS-SERVERS_GEN,WINDOWS-SERVERS_GEN,WINDOWS-SERVERS,MAA/VIRTUAL/VIRTUAL/,,4,3,4,V38165,SHINY STEPHEN JEBAKUMAR,+919500552619,MAA,VATLODCD00168,,linker,,Procedure/Human Error,Admin rights issue,"Previous quote number Q984106
+I found the computer VATLODCD00168 local admin group was not added to administator group
+Hence escalating.
+**Title from related Incident record IM2870214:
+Admin rights issue","Related Incident IM2870214 closed.
+Emailed user:
+Shiny,
+
+Please submit another I-Shop request to gain admin rights on your VDI. Because the initial I-Shop request was closed on 22DEC16, we are unable to place the request in warranty phase. If the second request is not processed properly, please notify us immediately.
+
+Thank you,
+Danielle Hopkins
+
+*** *** There are no other related records.  Interaction closed by Incident IM2870214"
+SD3795859,Closed,01/02/17 01:32 PM,767011.0046,01/02/17 01:38 PM,SysOps - Help Desk,Axis,AXIS,AXIS,,,,0,,042100,ELIANE CARVALHO,0,ATL,Z000759350,HATLRWAH00719,420682,JENNIFER FRETWELL,configuration change,AXIS display is not working right,AXIS display is not working right,"GPUPDATE
+Advised agent to call us back if she was unable to view the callers name and information"
+SD3797318,Closed,01/03/17 06:48 AM,767011.0019,01/03/17 06:50 AM,SysOps - Help Desk,DLTERM,DLTERM,DLTERM,,A17 In-Flight Beale St (Marand,,,,319029,MARANDA FICARROTTA,4047145743,ATL,Z000739817,XATLICRW00019,169727,MESSIAH PATEL,configuration change,user unable to get to right screen in dlterm,"user unable to get to right screen in dlterm
+zapped user",user good to go
+SD3797781,Closed,01/03/17 09:36 AM,767011.0144,01/03/17 09:57 AM,SysOps - Help Desk,IShop,IShop,,,,,4,,289190,SAGAR BHADURY,0,ATL,,,420682,JENNIFER FRETWELL,configuration change,iShop request shows closed but the requested VDI rights have not been granted for request Q985360,"iShop request shows closed but the requested VDI rights have not been granted for request Q985360
+Consulted with Lorna Graham regarding the request.","Lorna advised: ok - SAGAR BHADURY has admin rights to both machines because of the way the request was submitted.   Admin rights is an automated process.  If the other user needs access to their machine - they need to submit the request themselves so their ID is added.
+
+User has explained that he has requested on the users behalf to have Admin rights to their own VDI's."
+SD3802887,Closed,01/05/17 07:35 AM,767011.0017,01/05/17 07:37 AM,SysOps - Help Desk,Crew Mobile Devices,Crew Mobile Devices,,,,,4,,468470,NEIL WALSH,8602125110,ATL,,,169727,MESSIAH PATEL,user training,user needs admin rights do down load bidding app,user needs admin rights do down load bidding app,explained why no admin rights
+SD3804172,Closed,01/05/17 02:35 PM,767011.0025,01/05/17 02:39 PM,SysOps - Help Desk,GIDS_MONITOR_GEN,GIDS_MONITOR_GEN,GIDS_MONITOR,,,,,,846767,GREGORY COOPER,313-505-5194,DTW,,,761587,VASUTHARINI RAMESH,withdrawn by user,Gids screen right behind the gate is shut off,"User stated gate A63 Gids screen completely off and not able to see the flight details on the screen.
+User stated his co worker is alos on the phone with helpdesk so disconnecting the call",Call withdrawn by user
+SD3804254,Closed,01/05/17 02:57 PM,767011.0025,01/05/17 03:01 PM,SysOps - Help Desk,TravelNet,TravelNet,,,,,2,,604510,GRAHAM LEITH,0,BOS,,,420682,JENNIFER FRETWELL,User Training,"Cannot list for flight in Travelnet, not accepting the right hire date","Cannot list for flight in Travelnet, not accepting the right hire date",Confirmed security of the user and provided him with the proper hire date.  He had 4/9/1990 but the system has 5/19/90
+SD3806317,Closed,01/06/17 12:16 PM,767011.0159,01/06/17 12:39 PM,SysOps - Help Desk,Axis,AXIS,AXIS,CVG/CALL CENTER/6/,BAY 1 POS 24,,0,,711269,LAURA HELLER,218-507-2571,CVG,Z000686255,WCVGRES6B3P15,753680,MARK COLLINS,environmentals restored,Users window in Axis is not right,Users window in Axis is not right she cannot see all the info,adjusted the settings and resolution and now working fine
+SD3808663,Closed,01/07/17 12:03 PM,767011.0063,01/07/17 02:03 PM,SysOps - Help Desk,Z000690748,WJFKTKFTCSA06,HP COMPAQ 6005 STANDARD SFF,JFK/AIRPORT - TERMINAL 2/3/,C67 NHC POS 2 / NEED HELP CENT,3,4,4,748578,GINA DIMARTINO,7187046171,JFK,Z000690748,WJFKTKFTCSA06,linker,,Hardware,"Printer prints only on the left and right, but not down the center of the boarding passes","When the user's scan their barcodes from their boarding passes, most of it is blanked out
+you can see letters to the left and to the right,
+
+Caller said that the ink is only printing on the right and left side of the boarding passes and the center is blanked out.
+Caller said it appears to be something wrong with the ink ribbon inside
+
+asked the user has anyone checked the ink level or to see if the stock or anything is not in alignment.
+User said that she cannot check that because there is a key needed to get inside of that area and she does
+not have it.
+
+Using PC for Location
+Sending FO to investigate
+**Title from related Incident record IM2875754:
+Printer prints only on the left and right, but not down the center of the boarding passes","Related Incident IM2875754 closed.
+cleared printer paper exit , tested operation and verified with agents at C67 need help center , all operational
+
+*** *** There are no other related records.  Interaction closed by Incident IM2875754"
+SD3813908,Closed,01/09/17 02:38 PM,767011.0029,01/10/17 04:32 PM,SysOps - Help Desk,Z000905407,XMSPBLDJ00947,TOSHIBA TECRA Z40 I5-4310U,MSP/BUILDING J/1/,J1C1312,4,3,4,U45288,AVIN KHURANA,518-596-3766,MSP,,,linker,,Hardware,Keyboard on laptop is missing right arrow key,"Keyboard on toshiba is missing right arrow key and request keyboard to be replaced
+**Title from related Incident record IM2877522:
+Keyboard on laptop is missing right arrow key","Related Incident IM2877522 closed.
+J. Schmidt - Replaced keyboard.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2877522"
+SD3816648,Closed,01/10/17 02:16 PM,767011.0156,01/10/17 02:38 PM,SysOps - Help Desk,Axis,AXIS,AXIS,TPA/CALL CENTER/3/,WTPARES3B3P33,,0,,285437,PAOLA BORGES-ROSARIO,0,TPA,Z000749318,WTPARES3B3P33,639194,KYLE CZYSCON,user training,error when opening axis saying they needed admin rights. ran gpupdate and rebooted machine.,error when opening axis saying they needed admin rights. ran gpupdate and rebooted machine.,error when opening axis saying they needed admin rights. ran gpupdate and rebooted machine.
+SD3818091,Closed,01/11/17 07:25 AM,767011.0111,01/11/17 07:41 AM,SysOps - Help Desk,Windows 7,Windows 7,,,WHSE,,4,,619891,WILLENS REGISTRE,xxx  xxx xxxx,ATL,hatlccah00207,,808279,NIRANCHHANA THAYALAN,configuration change,Movement of the mouse pointer in the right direction,Moved the monitor position from right to left,Moved the monitor position from right to left
+SD3818688,Closed,01/11/17 10:59 AM,767011.0049,01/12/17 05:02 PM,SysOps - Help Desk,MOBILE_GEN,MOBILE_GEN,MOBILE,MSP/VIRTUAL/VIRTUAL/,,4,3,4,139116,RUSSELL HOWLAND,612-385-6777,MSP,,,linker,,Hardware,Sprint Signal Repeaters is not operating right - weak signal,"John Demko advised to send a ticket to Engcs-SMTFON
+sprint signal repeaters - failed
+
+office is in a secluded area
+
+user has to go out of his office to get signal and has had an issue with this for a while
+**Title from related Incident record IM2879840:
+Sprint Signal Repeaters is not operating right - weak signal","Related Incident IM2879840 closed.
+Will contact Sprint about this on 1/17
+
+*** *** There are no other related records.  Interaction closed by Incident IM2879840"
+SD3818736,Closed,01/11/17 11:13 AM,767011.0133,01/11/17 11:32 AM,SysOps - Help Desk,Outlook,Outlook,,ATL/CALL CENTER/5/,,,5,,746818,YAKESIA MCELROY,0,ATL,Z000749275,WATLRES5B5P28,420682,JENNIFER FRETWELL,configuration change,IM is not running properly and SYMON is not displaying the right information,IM is not running properly and SYMON is not displaying the right information,Ran GPUpdate and reinstalled Symon via Radia
+SD3821728,Closed,01/12/17 01:13 PM,767011.0383,01/12/17 01:41 PM,SysOps - Help Desk,,,,,T6J-1509,,,,424587,GOVARDHAN ATHURU SUBBARAYA,651-387-1368,MSP,Z000908300,XMSP9EMB00080,420682,JENNIFER FRETWELL,configuration change,Need full rights to server - MS Managerment Console 172-29-176-185 - Tech Center Website,"Need full rights to server - MS Managerment Console  Tech Center Website
+Unable to determine what the user is needing.  Cannot understand if he has had this access in the past and if an iShop is needed or not.
+Attempting to perform data imports
+172.29.176.185
+172.29.176.54
+Windows 2012 server
+
+Engaging ODS for further troubleshooting","After speaking with Erin in ODS, he needs to create an iShop request for additional or modified access"
+SD3821957,Closed,01/12/17 02:21 PM,767011.0042,01/12/17 05:44 PM,SysOps - Help Desk,WINDOWS-SERVERS_GEN,WINDOWS-SERVERS_GEN,WINDOWS-SERVERS,MSP/BUILDING C - TOWER/6/,T6J-1509,4,3,4,424587,GOVARDHAN ATHURU SUBBARAYA,651-387-1368,MSP,Z000908300,XMSP9EMB00080,linker,,Unknown,Need full rights to server - MS Managerment Console  Tech Center Website,"Need full rights to server - MS Managerment Console  Tech Center Website
+Unable to determine what the user is needing.  Cannot understand if he has had this access in the past and if an iShop is needed or not.
+Attempting to perform data imports
+172.29.176.185
+172.29.176.54
+Windows 2012 server
+
+Jobcard application (.net ) runs on this server
+we have task scheduled and it is not running with the profile TASKADMIN
+This is the profile we login to the system
+
+Engaging ODS for further troubleshooting
+**Title from related Incident record IM2881411:
+Need full rights to server - MS Managerment Console  Tech Center Website","Related Incident IM2881411 closed.
+Message from the caller:
+you can close the incident
+issue is not with the profile it is with the code
+
+*** *** There are no other related records.  Interaction closed by Incident IM2881411"
+SD3824159,Closed,01/13/17 12:58 PM,767011.0138,01/13/17 01:18 PM,SysOps - Help Desk,Axis,AXIS,AXIS,,,,0,,012759,MAMIE WU,404-209-3400,MSP,Z000749939,WMSPRES1B4P08,753680,MARK COLLINS,reboot/recycle,Axis not working right,Axis not working right no windows at the top,reboot and gpupdate
+SD3824803,Closed,01/13/17 04:49 PM,767011.0221,01/13/17 05:05 PM,SysOps - Help Desk,LEARNING MANAGEMENT SYSTEM LMS,LEARNING MANAGEMENT SYSTEM LMS,LEARNING MANAGEMENT SYSTEM LMS,,,4,4,5,179903,MELBA COLLINS,9093229733,LAX,,,040642,JEREMY WALLACE,configuration change,User is trying to get into LMS sessions and she is getting a question mark in the right hand corner,"User is trying to get into LMS sessions and she is getting a question mark in the right hand corner at the top
+
+User has completed two other sessions already without issue
+
+advised user to try different browsers, clear history cookies etc
+reboot
+
+ifslms.delta@delta.com","advised user to try different browsers, clear history cookies etc
+reboot
+
+Gave user the  course owners' email ifslms.delta@delta.com"
+SD3825863,Closed,01/14/17 09:40 AM,767011.0033,01/14/17 09:45 AM,SysOps - Help Desk,Axis,AXIS,AXIS,TPA/CALL CENTER/3/,WTPARES3B2P18,,0,,970780,ANITA GRANT,813-521-3246,TPA,Z000748930,WTPARES3B2P18,753680,MARK COLLINS,environmentals restored,resolution not right,resolution not right,adjusted for user
+SD3828308,Closed,01/15/17 07:12 PM,767011.0033,01/16/17 11:42 AM,SysOps - Help Desk,Avaya PBX,Avaya PBX,,TPA/VIRTUAL/VIRTUAL/,HTPARWAH00032,4,3,4,902676,SHEILA WOODS,817-808-8685,TPA,Z000745577,HTPARWAH00032,linker,,Hardware,User has phone that is not working right,"User has phone that is not working right the phone is disconnecting off and on.  User is getting ticket to bring phone in.
+**Title from related Incident record IM2883968:
+User has phone that is not working right","Related Incident IM2883968 closed.
+Replaced VoIP phone
+
+*** *** There are no other related records.  Interaction closed by Incident IM2883968"
+SD3829113,Closed,01/16/17 10:07 AM,767011.0132,01/16/17 10:58 AM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/VIRTUAL/VIRTUAL/,India,4,3,4,714190,SARAVANAN UTHIRAPATHI,000 000 0000,ATL,,,linker,,Security,Q991510 - caller wants to confirm he has Admin rights,"caller wants to confirm he has Admin rights
+q991510 - status shows closed - approved 1/9/17
+caller didn't have contact phone number
+
+laptop currently not on network but caller will check for email later tonight.
+
+please contact user via email
+SARAVANAN.U@DELTA.COM
+
+caller in India
+**Title from related Incident record IM2884374:
+Q991510 - caller wants to confirm he has Admin rights","Related Incident IM2884374 closed.
+Ishop does show that process was complete
+Today should be the 7th day and user may have to complete another ishop request if he doesn't meet window
+Contacted the number that was given within ishop request and did not get an answer
+Attempted to email user and received a response that he was on vacation until 2/7/17
+
+*** *** There are no other related records.  Interaction closed by Incident IM2884374"
+SD3833091,Closed,01/17/17 11:51 PM,767011.0031,01/17/17 11:55 PM,SysOps - Help Desk,Windows 7,Windows 7,,,WHSE,,4,,294066,SAMUEL KINARD,509 998 2035,SEA,,,808279,NIRANCHHANA THAYALAN,User Training,Admin rights issue for the efb,Informed the user that he could use the hotmail or the microsoft account,Informed the user that he could use the hotmail or the microsoft account
+SD3835411,Closed,01/18/17 11:26 PM,767011.0024,01/18/17 11:29 PM,SysOps - Help Desk,Windows 7,Windows 7,,,WHSE,,4,,454057,BARBARA HENRIQUEZ,404-715-4901,ATL,,,499602,JANANI BALAKRISHNAN,user training,Admin rights fro laptop,"Asked to raise a ishop request.
+User agreed.","Asked to raise a ishop request.
+User agreed."
+SD3841806,Closed,01/21/17 11:17 PM,767011.004,01/21/17 11:26 PM,SysOps - Help Desk,Z000716113,WCAKDGSG00008,HP 6305 STANDARD SFF,CAK/AIRPORT/1/,BSO Office,3,3,3,768706,ANGELA PERUSKY,330-494-1440,CAK,,,670006,ARTHUR SIMPSON,duplicate,Details:             printer in BSO is not working right.  it is printing random letters and numbers,"Company Name:        868613300
+Company Code:        3304941440
+Details:             printer in BSO is not working right.  it is printing random letters and numbers
+
+Printer has already been power cycled and paper checked etc...
+
+Also controlling workstation restarted",Closing ticket. Please reference IM2890161.
+SD3844368,Closed,01/23/17 09:10 AM,767011.0046,01/24/17 03:07 PM,SysOps - Help Desk,Z000712476,XATLCAMP02292,HP ELITEBOOK 8470P NOTEBOOK,ATL/OC1/5/,5S120,4,3,4,763316,ROBERT LEDERMAN,4047151632,ATL,Z000712476,XATLCAMP02292,linker,,Hardware,user says he want the right monitor option on xtra,"user says he want the right monitor option on xtra
+tried to extend the screen in control panel no go
+user says he can't reboot right now
+5s120 is cube location
+**Title from related Incident record IM2890945:
+user says he want the right monitor option on xtra","Related Incident IM2890945 closed.
+set 2nd monitor as extended monitor
+
+*** *** There are no other related records.  Interaction closed by Incident IM2890945"
+SD3847117,Closed,01/24/17 09:11 AM,767011.0039,01/24/17 09:17 AM,SysOps - Help Desk,Crew Mobile Apps,Crew Mobile Apps,,,,,3,,370577,STANLEY GRIDLEY,6786335728,ATL,,,169727,MESSIAH PATEL,configuration change,user getting pop ups for admin rights,"user getting pop ups for admin rights
+pushed from airwatch",pushed from airwatch user good to go
+SD3848308,Closed,01/24/17 03:54 PM,767011.002,01/26/17 08:55 AM,SysOps - Help Desk,SCANNER_GEN,SCANNER_GEN,SCANNER,SLC/AIRPORT  - CONCOURSE C/1/,,4,4,5,042366,ALLISON BROWNE,8017444000,SLC,hp-dl06133,,linker,,Hardware,printer is leaking lots of toner on the right side of paper,"printer is leaking lots of toner on the right side of paper
+hp-dl06133
+SLC flight attendant lounge
+**Title from related Incident record IM2892516:
+printer is leaking lots of toner on the right side of paper","Related Incident IM2892516 closed.
+1/26: cleaned printer broken toner cartridge and replaced with back up and tested with user
+
+*** *** There are no other related records.  Interaction closed by Incident IM2892516"
+SD3848962,Closed,01/25/17 12:50 AM,767011.0036,01/25/17 12:55 AM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,352105,JAMES RUZEVICK,619 997 4512,SEA,,,808279,NIRANCHHANA THAYALAN,data changed/recovered,Admin Rights on efb,"Informed the user that there are no admin rights yet on any of the surface tablets 3.
+
+
+Could yuse the hotnmail or download information from microsoft account","Informed the user that there are no admin rights yet on any of the surface tablets 3.
+
+
+Could yuse the hotnmail or download information from microsoft account"
+SD3854970,Closed,01/27/17 03:07 PM,767011.0022,01/30/17 12:52 PM,SysOps - Help Desk,Z000738262,XATLCAMP04412,HP E2570P LAPTOP,ATL/OC3/3/,OC3102-174,4,3,4,574111,VINCENT KIRBY,404-677-0103,ATL,Z000738262,XATLCAMP04412,linker,,Data,the moniter on the right attached to workstation XATLCAMP04412 stop displaying,"the moniter on the right attached to workstation XATLCAMP04412
+stop displaying. the user stated that he made sure that all the connection
+were secure.
+**Title from related Incident record IM2897013:
+the moniter on the right attached to workstation XATLCAMP04412 stop displaying","Related Incident IM2897013 closed.
+Reloaded drvs
+
+*** *** There are no other related records.  Interaction closed by Incident IM2897013"
+SD3856252,Closed,01/28/17 11:10 AM,767011.0042,01/28/17 11:16 AM,SysOps - Help Desk,Axis,AXIS,AXIS,,,,0,,576893,TAKIMA WRIGHT,404-209-3400,DFW,Z000759368,HDFWRWAH00603,753680,MARK COLLINS,environmentals restored,user called and axis was not working right,user called and axis was not working right user said it would close on it's own,opened in chrome and all looked good user had it open in IE
+SD3859413,Closed,01/30/17 11:08 AM,767011.047,01/30/17 11:43 AM,SysOps - Help Desk,IShop,IShop,,,,,4,,283879,LLOYD PILKEY,210-867-6622,ATL,,,162039,TERITA GRIER,procedure enforcement,Q1002889 - requested admin rights,Q1002889 - caller says he received email that ishop closed but still doesn't have admin rights,"win2k shows correct admin group IdmLocalAdmin\xaatlcamp07625  but caller hadn't run radia yet.
+caller ran radia and now has admin rights"
+SD3860396,Closed,01/30/17 03:54 PM,767011.01,01/30/17 04:09 PM,SysOps - Help Desk,Axis,AXIS,AXIS,HIB/CALL CENTER/1/,BAY 6 POS 31,,0,,903327,MARCIE SWANSON,555-454-1212,HIB,Z000756226,WHIBRES2B6P31,753680,MARK COLLINS,environmentals restored,axis not working right,axis not working right,cleaned up history in chrome and IE and ran gpupdate
+SD3862441,Closed,01/31/17 02:12 PM,767011.0037,02/01/17 09:29 AM,SysOps - Help Desk,Manpower Planning System,Manpower Planning System,,TPA/VIRTUAL/VIRTUAL/,Dianne Del Valle 372370,3,4,4,372370,DIANNE DEL VALLE,813-286-5058,TPA,Z000718335,XTPARES300003,linker,,Data,Manpower Planning System working not right,"User states: ""Please open a ticket with the DN-HRMPAY group for the following issue; MPS
+SLC/654  Sioeli Taumalolo (001048600) this employee is scheduled to work a
+Double today  1/31/17 – an 11:30 (5hr) shift and their home shift at 17:00 (8hrs).
+They are taking the entire day off now and will using 2 holidays to cover their time.
+H3 was placed on the 5hr shift and now we need H4 to be place on the  17:00 shift.
+I, nor the OPS desk have the capability of placing a 2nd HOL on the same day.
+This was recently done by IT and per Cheryl Gray it can only be done by IT.
+Thank you!  You may contact me the MPS Administrator – Dianne Del Valle (372370)
+(813) 286-5058""
+**Title from related Incident record IM2901107:
+Manpower Planning System working not right","Related Incident IM2901107 closed.
+Manually added SCHED_LOG and HOL_MAPPING records (using SQL INSERT queries) to correspond to assigning the H4 holiday into the 01/31/2017 17:00 shift of Sioeli Taumalolo.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2901107"
+SD3862908,Closed,01/31/17 05:14 PM,767011.0015,01/31/17 06:08 PM,SysOps - Help Desk,FIDS,FIDS,FIDS,SEA/AIRPORT - B CONCOURSE/2/,B7,4,2,3,651969,MICHA LLAMOSO,206-301-6207,SEA,,,linker,,Software,Back drop at - B7 is shifted to the right -,"Back drop at - B7 is shifted to the right  -
+unable to find address to reset
+**Title from related Incident record IM2901326:
+Back drop at - B7 is shifted to the right -","Related Incident IM2901326 closed.
+Port of SEA monitor// used remote to auto adjust screen
+
+*** *** There are no other related records.  Interaction closed by Incident IM2901326"
+SD3866240,Closed,02/02/17 09:23 AM,767011.0029,02/02/17 09:28 AM,SysOps - Help Desk,Windows 7,Windows 7,,,WHSE,,4,,536417,DORIS PACE,404,ATL,,,482832,ANDRE ARCHER,user training,user right monitor is dark,"user right monitor is dark
+right monitor was changed
+HD tried to walk user through adjusting the brightness
+was not succesful
+user did not want a ticket for FO to take a look","user right monitor is dark
+right monitor was changed
+HD tried to walk user through adjusting the brightness
+was not succesful
+user did not want a ticket for FO to take a look"
+SD3869930,Closed,02/03/17 06:18 PM,767011.0041,02/03/17 06:24 PM,SysOps - Help Desk,Axis,AXIS,AXIS,SLC/CALL CENTER/2/,RES2 BC P16,,0,,808467,NIAVA MOORS,564-519-3340,SLC,Z000755383,WSLCRES2BCP16,753680,MARK COLLINS,environmentals restored,Axis was not the right size,Axis was not the right size,adjusted the chrome zoom and now can see the buttons
+SD3871711,Closed,02/05/17 05:25 AM,767011.0005,02/05/17 06:15 AM,SysOps - Help Desk,Z000702046,WCMHTKFT00005,HP COMPAQ 6005 STANDARD SFF,CMH/AIRPORT/2/,Tkt Ctr Pos #5,3,3,3,404620,RACHEAL ROSS,614-238-5829,CMH,,,670006,ARTHUR SIMPSON,duplicate,Details:             the keyboard at WCMHTKFT00005 does not work right. only half the keys will work,"Company Code:        6142385829
+Details:             the keyboard at WCMHTKFT00005 does not work right. only half the keys will work",Closing ticket. Please reference IM2906273.
+SD3872201,Closed,02/05/17 12:30 PM,767011.0049,02/05/17 12:37 PM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,883638,TERRY CHRISTIAN,0000,ATL,,,380523,KEYON SMITH,User Training,admin rights on efb,admin rights on efb,advised the user that we dont have or give admin rights to efb
+SD3872672,Closed,02/05/17 05:46 PM,767011.015,02/06/17 12:40 PM,SysOps - Help Desk,Windows 7,Windows 7,,MCI/AIRPORT/1/,baggage service,3,3,3,383181,JUDY KUHNERT-GOMEZ,816-243-5344 or 5333,MCI,Z000702992,WMCIACSB00003,linker,,Hardware,Keyboard is not working right,"Keyboard is not working right it is typing double letters on some keys user has unplugged and plugged back in and rebooted PC and still same issue.     Location bagage room
+**Title from related Incident record IM2906583:
+Keyboard is not working right","Related Incident IM2906583 closed.
+Per station manger Ron Moore (I turned it over and pounded a bunch junk out, I think we're good) closing ticket
+
+*** *** There are no other related records.  Interaction closed by Incident IM2906583"
+SD3873101,Closed,02/06/17 06:43 AM,767011.0132,02/06/17 07:34 AM,SysOps - Help Desk,IShop,IShop,,MSP/VIRTUAL/VIRTUAL/,RM C603 Q17-15  CYNTHIA KING,4,3,4,080218,CYNTHIA KING,6124019575,ATL,Z000903812,XATLCAMP11140,linker,,Procedure/Human Error,admin rights,"caller requested and received admin rights however when she tries to add a personal printer using it doesn't allow her she receives a pop up stating she needs to submit an ishor  request to add the drivers //ishop request  number q1004882//contacted ODS (marcus assisted the user)
+**Title from related Incident record IM2906857:
+admin rights","Related Incident IM2906857 closed.
+User has Admin rights ..... user was getting blocked by the firewall .... she was trying to download the drivers not install them which is totally different..... Advise user the different and gave suggestion.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2906857"
+SD3873714,Closed,02/06/17 11:29 AM,767011.0031,02/06/17 11:34 AM,SysOps - Help Desk,Windows 7,Windows 7,,FNT/AIRPORT/1/,Station Manager Office,,4,,194298,ATANAS DOJCINOVSKI,734-796-6698,FNT,Z000656248,WFNTACSB00003,796328,SEPIDEH BABAKHANI,User Training,need admin right,user trying to download a book>>>>> program >>>> none delta application,asked user to submit an sihop and get admin right
+SD3876170,Closed,02/07/17 12:17 PM,767011.0102,02/07/17 12:32 PM,SysOps - Help Desk,SECURITY_EVENT_GEN,SECURITY_EVENT_GEN,SECURITY_EVENT,,,,4,,941088,ZACHARY MORAN,6122679255,ATL,,,280611,LELIA JAMES,configuration change,6 months admin right on chrome....Q1006649,checked quote....work has not yet been completed...engaged lead...Daniel suggest also as I have use wait until tomorrow and run radia reboot and if he still does not have admin right on chrome call back and we can escalate it to the security group....,checked quote....work has not yet been completed...engaged lead...Daniel suggest also as I have use wait until tomorrow and run radia reboot and if he still does not have admin right on chrome call back and we can escalate it to the security group....
+SD3877930,Closed,02/08/17 09:10 AM,767011.024,02/08/17 09:45 AM,SysOps - Help Desk,Axis,AXIS,AXIS,ATL/CALL CENTER/2/,BAY 5,,0,,719510,QUEEN WASHINGTON,N/a,ATL,Z000744276,WATLRES2B5P12,279383,SANAZ HAKIMI-SAEIDI,configuration change,The Axis resolution is not right,"User sstates that the Axis resolution is not right
+Deleted the cookies and cache, java cache, run gpupdate, rebooted it and changed the resolution
+changed the resolution and dispaly size / resolved","User sstates that the Axis resolution is not right
+Deleted the cookies and cache, java cache, run gpupdate, rebooted it and changed the resolution
+changed the resolution and dispaly size / resolved"
+SD3881135,Closed,02/09/17 01:21 PM,767011.007,02/09/17 02:31 PM,SysOps - Help Desk,Z000907801,XMSPBLDJ01307,TECRA Z40 BROADWELL I5-5300U 8GB,MSP/BUILDING J/2/,J2C1252,4,3,4,578934,MONICA BUENZOW,612-266-2973,MSP,,,linker,,Hardware,Right monitor dead,"Right monitor dead...please replace both monitors with the wider version like Lynne Ferrell has
+
+Requesting FE assistance
+
+Per chat-
+
+(13:21:39) This session has been transferred to Yadav, Nishant.
+
+(13:21:44) You said:
+Thank you for contacting Delta IT Helpdesk, this is Yadav, Nishant
+
+Please hold one moment ...
+
+(13:22:41) You said:
+Hi Monica!
+
+(13:23:01) You said:
+Let me open a ticket for you with the Field Opns
+
+(13:23:16) You said:
+is 612-266-2973  a good call back number
+
+(13:23:50) Monica Buenzow said:
+Yes - I already alerted Richard Strong
+
+(13:25:04) You said:
+okay, and can you provide me with the asset tag # for the monitor or the computer
+
+(13:26:37) Monica Buenzow said:
+Can't see any...might be on bottom or back...Richard will have to get
+
+(13:27:20) You said:
+on the computer, if you click on START menu, then ALL PROGRAMS and then SYSTEM INFORMATION
+
+(13:27:31) You said:
+that will display the computer number
+
+(13:27:50) You said:
+if you can provide me with that please for the ticket
+
+(13:28:11) You said:
+That will pull up your location also
+
+(13:28:46) Monica Buenzow said:
+XMSPBLDJ01307
+
+(13:29:06) You said:
+thanks
+
+(13:29:31) You said:
+and just to confirm, you are in MSP/BUILDING J/2/
+
+(13:29:45) Monica Buenzow said:
+yes I am
+
+(13:29:53) You said:
+Office/ Position-J2B1145
+
+(13:31:02) Monica Buenzow said:
+J2C1252
+**Title from related Incident record IM2910866:
+Right monitor dead","Related Incident IM2910866 closed.
+Monitor was bad and needed to be replaced.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2910866"
+SD3883421,Closed,02/10/17 11:58 AM,767011.0112,02/10/17 12:08 PM,SysOps - Help Desk,IShop,IShop,,,5NW020,,,,782773,RYAN BURR,00,ATL,Z000908853,XATLCAMP09768,380523,KEYON SMITH,Solved by User Instruction,Complete iShop Form-admin rights for 7 days-run full radia connect,Unable to complete iShop form,Advised user where to complete form.   Specialists Identify form you provided instructions on using
+SD3884698,Closed,02/10/17 08:20 PM,767011.0034,02/10/17 08:25 PM,SysOps - Help Desk,Z000674283,WMKETKFTDSK01,HP COMPAQ 6005 STANDARD SFF,MKE/AIRPORT - D CONCOURSE/2/,SKYCLUB COUNTER POS 1,,4,,814318,MARY CHRISTIANSON,0,MKE,Z000674283,WMKETKFTDSK01,040642,JEREMY WALLACE,configuration change,User's PC is in start up repair mode right now,"User's PC is in start up repair mode right now
+I was not be able ping the PC right now because of this",User needs to allow start up repair to finish
+SD3887001,Closed,02/12/17 12:45 PM,767011.0139,02/12/17 01:05 PM,SysOps - Help Desk,Axis,AXIS,AXIS,HIB/CALL CENTER/1/,BAY 5 POS 33,,0,,326783,ROY GARCIA,511-2366,HIB,Z000737344,WHIBRES2B5P33,753680,MARK COLLINS,environmentals restored,axis not working right,axis not working right,Had user open in chrome and it works fine
+SD3887672,Closed,02/12/17 06:57 PM,767011.0023,02/12/17 07:00 PM,SysOps - Help Desk,,,,,,,,,981415,TIMOTHY LARSON,d,MSP,,,409529,AMANDA TICE,User Training,user wanted to know if he was on the right server,user wanted to know if he was on the right server,his profile is on the mspres server
+SD3887692,Closed,02/12/17 07:11 PM,767011.0017,02/12/17 08:03 PM,SysOps - Help Desk,Z000726870,WDTWTKFT00029,HP 6305 STANDARD SFF,DTW/AIRPORT - TICKET COUNTER/4/,TKT POS 43,3,4,4,062890,CAROLYN DICIUCCIO,7349219942,DTW,Z000726870,WDTWTKFT00029,linker,,Hardware,"PC Mouse right click button isn't working,","PC Mouse right click button isn't working,
+User said that it cannot be pressed in
+sending to FO for replacement
+**Title from related Incident record IM2913750:
+PC Mouse right click button isn't working,","Related Incident IM2913750 closed.
+Mouse replaced.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2913750"
+SD3887792,Closed,02/12/17 08:53 PM,767011.0091,02/12/17 09:06 PM,SysOps - Help Desk,Axis,AXIS,AXIS,,,,0,,028362,VALERIE FALLINGS,0,ATL,,,371430,KEVIN DOYLE,configuration change,axis isn't displaying right,"axis isn't displaying right
+seat map is weird.","set DPI back to 100, had user select ""auto"" on monitor, fixed."
+SD3889548,Closed,02/13/17 03:36 PM,767011.0008,02/15/17 12:24 PM,SysOps - Help Desk,Windows 7,Windows 7,,GRR/AIRPORT/1/,Ticket Counter,4,3,4,492597,BRENDA GEURKINK,616-233-6223,GRR,Z000703714,WGRRTKFT00002,linker,,Hardware,keyboard up and right arrows don't work,"keyboard up and right arrows don't work
+Tech dispatched
+**Title from related Incident record IM2914747:
+keyboard up and right arrows don't work","Related Incident IM2914747 closed.
+Keyboard is on site and will be replaced by the PL.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2914747"
+SD3889839,Closed,02/13/17 05:41 PM,767011.0043,02/13/17 06:36 PM,SysOps - Help Desk,Z000703714,WGRRTKFT00002,HP COMPAQ 6005 STANDARD SFF,GRR/AIRPORT/1/,Ticket Counter,4,3,4,492597,BRENDA GEURKINK,616-233-6223,GRR,,,linker,,Unknown,keyboard up and right arrows don't work,"keyboard up and right arrows don't work
+* user on chat
+
+Requesting FE assistance
+**Title from related Incident record IM2914841:
+keyboard up and right arrows don't work","Related Incident IM2914841 closed.
+Duplicate ticket. Original IM2914747.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2914841"
+SD3890624,Closed,02/14/17 08:44 AM,767011.0107,02/14/17 08:59 AM,SysOps - Help Desk,Z000750464,HTPARWAH00172,HP ELITEDESK 705G1 SFF,TPA/VIRTUAL/VIRTUAL/,W@H,,4,,735554,VANESCIA FRANCIS,4042093400,TPA,Z000750464,HTPARWAH00172,040642,JEREMY WALLACE,user training,User is seeing black dot on the right side of her screen instead of the mouse arrow as she should,"User is seeing black dot on the right side of her screen instead of the mouse arrow as she should
+The mouse arrow is showing a black dot on the right side of her monitor instead of an arrow
+-----------------PLEASE SEE ATTACHMENT----------------------","Deltanet>Company>RES & Customer Care>Frequently Used Tools>Forms and notify their MC.
+Ran a gpupdate but this did not fix the issue
+User is going to fill out the tech form"
+SD3890980,Closed,02/14/17 11:30 AM,767011.0129,02/14/17 11:49 AM,SysOps - Help Desk,Concord Cirrus,Concord Cirrus,,,ATLRES W@H USER.,,3,,950170,BYRON WORD,6789399769,ATL,Z000759766,HATLCCAH00135,040642,JEREMY WALLACE,configuration change,User cannot right click and copy anything into Concord,"User cannot right click and copy anything into Concord
+User CAN copy an paste in Kana and word but just not Concord","remoted in and cleared user's cookies cache histor etc
+ran gpudpdate /force
+rebooted PC
+Had user log back in to see if he can post
+issue resolved"
+SD3892512,Closed,02/15/17 07:25 AM,767011.0125,02/21/17 01:16 PM,SysOps - Help Desk,Z000900527,XATLCAMP01862,TOSHIBA TECRA Z40 ULTRABOOK LAPTOP,ATL/TOC3/3/,TOC 3 3rd floor attic area  do,4,3,4,079904,RONNIE HAMILTON,404-714-5433,ATL,Z000900527,XATLCAMP01862,linker,,Unknown,monitor on right does work,"laptop dual monitor on right does not display....user advise that he ha unseated and re seated his monitor cables....I could not remote into to laptop....please send local tech Dept go up stairs  to Dept 873 go up steps to the TOC 3 3rd floor attic area  door 3025 to fix user monitor issues ASAP!
+**Title from related Incident record IM2916383:
+monitor on right does work","Related Incident IM2916383 closed.
+USER NEVER CALLED BACK CLOSING TICKET
+
+*** *** There are no other related records.  Interaction closed by Incident IM2916383"
+SD3897270,Closed,02/17/17 08:23 AM,767011.0096,02/17/17 08:36 AM,SysOps - Help Desk,Z000904533,XATLCAMP08875,TOSHIBA PORTEGE Z30 I5-4310U,ATL/RELIABILITY CENTER/1/,TCC,,4,,942343,TIM LEWIS,404-677-8888,ATL,Z000904533,XATLCAMP08875,515452,KEVIN JOHNSON,reboot/recycle,Mouse keeps strolling over to right,"Mouse cursor keeps running to the right of the screen, remoted in to workstation and ran gpupdate to see if problem will cease...
+Will call back if issue continues...ticket closed","Mouse cursor keeps running to the right of the screen, remoted in to workstation and ran gpupdate to see if problem will cease...
+Will call back if issue continues...ticket closed"
+SD3897389,Closed,02/17/17 09:06 AM,767011.0099,02/17/17 09:20 AM,SysOps - Help Desk,Deltanet-SharePoint,Deltanet-SharePoint,,,,,1,,168773,WORDEN UPDYKE,770-716-8182,ATL,,,753680,MARK COLLINS,procedure enforcement,user on Mac Book and deltanet not pulling up right,user on Mac Book and deltanet not pulling up right,cleared history but still not pulling up right grafics all off and links not working  but opens up on all other devices issue is with Mac Book.
+SD3897565,Closed,02/17/17 10:12 AM,767011.0056,02/17/17 10:20 AM,SysOps - Help Desk,,,,,,,,,206687,LORI NOBLE,000000,DTW,,,446242,STEPHANIE ODUM,User Training,user is getting site read on the right side but not,"user states shes getting info read on the right side of the tablet
+informed user that we do not support personal devices
+please google on how to change compatibility view settings","user states shes getting info read on the right side of the tablet
+informed user that we do not support personal devices
+please google on how to change compatibility view settings"
+SD3900276,Closed,02/18/17 03:42 PM,767011.0221,02/22/17 04:40 PM,SysOps - Help Desk,Z000821240,,MICROSOFT SURFACE 3 10.8 INCH 4GB 128GB SSD,ANC/VIRTUAL/VIRTUAL/,,4,3,4,243115,BLAKE GETTYS,9072236660,ANC,Z000821240,,linker,,Unknown,"Surface 3 initial setup - Jep will not function correctly, it opens and then goes right back to home","Surface 3 initial setup - Jep will not function correctly, it opens and then goes right back to home
+http://itkms.delta.com/JeppesenFliteDeckPro/Troubleshooting/EDB/0004.htm
+Device not found in the above KMS method
+checked user in Airwatch and he is not checking in with airwatch
+User is now checked in with airwatch but Jep still opens and shut down right away
+putting in PSC queue
+called PSC and didn't get an answer
+**Title from related Incident record IM2920053:
+Surface 3 initial setup - Jep will not function correctly, it opens and then goes right back to home","Related Incident IM2920053 closed.
+Blake will call me back shortly to troubleshoot.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2920053"
+SD3901147,Closed,02/19/17 09:21 AM,767011.0065,02/19/17 09:30 AM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,320197,STEVEN WILLIAMS,8054020804,DTW,,,040642,JEREMY WALLACE,configuration change,Surface3  - SCL and Jep are opening and closing right away,"Surface3  - SCL and Jep are opening and closing right away
+User is not checked into Airwatch
+Pilot is at hotel and the hotel is having wifi issues","Had user do a hard reboot
+had user go to cnn.com
+user is now connected to airwatch
+apps opened issue resolved"
+SD3901833,Closed,02/19/17 04:26 PM,767011.0009,02/19/17 04:27 PM,SysOps - Help Desk,,,,,,,,,852722,DANIEL WYNN,305-870-6441,MIA,,,371430,KEVIN DOYLE,User Training,deltanet doesn't look right,deltanet doesn't look right,user on a mac. advised another web browser.
+SD3909007,Closed,02/23/17 07:15 AM,767011.0025,02/23/17 07:19 AM,SysOps - Help Desk,Surface Observation Monitor,Surface Observation Monitor,,,,,4,,203748,STEVEN KITZMAN,5073018877,MSP,,,169727,MESSIAH PATEL,user training,user getting admin rights request to open a link,user getting admin rights request to open a link,advise to do a hard boot and try again
+SD3914248,Closed,02/25/17 05:04 PM,767011.0027,02/25/17 05:08 PM,SysOps - Help Desk,Axis,AXIS,AXIS,TPA/CALL CENTER/3/,WTPARES3B4P32,,0,,032841,NAUREEN QAZI,813-522-3994,TPA,Z000706639,WTPARES3B4P32,753680,MARK COLLINS,environmentals restored,Axis not the right size and user cannot see all buttons,Axis not the right size and user cannot see all buttons,changed to 1024 X 768 and now user has it ob the whole screen and can see buttons
+SD3915107,Closed,02/26/17 11:08 AM,767011.002,02/26/17 02:12 PM,SysOps - Help Desk,Z000674663,WSEAGATES02P3,HP COMPAQ 6005 STANDARD SFF,SEA/AIRPORT - S CONCOURSE/1/,GATE S2,4,4,5,522297,LORI MILLER,2063016403,SEA,Z000674663,WSEAGATES02P3,linker,,Hardware,Gate reader on the right not working,"Helpdesk had user to
+1.	Close the flight in SNAPP and then agent logoffs of SNAPP.
+2.	Shut down SNAPP by clicking the X in the upper right hand corner of the SNAPP screen.
+3.	Turn off the gate reader printer.
+4.	Turn off the gate reader.
+5.	Turn on the gate reader printer.
+6.	Turn on the gate reader itself.
+7.	Start SNAPP and then reopen the flight in SNAPP.
+
+Gate reader still would not work.
+Send Tech to assist.
+**Title from related Incident record IM2927201:
+Gate reader on the right not working","Related Incident IM2927201 closed.
+connections came lose
+
+*** *** There are no other related records.  Interaction closed by Incident IM2927201"
+SD3919311,Closed,02/28/17 11:35 AM,767011.0222,02/28/17 12:07 PM,SysOps - Help Desk,Delta Term,Delta Term,,HIB/VIRTUAL/VIRTUAL/,KELLY PASKAVAN-PETERSON,,4,,320273,ANNEMARIE KOBAL,4042093400,HIB,Z000703531,HHIBRWAH00038,780701,ANTONIO BOLTON,procedure enforcement,dl term would not configure right,"User called in because her dl term would not configure right
+the user has lost connectivity to the i drive.",rabn gp update to fix
+SD3919340,Closed,02/28/17 11:46 AM,767011.0021,02/28/17 11:02 PM,SysOps - Help Desk,Z000753147,WATLACSO00274,HP ELITEDESK 705G1 SFF,ATL/AIRPORT - E CONCOURSE/LL/,E12U Bag Rm Breakrm,3,3,3,233047,KEVIN SEWELL,404-677-7377,ATL,Z000753147,WATLACSO00274,linker,,Hardware,user says the pc comes on for a sec and cuts right back off,"user says the pc comes on for a sec and cuts right back off
+HD is going out on it
+E concourse in the break room
+user rebooted multiple times
+**Title from related Incident record IM2929470:
+user says the pc comes on for a sec and cuts right back off","Related Incident IM2929470 closed.
+replaced pc.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2929470"
+SD3925819,Closed,03/03/17 07:49 AM,767011.0061,03/03/17 01:16 PM,SysOps - Help Desk,Windows 7,Windows 7,,MDW/AIRPORT - A CONCOURSE/1/,Gate A-5,3,3,3,346450,LEATRICE COOPER,773-948-6445,MDW,Z000743994,WMDWGATEA05P2,linker,,Hardware,The mouse on the PC keeps moving up to the right,"The mouse on the PC keeps moving up to the right and is moving every time you bring it to the center of the screen Had user check for keys stuck on the keyboard but she did not find any rebooted PC
+**Title from related Incident record IM2932994:
+The mouse on the PC keeps moving up to the right","Related Incident IM2932994 closed.
+Removed the inter mouse to keyboard connection...It was conflicting with external mouse.  Once that was removed external mouse worked properly..lc
+
+*** *** There are no other related records.  Interaction closed by Incident IM2932994"
+SD3926010,Closed,03/03/17 09:23 AM,767011.003,03/03/17 09:28 AM,SysOps - Help Desk,Z000435167,XATLCAMP10145,PHILIPS 24-INCH WIDE LCD WITH LED BACKLIGHT,ATL/A1/2/,A12N012,,4,,693514,JAIME ALVAREZ,404-773-7665,,Z000504383,XATLCAMP10145,280611,LELIA JAMES,configuration change,Monitor resolution is not right it blurred,remote into user laptop fixed resolution....,remote into user laptop fixed resolution....
+SD3930655,Closed,03/05/17 07:23 PM,767011.0078,03/05/17 07:34 PM,SysOps - Help Desk,Deltanet-SharePoint,Deltanet-SharePoint,,,,,1,,471910,GLENN COOPER,240-256-0228,ATL,,,753680,MARK COLLINS,environmentals restored,deltanet not opening up right in IE on hotel PC,deltanet not opening up right in IE on hotel PC,Had user open in firefox and is working fine.
+SD3931314,Closed,03/06/17 08:39 AM,767011.0051,03/06/17 08:46 AM,SysOps - Help Desk,Axis,AXIS,AXIS,,BAY 6,,0,,822248,PEGGY KELLY,404-677-5458,ATL,Z000735882,WATLRES2B6P32,169727,MESSIAH PATEL,configuration change,user says axis view is not right,"user says axis view is not right
+changed resolution",user good to go
+SD3932289,Closed,03/06/17 02:11 PM,767011.0019,03/06/17 04:15 PM,SysOps - Help Desk,Z000685318,WDTWTKFT00012,HP COMPAQ 6005 STANDARD SFF,DTW/AIRPORT - TICKET COUNTER/4/,POS 26,4,3,4,536303,CHARLENE NOAH,3133639405,DTW,Z000685318,WDTWTKFT00012,linker,,Unknown,"machine said it was shut down incorrectly and it is ""repairing"" right now.","machine said it was shut down incorrectly and machine curently says ""attempting repair""
+**Title from related Incident record IM2935827:
+machine said it was shut down incorrectly and it is ""repairing"" right now.","Related Incident IM2935827 closed.
+PC was turned off. Boot the PC up and tested all printers and scanner. All tested fine.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2935827"
+SD3937151,Closed,03/08/17 03:40 PM,767011.0013,03/08/17 03:41 PM,SysOps - Help Desk,INTERNET EXPLORER_GEN,INTERNET EXPLORER_GEN,INTERNET EXPLORER,,,,,,382613,DANIEL WILLIAMSON,4357141050,SLC,,,169727,MESSIAH PATEL,User Training,user asking for admin rights does he have it,user asking for admin rights does he have it,explained user good to go
+SD3937238,Closed,03/08/17 04:14 PM,767011.0054,03/09/17 11:18 AM,SysOps - Help Desk,Windows 7,Windows 7,,MSP/BUILDING J/2/,J2D0741,4,3,4,956532,BRENDAN DOWNES,612-266-2764,MSP,Z000688206,XMSPBLDJ00807,linker,,Software,Windows Error - Copy of windows is not genuine in bottom right corner,"Copy of windows is not genuine
+Windows 7
+Build 7601
+This copy of Windows is not Genuine
+
+139.72.251.75
+**Title from related Incident record IM2938482:
+Windows Error - Copy of windows is not genuine in bottom right corner","Related Incident IM2938482 closed.
+slmgr.vbs /ato failed first attempt
+•             net stop sppsvc
+•             cd %windir%\ServiceProfiles\NetworkService\AppData\Roaming\Microsoft\SoftwareProtectionPlatform
+•             ren tokens.dat tokens.bar
+•             net start sppsvc
+•             cscript.exe %windir%\system32\slmgr.vbs /rilc
+Then repeated slmgr.vbs /ato and windows registered
+
+*** *** There are no other related records.  Interaction closed by Incident IM2938482"
+SD3940899,Closed,03/10/17 09:52 AM,767011.0162,03/10/17 10:15 AM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/AIRPORT - FUEL FARM/1/,Fuel Farm,,4,,232940,PETER TOUSSAINT,404-714-7925,ATL,Z000757909,WATLACSB00584,753680,MARK COLLINS,Configuration Change,user profile was not right,user profile was not right it had a   .delta after the name and outlook would not open,rebulit profile
+SD3944360,Closed,03/11/17 07:47 PM,767011.0012,03/11/17 08:10 PM,SysOps - Help Desk,Z000697741,XJFKCRGO00021,HP LP2475W,JFK/BUILDING 21/1/,PL OFFICE 1 POS 2,4,4,5,743815,JAEGER METZGER,718-831-5142,JFK,,,670006,ARTHUR SIMPSON,duplicate,Monitor has blue rectangle in top right corner?,"Monitor has blue rectangle in top right corner?
+
+Not laptop, but monitor that caller uses with laptop/docking station?",Closing ticket. Please reference IM2941519.
+SD3947769,Closed,03/13/17 01:20 PM,767011.0078,03/13/17 01:31 PM,SysOps - Help Desk,Axis,AXIS,AXIS,SLC/CALL CENTER/2/,RES 2BA P24,,0,,643535,CYNTHIA ANDERSON,800-221-1212,SLC,Z000707014,WSLCRES2BAP24,753680,MARK COLLINS,environmentals restored,axis was not sized right,axis was not sized right,cleaned up history and ran gpupdate
+SD3948206,Closed,03/13/17 03:30 PM,767011.0052,03/13/17 03:37 PM,SysOps - Help Desk,Axis,AXIS,AXIS,MSP/BUILDING C - GO/1/,C1A1824,,0,,136056,CATHERINE HANSEN,800-221-1212,MSP,Z000750352,WMSPRES1B1P40,753680,MARK COLLINS,environmentals restored,axis not functioning right,axis not functioning right,cleared history in Chrome and java and then restarted axis and now working right
+SD3953212,Closed,03/15/17 03:37 PM,767011.0069,03/15/17 03:47 PM,SysOps - Help Desk,Z000674695,WATLRES4B6P25,HP COMPAQ 6005 STANDARD SFF,ATL/CALL CENTER/5/,BAY 1 CUBE 5105,,4,,568337,MELBA TERRELL,0,ATL,,,415282,LOREAL GOGGINS,withdrawn by user,Unable to right click,User is a wah and is in the office today but not able to right click to flag emails or copy and paste,User withdrew because she will not be in the office much longer
+SD3954441,Closed,03/16/17 08:05 AM,767011.0318,03/16/17 08:51 AM,SysOps - Help Desk,DLTERM,DLTERM,DLTERM,,5S054,,,,925107,JUSTIN WASHINGTON,8003252739,ATL,Z000684904,WATLCAMP05747,169727,MESSIAH PATEL,user training,user says he can't get into dlterm and make it work right,"user says he can't get into dlterm and make it work right
+user getting system unavailable or connecting if this error persists, check for lan or gateway problems
+nothing in kms on this error message sending to ODS",advised user to do i shop request for a wsine for the set according to frank from ods
+SD3957227,Closed,03/17/17 11:07 AM,767011.0101,03/17/17 11:22 AM,SysOps - Help Desk,Microsoft Office,MICROSOFT OFFICE,MICROSOFT OFFICE,ATL/TOC1/1/,TOC1,,5,,441257,DALE FREEMAN,404-677-1789,ATL,Z000907098,XATLCAMP06070,753680,MARK COLLINS,environmentals restored,MS Word not working right,MS Word not working right  Chinese was typing,closed word and reopened
+SD3957513,Closed,03/17/17 12:54 PM,767011.0026,03/17/17 12:58 PM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,215243,ERIC LINHOF,0,JFK,,,040642,JEREMY WALLACE,User Training,User is being asked for admin rights to download software,User is being asked for admin rights to download software,informed user that the admin rights are not available but may be via ishop req
+SD3961108,Closed,03/19/17 01:23 PM,767011.0016,03/19/17 01:26 PM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,696816,MICHAEL JUHL,0,ATL,,,040642,JEREMY WALLACE,User Training,user was asked for admin rights for adobe,user was asked for admin rights for adobe,informed user that he needs to do ishop req
+SD3962692,Closed,03/20/17 09:45 AM,767011.0013,03/24/17 08:25 AM,SysOps - Help Desk,HP-DL23712,PATLAGOMOS2SEC24-C1,HP COLOR LASERJET ENTERPRISE M651XH,ATL/ADMIN CENTER/2/,PRINTER CENTER; SOUTH SIDE,3,4,4,336090,JANIS JOHNSON,404-773-9915,ATL,,,linker,,Hardware,Printer makes noise when printing color is not right and the front door doesn't always stay closed,"User states: ""Printer makes noise when printing color is not right and the front door doesn't always stay closed.  Located Admin bldg. 2nd floor 2SW364 HP-DL23712 PATLAGOMOS2SEC24-C1
+
+rebooted it
+
+Please be advised thank you
+**Title from related Incident record IM2950595:
+Printer makes noise when printing color is not right and the front door doesn't always stay closed","Related Incident IM2950595 closed.
+3/24 Tech replace the cleaner for the shuttle and the Unit tested good.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2950595"
+SD3962981,Closed,03/20/17 11:23 AM,767011.0023,03/20/17 11:26 AM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,832502,STUART DYER,0,DTW,,,040642,JEREMY WALLACE,User Training,User needs admin rights to download software on his efb,User needs admin rights to download software on his efb,gave user the information needed to obtain those rights
+SD3968846,Closed,03/23/17 03:33 AM,767011.0034,03/23/17 12:58 PM,SysOps - Help Desk,Z000751658,WLAXGTKP00003,HP ELITEDESK 705G1 SFF,LAX/AIRPORT-T5-TOWER/5/,LAX ACC GATE KEEPER/PRIMARY PC,4,3,4,791392,JEREMIAH EDWARDS,310-417-7432,LAX,Z000751658,WLAXGTKP00003,linker,,Hardware,mouse right click is not working,"user called in stating that the mouse right click is not working
+unplugged the cables and restarted the computer but no go
+hense escalating
+**Title from related Incident record IM2954172:
+mouse right click is not working","Related Incident IM2954172 closed.
+Replaced mouse.  Tested.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2954172"
+SD3969472,Closed,03/23/17 10:30 AM,767011.0062,03/23/17 10:39 AM,SysOps - Help Desk,AirWatch Mobile Device Manager,AirWatch Mobile Device Manager,,,,,3,,749286,VIVIAN ARANHA,1,ATL,,,280611,LELIA JAMES,User Training,vpn is not right,advise user to delete air watch from his personal device and re add it...,advise user to delete air watch from his personal device and re add it...
+SD3971490,Closed,03/24/17 09:28 AM,767011.0153,03/24/17 09:50 AM,SysOps - Help Desk,Axis,AXIS,AXIS,,WHSE,,0,,347658,MORIKATSU ARAKAKI,801-575-3006,SLC,Z000753220,WSLCRES2BBP53,331190,MASIH MAHMOODI,configuration change,axis resolution is not right.,"axis resolution is not right.
+checked the resolution and browser settings.
+all good.
+ran gpupdate /force -> still get error for resolution in axis
+
+proceeded to rename the user's profile.
+
+\\sslcresdlfp01\profiles$\347658\",renamed the user's roaming and local profile and had the user log back in and it was working fine.
+SD3975598,Closed,03/26/17 03:38 PM,767011.0099,03/26/17 03:52 PM,SysOps - Help Desk,,,,,,,,,577454,PETER CORRAO,d,JFK,,,409529,AMANDA TICE,User Training,helped with ishop request for admin rights,helped with ishop request for admin rights,helped with ishop request for admin rights
+SD3977473,Closed,03/27/17 01:11 PM,767011.0086,03/27/17 01:23 PM,SysOps - Help Desk,,,,,,,,,544361,JEFFREY MCDONALD,470-891-0767,ATL,Z000752255,HATLRWAH00604,169727,MESSIAH PATEL,configuration change,user trying to get his marcos hes not seeing it right now,"user trying to get his marcos hes not seeing it right now
+user rebooted the pc still no go
+did a gpupdate still same issue",user says there someone in office that he needs to contact first
+SD3977928,Closed,03/27/17 03:42 PM,767011.0061,03/27/17 03:51 PM,SysOps - Help Desk,IShop,IShop,,MSP/AIRPORT - G CONCOURSE/1/,1260BX,,4,,914087,ALEX CASTRO,404-714-9891,ATL,Z000674360,WMSPLMTC00082,169727,MESSIAH PATEL,user training,user wants admin right to move folders for KLM,user wants admin right to move folders for KLM,explained ishop request he said he would just type them
+SD3979878,Closed,03/28/17 01:40 PM,767011.0063,03/29/17 11:52 AM,SysOps - Help Desk,Z000428836,KINDTKD40A005,SITA D4 KIOSK V-3,IND/AIRPORT/3/,TICKET COUNTER 317-248-7841 &,3,3,3,280574,MARIE VIEUX,317-272-1856,IND,Z000428836,KINDTKD40A005,linker,,Unknown,user says all 3 kiosk machines are not turning on right next to each other,"user says all 3 kiosk machines are not turning on right next to each other
+user says they are right next to each and they wont turn on
+user wants someone to come take a look at it
+kindtkd40a005
+kindtkd40a001
+kindtkd40a003
+**Title from related Incident record IM2959534:
+user says all 3 kiosk machines are not turning on right next to each other","Related Incident IM2959534 closed.
+See IM2958943 for kindtkd40a005
+kindtkd40a001 and kindtkd40a003 are backup
+
+*** *** There are no other related records.  Interaction closed by Incident IM2959534"
+SD3979952,Closed,03/28/17 02:03 PM,767011.0029,03/28/17 03:37 PM,SysOps - Help Desk,Z000653721,WDTWGATEC09P1,HP COMPAQ 6005 SFF,DTW/AIRPORT - C CONCOURSE/2/,GATE C-09,3,3,3,477296,CURTIS SAMBORSKY,7349216512,DTW,,,linker,,Hardware,Mouse right button does not work,"User states the right button does not work when trying to select the menu drop down. It will work for a moment after a reboot. Unable to troubleshoot the mouse to see if it maybe the mouse itself
+**Title from related Incident record IM2959560:
+Mouse right button does not work","Related Incident IM2959560 closed.
+Replaced the mouse and tested ok
+
+*** *** There are no other related records.  Interaction closed by Incident IM2959560"
+SD3983708,Closed,03/30/17 09:21 AM,767011.0003,03/30/17 09:21 AM,SysOps - Help Desk,,,,,,,,,624303,JUSTIN TOMAYKO,412-472-3121,PIT,,,420682,JENNIFER FRETWELL,User Training,Call came in and dropped right off,Call came in and dropped right off,Call came in and dropped right off
+SD3984775,Closed,03/30/17 03:15 PM,767011.0889,03/30/17 05:23 PM,SysOps - Help Desk,Z000759285,HDFWRWAH00578,HP ELITEDESK 705 G2 SFF,,WHSE,,4,,626622,KAREN MILLS,817-269-4580,DFW,,,415282,LOREAL GOGGINS,configuration change,mouse moves left to right,users mouse moves left to right across the screen instead right to left.,changed the position of displays
+SD3985223,Open - Linked,03/30/17 05:54 PM,767011.0065,,SysOps - Help Desk,Cargo WebVision,Cargo WebVision,,ATL/TOC LINC FACILITY OFFICE/1/,STORES SHIPPING department 470,3,3,3,793265,BENJAMIN AVILES,404-714-1449,ATL,Z000736405,WATLCAMP00989,,,,webvision is not manifesting airway bills for the flights right away,"toc shipping - webvision
+whenever when they are accepting a part on a flight and keeps getting retrieve page to make updates and keeps going in a loop
+after about 10 minutes , it finally prints an airway bill
+
+multiple users are affected approximately 5 people
+
+an example airway bill no. 95733551
+flight no. 1621
+3/30/2017",
+SD3986382,Closed,03/31/17 10:22 AM,767011.0036,03/31/17 11:02 AM,SysOps - Help Desk,Z000396839,WMSPGATED03P2,DESKO 504 GATEREADER,MSP/AIRPORT - D CONCOURSE/2/,GATE D3,3,3,3,117343,CHRISTINE BROWN,612-727-4959,MSP,Z000396839,WMSPGATED03P2,linker,,Software,Gate reader will not scan as the user's are boarding right now,"Gate reader will not scan as the user's are boarding right now
+asked user how long before departure
+User are at a negative 49 minutes
+**Title from related Incident record IM2963660:
+Gate reader will not scan as the user's are boarding right now","Related Incident IM2963660 closed.
+BAB - Arrived at gate at 0931 and they had finished boarding.  Red coat was on phone with someone (guessing ODS from comments) and said no one was able to fix it.  I tried to minimize SNAPP to check on Checkstone but it would not minimize.  Closed via task manager and found checkstone and spawnapp were both not running.  Started spawnapp and checkstone came up and reader was now working, took 30 seconds. User logged into SNAPP and confirmed.
+I have sent these steps to knowledge management team awhile ago so they can add this to KMS for the helpdesk/ODS to reference and use to avoid delays but am not seeing KMS has been updated yet.  A restart of the computer would have solved the issue as well.  Agents had plenty of time as I see the original flight time had already been delayed 20+ mins by another issue.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2963660"
+SD3989527,Closed,04/01/17 05:56 PM,767011.0054,04/01/17 06:03 PM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/ADMIN CENTER/2/,2NW086,,4,,574861,DEBRA CLEMENTS,770-328-0309,MSP,Z000712651,XATLCAMP05488,753680,MARK COLLINS,environmentals restored,user screen on laptop not right,user screen on laptop not right,changed to landscape
+SD3990177,Closed,04/02/17 09:01 AM,767011.0343,04/02/17 09:51 AM,SysOps - Help Desk,Axis,AXIS,AXIS,,,,0,,491075,ASHLEY MATTHEWS,3,ATL,,,482832,ANDRE ARCHER,user training,Axis wasnt displaying right,"Axis wasnt displaying right
+check resolution
+gpupdate","Axis wasnt displaying right
+check resolution
+gpupdate"
+SD3992304,Closed,04/03/17 09:42 AM,767011.0198,04/03/17 10:10 AM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/RELIABILITY CENTER/1/,4S192,,4,,472181,HARRISON LAKE,00000000,ATL,Z000728803,XATLCAMP07348,380523,KEYON SMITH,configuration change,user unable to right click in excel,"a. Click on File menu.
+b. Click Options.
+c. Click Add-ins.
+d. Click on Go button besides Manage: Com-Add-in.
+e. Check if there are add-ins listed, clear the checkbox to disable them.
+f. Close the Excel and restart it.",adds
+SD3995331,Closed,04/04/17 11:23 AM,767011.0073,04/05/17 10:27 AM,SysOps - Help Desk,Windows 7,Windows 7,,MSP/VIRTUAL/VIRTUAL/,J1C0541,4,4,5,Y47940,SURESH KUMAR MYNAM,612 266 2877,MSP,Z000737077,WMSPBLDJ00496,linker,,Software,user still does not have admin rights after completed ishop,"user still does not have admin rights after completed ishop :
+q1039379
+**Title from related Incident record IM2967715:
+user still does not have admin rights after completed ishop","Related Incident IM2967715 closed.
+user has admin right now
+
+*** *** There are no other related records.  Interaction closed by Incident IM2967715"
+SD4000936,Closed,04/06/17 11:55 AM,767011.001,04/06/17 02:33 PM,SysOps - Help Desk,Z000682837,WCVGCURB00004,HP COMPAQ 6005 STANDARD SFF,CVG/AIRPORT - TERMINAL/3/,CVG CURB 4,3,4,4,242099,TONI STELLE,859-240-0434,CVG,,,linker,,Hardware,not generating bag tags right now,"not generating bag tags right now. User requests a technicaian
+**Title from related Incident record IM2970521:
+not generating bag tags right now","Related Incident IM2970521 closed.
+reset queue, job are passing through now.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2970521"
+SD4001330,Closed,04/06/17 01:56 PM,767011.0031,04/06/17 02:00 PM,SysOps - Help Desk,Z000705692,XMSPBLDC00017,HP E8460 NOTEBOOK,MSP/BUILDING C - SHOPS/1/,QUILITY CONTROL 525 POS 5,,4,,406211,RUSSELL BOLLESEN,612-266-4635,MSP,,,281596,WILBERT SMITH,configuration change,the user needs Admin rights,"the user need to make a custom size paper in Excel
+
+the user needs Admin rights",the user needs Admin rights
+SD4003983,Closed,04/07/17 02:05 PM,767011.0076,04/07/17 03:05 PM,SysOps - Help Desk,TELEPHONE_GEN,TELEPHONE_GEN,TELEPHONE,ATL/A1/1/,A11N004,4,2,3,239517,ROBIN STONE,404-697-9998,ATL,,,linker,,Software,"Phone rings, then goes right to voicemail","Phone rings, then goes right to voicemail
+User states it's not even a full ring
+A1 Building Lower Level, A11N004 // 404-715-2613
+http://itkms.delta.com/Avaya_Voice/Troubleshooting/EDB/0006.htm
+Sending to field...
+**Title from related Incident record IM2972896:
+Phone rings, then goes right to voicemail","Related Incident IM2972896 closed.
+Cleared the send all calls feature.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2972896"
+SD4007745,Closed,04/09/17 11:40 AM,767011.0049,04/09/17 02:27 PM,SysOps - Help Desk,Z000677030,WJFKCART00005,HP COMPAQ 800G1 ELITE ULTRA SFF,JFK/AIRPORT - TERMINAL 4 A CONCOURSE/2/,Baggage room,4,3,4,738659,PATRICIA FORDE-ELIE,718-704-2145 / cell 646-210-0880,JFK,Z000677030,WJFKCART00005,linker,,Hardware,Mouse right click do not work.,"User is reporting their right click for the mouse do not work.
+
+Requesting for service.
+**Title from related Incident record IM2974470:
+Mouse right click do not work.","Related Incident IM2974470 closed.
+replaced mouse
+
+*** *** There are no other related records.  Interaction closed by Incident IM2974470"
+SD4009487,Closed,04/10/17 08:33 AM,767011.0074,04/10/17 10:38 AM,SysOps - Help Desk,Z000687159,WLGAGATEC12P2,HP COMPAQ 6005 STANDARD SFF,LGA/AIRPORT - CONCOURSE C/1/,GATE C12 POS 2,3,3,3,537233,KALYANIE RANASINGHA,718-533-3340,LGA,,,linker,,Hardware,User states Number key tabs not working on lower right corner of KEYBOARD,"User states Number key tabs not working on lower right corner of KEYBOARD
+**Title from related Incident record IM2975441:
+User states Number key tabs not working on lower right corner of KEYBOARD","Related Incident IM2975441 closed.
+liquid damage (coffee) to keyboard advised PSA and red coat on site. Replaced keyboard with spare from BFIX
+
+*** *** There are no other related records.  Interaction closed by Incident IM2975441"
+SD4009999,Closed,04/10/17 11:17 AM,767011.0154,04/10/17 11:40 AM,SysOps - Help Desk,Z000715879,WMSPDGSG00038,HP 6305 STANDARD SFF,MSP/AIRPORT - C CONCOURSE/1/,C-1931,,,,991823,JESSLINE BROWNRIGG,6127271336,MSP,Z000715879,WMSPDGSG00038,639194,KYLE CZYSCON,user training,annot create file: Right click the fold you want to create the file in and then click properies on t,"pdf files do not open. gives error ""cannot create file: Right click the folder you want to create the file in and then click properies on the shortcut menu to check your permissions for the folder."" seems to only happen for a particular pdf. pdf is corrupt","pdf files do not open. gives error ""cannot create file: Right click the folder you want to create the file in and then click properies on the shortcut menu to check your permissions for the folder."" seems to only happen for a particular pdf. pdf is corrupt"
+SD4013025,Closed,04/11/17 01:40 PM,767011.0064,04/12/17 10:37 PM,SysOps - Help Desk,Z000749747,WATLRES3B8P09,HP ELITEDESK 705G1 SFF,ATL/CALL CENTER/3/,same side as admin french side,4,3,4,901892,HUGUETTE MUKENDI,7703369408,ATL,Z000749747,WATLRES3B8P09,linker,,Hardware,user says the mouse is not working right,"user says the mouse is not working right
+user rebooted the pc unplugged the mouse and back up
+user is here in training
+bay 8 desk 3809
+**Title from related Incident record IM2977241:
+user says the mouse is not working right","Related Incident IM2977241 closed.
+INSTALLED REPLACEMENT MOUSE.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2977241"
+SD4013733,Closed,04/11/17 06:14 PM,767011.0015,04/13/17 10:31 AM,SysOps - Help Desk,Z000393217,WRICGATEB14P1,DESKO KEYBOARD - 101-KEY KEYBOARD - INTEGRATED DATA CAPTURE,RIC/AIRPORT/2/,Gate B14 Pos 1,4,3,4,032316,EDWINA MARTIN-HOUCK,804-236-2123,RIC,,,linker,,Hardware,"Keyboard, Right Shift key is not working","Keyboard, Right Shift key is not working
+**Title from related Incident record IM2977488:
+Keyboard, Right Shift key is not working","Related Incident IM2977488 closed.
+keyboard swapped
+
+*** *** There are no other related records.  Interaction closed by Incident IM2977488"
+SD4016890,Closed,04/13/17 08:51 AM,767011.0079,04/14/17 05:55 AM,SysOps - Help Desk,Z000754811,WATLGATED38P1,HP ELITEDESK 705G1 SFF,ATL/AIRPORT - D CONCOURSE/2/,GATE D38 POS 1,4,3,4,420727,MELINDA THOMPSON,4046776838,ATL,Z000754811,WATLGATED38P1,linker,,Hardware,right shift key doens't work,"right shift key doens't work
+**Title from related Incident record IM2979188:
+right shift key doens't work","Related Incident IM2979188 closed.
+swapped out
+
+*** *** There are no other related records.  Interaction closed by Incident IM2979188"
+SD4016918,Closed,04/13/17 09:03 AM,767011.0314,04/13/17 09:48 AM,SysOps - Help Desk,SNAPP,SNAPP,SNAPP,HIB/AIRPORT/1/,TKT CNTR,,,,322853,PATRICE MACKERETH,8002211212,HIB,Z000693200,WHIBTKFT00002,884984,MATTHEW BARBER,configuration change,snapp not working right,"cleared java cache, reinstalled firefox, and ran gpupdate on this pc and 01.
+had to restart 01 twice and it started working",had to restart 01 twice and it started working
+SD4017447,Closed,04/13/17 12:29 PM,767011.0009,04/13/17 08:35 PM,SysOps - Help Desk,Z000406082,WATLGATED07P1,DESKO KEYBOARD WITH MAG SWIPE AND PASSPORT READER USB CONNEC,ATL/AIRPORT - D CONCOURSE/2/,D07 POS 1 - KEYBOARD,4,3,4,530609,CEDRIC MILLER,404-677-6807,ATL,,,linker,,Hardware,Right Shift key us not working on Keyboard,"Right Shift key us not working on Keyboard
+**Title from related Incident record IM2979468:
+Right Shift key us not working on Keyboard","Related Incident IM2979468 closed.
+I replugged the keyboard and the shift key is now working.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2979468"
+SD4019732,Closed,04/14/17 01:00 PM,767011.0026,04/23/17 08:29 AM,SysOps - Help Desk,Windows 7,Windows 7,,MSP/VIRTUAL/VIRTUAL/,D206 ROOM D1008,4,3,4,256495,TODD ANDERSON,320-334-1124,MSP,Z000727818,WMSPLMTC00065,linker,,Procedure/Human Error,I need the pdf files to open with the pdf program. Right now it opens with internet explorer.,"I need the pdf files to open with the pdf program. Right now it opens with internet explorer.
+The Adobe needs to reinstall, Helpdesk tried to install it from Radia, but it failed and not installed
+
+Please be advised thank you
+**Title from related Incident record IM2980520:
+ I need the pdf files to open with the pdf program. Right now it opens with internet explorer.","Related Incident IM2980520 closed.
+Suite Re-Installed through Powershell WinRM script, should be working normally now.
+ODS or Help Desk Manually installed Acrobat DC Stand-Alone, this is not permitted because the Suite contains a Suited Version of Adobe Acrobat Professional and Stand-Alone will break the suite
+
+*** *** There are no other related records.  Interaction closed by Incident IM2980520"
+SD4022000,Closed,04/15/17 05:41 PM,767011.009,04/17/17 04:29 AM,SysOps - Help Desk,Z000378712,WSEALIDS00015,PHILIPS BDL4225E LCD,SEA/MAIN TERMINAL SEA/2/,MICROSOFT COUNTER,3,3,3,190786,NINA FONTAINE,612-490-8142,SEA,Z000736594,WSEALIDS00015,linker,,Unknown,User says the Lids screen is not showing the right info,"User says the Lids screen is not showing the right info and is on a virgin atl logo and they cannot change it
+**Title from related Incident record IM2981427:
+User says the Lids screen is not showing the right info","Related Incident IM2981427 closed.
+All LIDS correct no issue found
+
+*** *** There are no other related records.  Interaction closed by Incident IM2981427"
+SD4030715,Closed,04/19/17 07:58 PM,767011.0016,04/27/17 02:12 PM,SysOps - Help Desk,Z000685910,WATLCAMP02251,HP COMPAQ 6005 STANDARD SFF,ATL/TOC2/1/,dept 470 stores,4,3,4,896522,LYNNE GAMMON,404-773-1381,ATL,,WATLCAMP02251,linker,,Hardware,"Right monitor has a ""smart image scrolling line that will not reset""","Right monitor has a ""smart image scrolling line that will not reset""
+User says that their cubemate had the same issue, and that their monitor needed to be replaced.
+Please check and assist.
+**Title from related Incident record IM2985573:
+Right monitor has a ""smart image scrolling line that will not reset""","Related Incident IM2985573 closed.
+Removed smart scan
+
+*** *** There are no other related records.  Interaction closed by Incident IM2985573"
+SD4034059,Closed,04/21/17 09:09 AM,767011.0047,04/21/17 09:16 AM,SysOps - Help Desk,Windows 7,Windows 7,,,,,4,,924589,DUANE MARCUS,4047358833,ATL,Z000759804,HATLCCAH00206,331190,MASIH MAHMOODI,configuration change,user does not have the right theme,user does not have the right theme,changed the theme for the user.
+SD4036072,Closed,04/22/17 08:50 AM,767011.0212,04/22/17 09:20 AM,SysOps - Help Desk,,WATLLMTC00008,HP COMPAQ 6005 STANDARD SFF,ATL/AIRPORT - E CONCOURSE/1/,E10 Line Mtc Mgr Office,,4,,695869,WILLIAM BUTLER,404-714-9891,ATL,Z000380271,WATLLMTC00008,420682,JENNIFER FRETWELL,configuration change,"CHAT: The computer is not acting right, can you take control of it and clean it up?","CHAT: The computer is not acting right, can you take control of it and clean it up?
+
+While logged on to the Delta home page to review my rns, I could not open and read the revision. I would get an error msg. and get a que to close the page.","Accessed the computer and cleared cache fro IE, cleared temp files, gupdate, restarted"
+SD4037482,Closed,04/23/17 07:48 AM,767011.0268,04/24/17 05:28 PM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/CARGO - INTERNATIONAL/1/,TRACKING ROOM,3,3,3,050029,MARTIN REED,404-677-9113,ATL,Z000744642,WATLCAMP02388,linker,,Software,Users PC is not working right,"Users PC is not working right IE is very slow even after cleaning out history and gpupdate Excel will not open and deltanet anytime you click on a link it will hang up
+**Title from related Incident record IM2989296:
+Users PC is not working right","Related Incident IM2989296 closed.
+Reinstalled audio software. Tested ok.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2989296"
+SD4038176,Closed,04/23/17 03:08 PM,767011.0021,04/25/17 12:36 AM,SysOps - Help Desk,Z000732081,WATLACSB00504,HP ZR2440W 24-INCH LCD MONITOR,ATL/AIRPORT - B CONCOURSE/1/,B18 CLC,4,3,4,342325,FABRICE FAVE,404-677-6714,ATL,Z000755974,WATLACSB00504,linker,,Hardware,Monitor lower right has broken screen and light is coming through,"Monitor lower right has broken screen and light is coming through
+**Title from related Incident record IM2989460:
+Monitor lower right has broken screen and light is coming through","Related Incident IM2989460 closed.
+replaced monitor.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2989460"
+SD4039598,Closed,04/24/17 09:59 AM,767011.0044,04/24/17 10:05 AM,SysOps - Help Desk,Windows 7,Windows 7,,DFW/CALL CENTER/1/,BAY 12 POS 07,,4,,607555,ALICIA GARY,000,DFW,Z000674883,WDFWRES1B2P07,761587,VASUTHARINI RAMESH,Configuration Change,unable to open right touch,"User stated was told to rename profile as unable to open right touch app
+
+Hd remote in befroe renaming profile cleared chached files and turn on enterprise mode that fixed the issue",Hd remote in befroe renaming profile cleared chached files and turn on enterprise mode that fixed the issue
+SD4039997,Closed,04/24/17 11:58 AM,767011.0086,04/25/17 01:24 PM,SysOps - Help Desk,SAP APPLICATION,SAP APPLICATION,,BNA/VIRTUAL/VIRTUAL/,LMTC STORES,3,3,3,577966,HOPE HARRIER-BAXTER,615 275 0355,BNA,Z000712747,XBNALMTC00003,linker,,Data,SAP SU2 and SUO is going to the right printers in SAP nor GEM,"SAP SU2 and SUO is going to the right printers in SAP nor GEM
+Unable to ship nor print
+3 Machines are affected
+Anything in BNA is nor working
+This has been occuring since they arrived this morning.  No one is there on the weekend.
+
+It's printing someplace but not Nashville.
+User states that profile may be corrupt and lookup tables are always messed up after major upgrades
+**Title from related Incident record IM2990438:
+SAP SU2 and SUO is going to the right printers in SAP nor GEM","Related Incident IM2990438 closed.
+Closing the ticket as per the communication from COE
+
+*** *** There are no other related records.  Interaction closed by Incident IM2990438"
+SD4040211,Closed,04/24/17 01:07 PM,767011.0027,04/24/17 01:11 PM,SysOps - Help Desk,Windows 7,Windows 7,,,,,4,,281150,PAUL MCDOUGALL,612-266-3570,MSP,,,760982,RAVI TRIPATHI,User Training,Windows 7 Admin right,Windows 7 Admin right,advise user to submit ishop request
+SD4043197,Closed,04/25/17 03:23 PM,767011.0195,04/25/17 03:51 PM,SysOps - Help Desk,Axis,AXIS,AXIS,,,,0,,404344,MARIA BOAC,0,TPA,Z000746870,HTPARWAH00247,420682,JENNIFER FRETWELL,configuration change,AXIS display is not right .  Keeps showing white screen in areas,AXIS display is not right .  Keeps showing white screen in areas,gpupdate
+SD4049587,Closed,04/28/17 10:49 AM,767011.0025,04/28/17 01:09 PM,SysOps - Help Desk,Z000399844,wmcocurb00006,DESKO KEYBOARD WITH MAG SWIPE AND PASSPORT READER - USB CONN,MCO/AIRPORT/2/,wmcocurb00006,3,3,3,874174,JAMES LYON,407-825-5728,MCO,Z000681431,WMCOCURB00006,linker,,Hardware,the onscreen keyboard is not working right,"the onscreen keyboard is not working right  user said needs calibrated.
+**Title from related Incident record IM2995588:
+the onscreen keyboard is not working right","Related Incident IM2995588 closed.
+align screen
+
+*** *** There are no other related records.  Interaction closed by Incident IM2995588"
+SD4050476,Closed,04/28/17 04:17 PM,767011.0017,05/03/17 12:43 PM,SysOps - Help Desk,Z000693796,WSYRTKFT00005,HP COMPAQ 6005 STANDARD SFF,SYR/AIRPORT/1/,TICKET COUNTER 5,4,3,4,251746,CARRIE COHEN,315-928-4926,SYR,,,linker,,Hardware,"tab, shift, the arrows, mostly all the center right keys are inop","tab, shift, the arrows, mostly all the center right keys are inop
+needs replacing please
+**Title from related Incident record IM2995940:
+tab, shift, the arrows, mostly all the center right keys are inop","Related Incident IM2995940 closed.
+
+Replaced keyboard
+
+
+replacement keyboard onsite, agent to swap
+
+*** *** There are no other related records.  Interaction closed by Incident IM2995940"
+SD4052335,Closed,04/29/17 06:36 PM,767011.0062,04/30/17 12:52 PM,SysOps - Help Desk,Z000441342,WMCOGATEA75P1,ET7000 RFID BAGTAG PRINTER,MCO/AIRPORT/2/,GATE A75,3,3,3,399295,YONETTE RAGHUNAN,407-825-5175,MCO,Z000691037,WMCOGATEA75P1,linker,,Hardware,The bag tag printer is not working right,"The bag tag printer is not working right it prints one and then from what I can tell it is falling out the back she says and a blank tags coming out
+**Title from related Incident record IM2996693:
+The bag tag printer is not working right","Related Incident IM2996693 closed.
+clean print head and roller
+
+*** *** There are no other related records.  Interaction closed by Incident IM2996693"
+SD4052917,Closed,04/30/17 08:13 AM,767011.0089,04/30/17 08:26 AM,SysOps - Help Desk,Windows 7,Windows 7,,ZRH/AIRPORT ACS/2/,Noeli Morf,,4,,535791,NOELI MORF,+41438163551,ZRH,Z000729900,XZRHACSB00002,753680,MARK COLLINS,environmentals restored,screen was not set right,screen was not set right,made it landscape and now all is good
+SD4054083,Closed,04/30/17 06:49 PM,767011.0393,04/30/17 07:45 PM,SysOps - Help Desk,DLTERM,DLTERM,DLTERM,SLC/VIRTUAL/VIRTUAL/,W@H LEEANN RUDD,,,,453182,LEEANN RUDD,812-519-3076,SLC,Z000752497,HSLCRWAH00054,753680,MARK COLLINS,environmentals restored,User resolution was all off and dlterm was not the right size,User resolution was all off and dlterm was not the right size,went through and undid all the stuff the previous agent had done and finally got the users screens back to normal.
+SD4058018,Closed,05/02/17 11:20 AM,767011.0085,05/02/17 12:14 PM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/ADMIN CENTER/2/,2NW002,4,3,4,Y51532,JAYAKUMAR VISWANATHAN,404 773 2889,MSP,Z000910483,XATLCAMP10765,linker,,Software,Q1056049 - still needs admin rights,"ishop - requested admin rights however, user still unable to install apps
+XATLCAMP10765
+q1056049
+
+caller ran Radia but didn't help
+**Title from related Incident record IM2999078:
+Q1056049 - still needs admin rights","Related Incident IM2999078 closed.
+Verified that Jayakumar's ID (y51532) was part of the IdmLocalAdminXatlcamp10765 domain group and that delta\IdmLocalAdminXatlcamp10765 was part of the Administrators local group on the xatlcamp10765 machine - all were correct - contacted Jayakumar and verified that the error that was displaying was that it was being blocked by group policy - had Jayakumar reboot and verified that Jayakumar is now able to do admin functions on xatlcam10765.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2999078"
+SD4058400,Closed,05/02/17 01:21 PM,767011.0037,05/03/17 11:02 PM,SysOps - Help Desk,SKYPRO MOBILE_GEN,,SKYPRO MOBILE,SLC/VIRTUAL/VIRTUAL/,,4,3,4,984675,ANDREA NECHVATAL,520-488-6696,SLC,,,linker,,Hardware,Skypro - right 25% is all black,"PLEASE LIMIT YOUR INPUT TO 60 CHARACTERS IN WIDTH
+
+http://hdkvmp.nwa.com/OnBoardSales_SkyPro/Troubleshooting/EDB/00001.html
+
+Item(s) to replace: Skypro
+
+Device IMEI:358341051082580
+
+SIM ID:310410884089231
+
+Device Cell Phone Number:
+
+Complete Shipping Address: 873 Diamond St  San Deigo CA  92109
+
+Is this a NEW or REPLACEMENT device: New
+
+Please describe the issue:  right 25% is all black
+**Title from related Incident record IM2999216:
+Skypro - right 25% is all black","Related Incident IM2999216 closed.
+replacement device ordered ATT ticket #ADV0061338
+
+*** *** There are no other related records.  Interaction closed by Incident IM2999216"
+SD4058448,Closed,05/02/17 01:40 PM,767011.0072,05/02/17 01:50 PM,SysOps - Help Desk,Axis,AXIS,AXIS,,BAY 08 POS 14,,0,,572913,DALLIN MACDONALD,86-21-68355493,SLC,Z000745089,WSLCRES2B8P14,169727,MESSIAH PATEL,configuration change,user says axis is not right for him,user says axis is not right for him,user good to go
+SD4061586,Closed,05/03/17 07:27 PM,767011.0059,05/03/17 07:35 PM,SysOps - Help Desk,,,,,BACHDROP FIDS PC S-5,,,,634361,TYREE FOREST,206-430-0513,SEA,Z000690652,WSEABAGR00002,774839,KAJA CARTER,user training,Unable to right click on excel to select,Unable to right click on excel to select,Rebooted computer and cleared cookies
+SD4061613,Closed,05/03/17 07:44 PM,767011.0016,05/04/17 12:57 PM,SysOps - Help Desk,Z000690652,WSEABAGR00002,HP COMPAQ 6005 STANDARD SFF,SEA/AIRPORT - S CONCOURSE/2/,BACHDROP FIDS PC S-5,3,3,3,634361,TYREE FOREST,206-430-0513,SEA,Z000690652,WSEABAGR00002,linker,,Software,Unable to right click on anything,"Computer will not allow user to right click on anything highlighted
+
+Unable to remote into the computer to clear cookies and temp files.  Dameware will not connect to the computer
+**Title from related Incident record IM3000984:
+Unable to right click on anything","Related Incident IM3000984 closed.
+deleted idlemode profile     restored
+
+*** *** There are no other related records.  Interaction closed by Incident IM3000984"
+SD4062566,Closed,05/04/17 10:34 AM,767011.0062,05/04/17 10:43 AM,SysOps - Help Desk,,,,,,,,,819310,PETER HUPPERICH,404,ATL,,,066278,ADEYINKA ADEDOTUN,User Training,Pilot says since they put covers on the surface 3 it drops WIFI signal on right side of the cockpit,"Pilot says since they put covers on the surface 3 it drops WIFI signal on right side of the cockpit
+Advised user to fill out an FCR",Advised user to fill out an FCR
+SD4062750,Closed,05/04/17 11:37 AM,767011.0011,05/04/17 05:30 PM,SysOps - Help Desk,Outlook,Outlook,,ATL/VIRTUAL/VIRTUAL/,,4,3,4,448914,ERICA SMITH,404-559-2128,ATL,,,linker,,Software,"user needs list of people with rights to Send As mailbox, SSGM won't display","I want to see who are the owners/who has the rights to send out messages on behalf of DLV Corporate Communications inbox (dlvcorporatecommunications@mltvacations.com).
+**Title from related Incident record IM3001801:
+user needs list of people with rights to Send As mailbox, SSGM won't display","Related Incident IM3001801 closed.
+The requested info is registered on this ticket and was also sent to the user via email. No further actions required, case closed.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3001801"
+SD4065049,Closed,05/05/17 11:36 AM,767011.0239,05/05/17 11:53 AM,SysOps - Help Desk,,,,,2se202,,,,482894,ADOLFO SALAS,404-714-2484,ATL,Z000908925,XATLCAMP09629,335650,RAYMOND KERR,procedure enforcement,admin right,"issues with visual studio
+after 3 months visual studio 2012 is not compatible",admin rights
+SD4065448,Closed,05/05/17 01:54 PM,767011.0208,05/05/17 02:10 PM,SysOps - Help Desk,,,,,,,,,310753,DALE STANTON,404-773-7840,ATL,,,515452,KEVIN JOHNSON,user training,Admin rights for 7 days,"Q1058411user has email and ran radia twice...rebooted twice
+had user contact a secidm.it@delta.com","Q1058411user has email and ran radia twice...rebooted twice
+had user contact a secidm.it@delta.com"
+SD4065738,Closed,05/05/17 03:23 PM,767011.0118,05/05/17 03:40 PM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,328146,CURTIS WILLIAMS,580-421-5160,ATL,,,753680,MARK COLLINS,procedure enforcement,users EFB started working and got the right update,IM2999121  users EFB started working and got the right update,user still showed wins disconected so he will user the replacment
+SD4068467,Closed,05/07/17 08:06 AM,767011.0025,05/11/17 08:43 AM,SysOps - Help Desk,Z000315850,WMCICURB00004,UNIMARK ET6000 MULTI,MCI/AIRPORT/2/,CURBSIDE,3,3,3,622370,DAMON GAYLEAN,816-243-5601,MCI,Z000700837,WMCICURB00004,linker,,Hardware,Boarding pass printer not working right,"Boarding pass printer not working right it will print half the pass and then cutting it in the wrong place needs cleaned and adjusted  Cell number: 816-462-7936
+**Title from related Incident record IM3004574:
+Unimark ET6000 Boarding pass printer - not working right.","Related Incident IM3004574 closed.
+New printer is installed and working without an issue. Closing ticket.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3004574"
+SD4068898,Closed,05/07/17 12:29 PM,767011.0081,05/07/17 12:40 PM,SysOps - Help Desk,Axis,AXIS,AXIS,ATL/VIRTUAL MACHINE/VM/,,,0,,748252,SHERBIYA THEUS,800-221-1212,ATL,Z000706736,HATLRWAH00049,753680,MARK COLLINS,environmentals restored,axis not working right,axis not working right,cleared history and ran gpupdate
+SD4068941,Closed,05/07/17 12:51 PM,767011.0027,05/16/17 06:54 AM,SysOps - Help Desk,HP-DLMA328,,HP LASERJET M575F ENTERPRISE 500 COLOR MULTIFUNCTION FAX COP,SEA/AIRPORT/1/,BAG SERVICE,3,3,3,629187,SUZANNE DIFRAIA-ORTEGA,206-301-6813,SEA,,,linker,,Hardware,Open right door jam in right door,"Open right door jam in right door user open and closes door and does not see any paper jammed
+**Title from related Incident record IM3004745:
+Open right door jam in right door","Related Incident IM3004745 closed.
+replaced right door assembly and cleaned paper path. tested printer and is working fine.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3004745"
+SD4073278,Closed,05/09/17 10:07 AM,767011.0037,05/09/17 10:12 AM,SysOps - Help Desk,IShop,IShop,,,,,4,,X94573,USAMA ELJITAN,4164534201,ATL,,,169727,MESSIAH PATEL,user training,user says he requested admin rights,"user says he requested admin rights
+user asking what can he do with admin rights",user good to go
+SD4081256,Closed,05/12/17 12:28 PM,767011.0392,05/12/17 12:50 PM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,348318,JOHN GODWIN,6785215926,ATL,,,282711,SAM SOLAIMANI,configuration change,Surface 3 is prompting for Administrator rights to enable Location Services,"Surface 3 is prompting for Administrator rights to enable Location Services
+User is saying that they need this in order to get Flight Weather Viewer working",called PSC
+SD4082172,Closed,05/12/17 06:18 PM,767011.0073,05/12/17 06:24 PM,SysOps - Help Desk,Deltanet-SharePoint,Deltanet-SharePoint,,,,,1,,512633,PRISCILLA SIBLEY,404-966-8180,ATL,,,753680,MARK COLLINS,procedure enforcement,user called about self service not working right,user called about self service not working right,"1800mydelta
+
+http://itkms.delta.com/ESS/default.htm"
+SD4082339,Closed,05/12/17 08:09 PM,767011.0012,05/12/17 08:11 PM,SysOps - Help Desk,,,,,,,,,515556,JENNIFER WILLIAMS,s,HDQ,,,409529,AMANDA TICE,User Training,wants to add admin rights to laptop,wants to add admin rights to laptop,ishop request
+SD4088835,Closed,05/16/17 01:48 AM,767011.006,05/22/17 09:28 AM,SysOps - Help Desk,Z000720277,YSFOFIDM00G43,HP T620 PLUS THIN CLIENT,SFO/AIRPORT/2/,GATE 43 BACKDROP,4,3,4,842766,ROSEMARY ARGUELLO,650 742 7333,SFO,Z000411029,YSFOFIDM00G43,linker,,Unknown,Gatemonitor is not displaying the right flight number,"Gatemonitor is not displaying the right flight number
+Not able to remote the computer
+Able to ping the computer
+Monitor in the Gate-43is not displaying the flight information correctly
+User is looking for assistance in it
+**Title from related Incident record IM3014310:
+Gatemonitor is not displaying the right flight number","Related Incident IM3014310 closed.
+Display is currently showing correct info. Unable to reproduce problem.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3014310"
+SD4092347,Closed,05/17/17 09:31 AM,767011.0292,05/17/17 12:44 PM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/VIRTUAL/VIRTUAL/,,4,3,4,619223,JUSTIN FLYNN,404-714-9324,ATL,Z000758638,WATLCAMP05851,linker,,Software,Issue with admin rights,"q1063104
+-added user as admin
+-iShop was granted by the admin rights were not working for the user
+**Title from related Incident record IM3016012:
+Issue with admin rights","Related Incident IM3016012 closed.
+Installed programs for user
+Closed ticket
+
+*** *** There are no other related records.  Interaction closed by Incident IM3016012"
+SD4092434,Closed,05/17/17 09:59 AM,767011.0028,05/17/17 10:03 AM,SysOps - Help Desk,Windows 7,Windows 7,,,,,4,,033397,THOMAS GRAY,9139076538,ATL,,,796328,SEPIDEH BABAKHANI,User Training,need admin right,"need to install  an aplication
+and need admin right",asked user to submit an ishop
+SD4093048,Closed,05/17/17 01:13 PM,767011.0025,05/18/17 09:43 AM,SysOps - Help Desk,FIDS_MONITOR_GEN,FIDS_MONITOR_GEN,FIDS_MONITOR,RDU/AIRPORT/1/,Sky Club/ above the gate,3,4,4,234533,DAVID MAYSE,919-466-1873,RDU,Z000721007,YRDUFIDMCSK01,linker,,Unknown,The FIDS screen is not showing the right information and only shows one flight,"User states that the FIDS screen is not showing the right information and only shows one flight
+
+Unable to remote ot the fIDS screen
+
+Please be advised thank you
+**Title from related Incident record IM3016274:
+The FIDS screen is not showing the right information and only shows one flight","Related Incident IM3016274 closed.
+Display is OK today.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3016274"
+SD4094471,Closed,05/18/17 06:21 AM,767011.0037,05/18/17 06:26 AM,SysOps - Help Desk,Radia,Radia,,,,,2,,080218,CYNTHIA KING,404-714-3654,ATL,Z000912513,XATLCAMP11975,279383,SANAZ HAKIMI-SAEIDI,configuration change,Admin right,User got the admin right,run the full radia connect and asked user to call back if didn't work
+SD4095732,Closed,05/18/17 01:50 PM,767011.0214,05/18/17 02:21 PM,SysOps - Help Desk,,,,,,,,,033397,THOMAS GRAY,8603718160,ATL,,,884984,MATTHEW BARBER,configuration change,gpupdate needed for local admin rights temporarily,gpupdate needed for local admin rights temporarily,gpupdate run
+SD4096440,Closed,05/18/17 06:12 PM,767011.0018,05/18/17 06:15 PM,SysOps - Help Desk,,,,,,,,,957009,JIA LEI,0,ATL,,,420682,JENNIFER FRETWELL,User Training,Needs to know how much vacation time she has and how to get permanent admin rights,Needs to know how much vacation time she has and how to get permanent admin rights,"800MYDELTA
+iShop and contact us for information regarding permanment Admin rights"
+SD4097996,Closed,05/19/17 11:48 AM,767011.0063,05/20/17 04:46 PM,SysOps - Help Desk,Z000755486,WLAXACSO00032,HP ELITEDESK 705G1 SFF,LAX/AIRPORT/6/,"Trailer 6,across from Terminal",4,3,4,938522,AGNES PAULK,310-417-7431,LAX,Z000755486,WLAXACSO00032,linker,,Procedure/Human Error,White line going across from right to left on user's second Monitor,"White line going across from right to left on user's second Monitor..Dameware into user's pc but cannot see any white line
+**Title from related Incident record IM3018918:
+White line going across from right to left on user's second Monitor","Related Incident IM3018918 closed.
+helped user over phone....   monitor hardware settings
+
+*** *** There are no other related records.  Interaction closed by Incident IM3018918"
+SD4100337,Closed,05/20/17 01:04 PM,767011.0068,05/20/17 01:14 PM,SysOps - Help Desk,SNAPP-Lobby,SNAPP-Lobby,,SEA/MAIN TERMINAL SEA/2/,MICROSOFT CHECK IN,,1,,441420,LORNALUISA RAMIREZ,206-301-6146,SEA,Z000682445,WSEATKFT00021,753680,MARK COLLINS,reboot/recycle,Snapp not working right when shipping pet,Snapp not working right when shipping pet,selected pet type and now working
+SD4100598,Closed,05/20/17 03:01 PM,767011.0017,05/23/17 11:44 AM,SysOps - Help Desk,Z000737769,WATLRES3B3P57,HP 6305 STANDARD SFF,ATL/CALL CENTER/3/,POS 3357,4,3,4,111971,ARAME SECK,323-376-5099,ATL,,,linker,,Hardware,Avaya phone buttons are not set right physically,"All of the buttons on the phone are really hard to press.  It is like the casing is not set over the buttons underneath properly making it hard to get the response.
+**Title from related Incident record IM3020011:
+Avaya phone buttons are not set right physically","Related Incident IM3020011 closed.
+I replaced the defective phone with a new one..
+
+*** *** There are no other related records.  Interaction closed by Incident IM3020011"
+SD4104434,Closed,05/22/17 12:17 PM,767011.005,05/23/17 07:34 AM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/VIRTUAL/VIRTUAL/,2SE027,4,3,4,354836,CHARLES DOWD,404-715-5749,ATL,Z000706415,XATLCAMP04244,linker,,Security,Q1068707 - requested admin rights,"user submitted ishop -  need local admin rights
+
+Request as soon as possible..Please contact user
+DN - SECAUT
+Q1068707
+advised caller of Quote status but wanted request expedited
+**Title from related Incident record IM3021668:
+Q1068707 - requested admin rights","Related Incident IM3021668 closed.
+Q1068707 was completed 5/22/2017
+Admin rights are reported as working fine
+
+*** *** There are no other related records.  Interaction closed by Incident IM3021668"
+SD4107436,Closed,05/23/17 12:42 PM,767011.0057,05/25/17 10:42 AM,SysOps - Help Desk,RightFAX-Fax Mailbox,RightFAX-Fax Mailbox,,ATL/TOC1/2/,ROOM C-570,4,3,4,880427,BRIAN WRIGHT,404-714-3993,ATL,Z000683316,XATLCAMP04179,linker,,Software,user not receiving any faxes on the right fax,"user not receiving any faxes on the right fax
+user says the number is busy usually the fax will come to inbox
+**Title from related Incident record IM3023170:
+user not receiving any faxes on the right fax","Related Incident IM3023170 closed.
+Exchange team has tried to contact the user but still no answer. This ticket will be closed, in case of any doubts please contact Exchange team.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3023170"
+SD4112761,Closed,05/25/17 12:10 PM,767011.0068,05/25/17 12:20 PM,SysOps - Help Desk,,,,,,,,,903526,RACHAEL HELLMAN,d,SCL,,,409529,AMANDA TICE,User Training,needs to download software with admin rights,needs to download software with admin rights,walked her through the whole process of ishop request for software and admin rights
+SD4112818,Closed,05/25/17 12:30 PM,767011.0028,05/25/17 12:34 PM,SysOps - Help Desk,EFB_GEN,EFB_GEN,EFB,,,,,,832601,JOHN PURSER,000,ATL,,,178226,AFOLABI BENSON,User Training,Questions about admin rights,Questions about admin rights,Pilot must go to ATL PSC to get admin rights so he can install programs that are asking for admin rights
+SD4118545,Closed,05/27/17 06:01 PM,767011.0054,05/30/17 07:15 AM,SysOps - Help Desk,Parts Picker,Parts Picker,,ATL/TOC2/1/,Parts Picker,3,3,3,914217,XAOMATI RIVERA,4047734046,ATL,,,linker,,Hardware,"ATL: Parts picker down, Aisle 7, right shift sensor is busted","Parts picker down, Aisle 7,
+****** right-side shift sensor is busted/broken*******
+DN MEMmat
+http://itkms.delta.com/Supp/Picker.htm
+**Title from related Incident record IM3028789:
+ATL: Parts picker down, Aisle 7, right shift sensor is busted","Related Incident IM3028789 closed.
+Called the user to check if the sensor has been fixed by Delta Maintenance. Was able to talk to Carla Johnson and she confirmed that it is now fixed.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3028789"
+SD4118622,Closed,05/27/17 06:58 PM,767011.0024,05/29/17 08:58 AM,SysOps - Help Desk,Windows 7,Windows 7,,BOS/AIRPORT - SATELLITE TERMINAL/2/,GATE 16 CENTER  (S-PAD),3,3,3,713015,CATHERINE FERRARA,617-568-0839,BOS,Z000735039,WBOSGATEA16P1,linker,,Hardware,The mouse on the PC is not working right,"The mouse on the PC is not working right it will stop working and the user has to press control alt to get it to work again she has also rebooted but has the same issue
+**Title from related Incident record IM3028813:
+The mouse on the PC is not working right","Related Incident IM3028813 closed.
+pc and mouse is operational......................................
+
+*** *** There are no other related records.  Interaction closed by Incident IM3028813"
+SD4128162,Closed,05/31/17 08:44 PM,767011.0023,06/06/17 05:53 AM,SysOps - Help Desk,Z000715154,WATLTKFTFSA28,HP 6305 STANDARD SFF,ATL/AIRPORT - F CONCOURSE/LL/,F-FIS Recheck Position 8,3,4,4,301688,ROLLAND RIESBERG,4046777238,ATL,Z000715154,WATLTKFTFSA28,linker,,Unknown,User called in because the right shift key is not responding,"User called in because the right shift key is not responding
+User tried to reboot to see if that would fix the issue but it didnt
+**Title from related Incident record IM3033317:
+User called in because the right shift key is not responding","Related Incident IM3033317 closed.
+onsite tested all keys but did not find any issue. Awaiting user for user to test
+
+*** *** There are no other related records.  Interaction closed by Incident IM3033317"
+SD4129146,Closed,06/01/17 10:05 AM,767011.0019,06/01/17 10:08 AM,SysOps - Help Desk,IShop,IShop,,,,,4,,688313,DEBRA LAVENGOOD,317-674-8383,IND,,,169727,MESSIAH PATEL,user training,user requested admin rights and still having issues,user requested admin rights and still having issues,explained to run radia
+SD4131599,Closed,06/02/17 09:08 AM,767011.0127,06/02/17 02:35 PM,SysOps - Help Desk,Z000902612,XATLCAMP03353,TOSHIBA TECRA Z40 ULTRABOOK LAPTOP,ATL/ADMIN CENTER/5/,5NE085 next to Senior Vice Pre,4,3,4,688905,JAMES MARCOUX,404-714-8421 or cell 404 345 8965,ATL,Z000902612,XATLCAMP03353,linker,,Hardware,Just moved and monitor display is not functioning on the right side,"Just moved and monitor display is not functioning on the right side
+Lights up and goes out
+User has checked the cables
+Was fine yesterday and user states that keyboard was not associated with the screen
+**Title from related Incident record IM3035319:
+Just moved and monitor display is not functioning on the right side","Related Incident IM3035319 closed.
+Monitor issue was already resolved. keyboard wasn't working because there were already two wireless receivers for keyboard/mouse in the laptop and it was blocking the keyboard signal.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3035319"
+SD4133898,Closed,06/03/17 10:36 AM,767011.005,06/03/17 10:44 AM,SysOps - Help Desk,Axis,AXIS,AXIS,CVG/CALL CENTER/6/,BAY 3 POS 17,,0,,144923,D.CONNIE FLOYD,800-221-1212,CVG,Z000380275,WCVGRES6B3P17,753680,MARK COLLINS,environmentals restored,user could not get the res to work right,user could not get the res to work right,turned off magnifier
+SD4134514,Closed,06/03/17 04:02 PM,767011.0183,06/03/17 04:15 PM,SysOps - Help Desk,,,,,,,,,R29876,BALAVARDHAN SRIPURAM,8324444944,ATL,,,515452,KEVIN JOHNSON,user training,ADMIN Rights,User needing admin rights for laptop....advised user to fill out ishop request,User needing admin rights for laptop....advised user to fill out ishop request
+SD4136183,Closed,06/04/17 04:32 PM,767011.0087,06/04/17 04:44 PM,SysOps - Help Desk,Axis,AXIS,AXIS,CVG/CALL CENTER/6/,BAY 7 POS 1,,0,,821131,CARLA WALTON,859-640-2825,CVG,Z000690355,WCVGRES6B7P01,753680,MARK COLLINS,environmentals restored,user resolution was not working right,user resolution was not working right,everything looked fine after she rebooted
+SD4137365,Closed,06/05/17 09:01 AM,767011.0107,06/05/17 09:19 AM,SysOps - Help Desk,Z000398415,WDTWGATEC21P1,DESKO KEYBOARD WITH MAG SWIPE AND PASSPORT READER - USB CONN,DTW/AIRPORT - C CONCOURSE/2/,GATE C21,3,3,3,921281,KATHLEEN WINSTON,734-921-6521,DTW,,,670006,ARTHUR SIMPSON,duplicate,Details:             Right shift key does not work...,"Type:                Session
+Priority:            Medium
+Queue:               Simpson, Arthur W
+Time in this Queue:  0:01:28
+Customer Name:       Kathleen Winston
+Computer Name:
+Platform:            Windows® (x86) Click-To-Chat
+Support Issue:       ACS application issues
+Time in the System:  0:07:53
+Public Site:         Default
+Required Skills:
+IP Address:          10.30.133.172
+Company Name:        921281
+Company Code:        734-921-6521
+Details:             Right shift key does not work. Unplugged keyboard and rebooted computer as suggested, still does not work.
+External Key:",Closing ticket. Please reference IM3037960.
+SD4142020,Closed,06/06/17 09:02 PM,767011.0042,06/06/17 09:54 PM,SysOps - Help Desk,Z000692193,WDTWGATEA15P1,HP COMPAQ 6005 STANDARD SFF,DTW/AIRPORT - A CONCOURSE/2/,GATE A15,4,2,3,012873,CHRISTABEL ROBERTS,734-921-6015,DTW,,,linker,,Unknown,Flight Delay - Gate computer Crashed right before boarding,"Please complete as much as possible, if not available type N/A
+Flight Number: 2619
+ City Pair: DTW - CVG
+Gate Number: A15
+If NO, duration of the delay: 20 min
+Root Cause of the Delay: Computer shut down and they got the BSOD - They had to board from the back up computer - and  pc never recoved - still down
+**Title from related Incident record IM3039942:
+Flight Delay - Gate computer Crashed right before boarding","Related Incident IM3039942 closed.
+Did  investigate. Workstation was operating fine at the gate. Agent was logged in and was about to start boarding. No fault found.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3039942"

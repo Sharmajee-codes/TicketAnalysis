@@ -1,22 +1,45 @@
 import csv
-import itertools
 import json
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
 from nltk.stem import PorterStemmer
-from Tokenizing import IOoperations
+from Analysis import IOoperations
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 
-english_stopwords = stopwords.words('english')
-
-
 class TicketJson: 
-    counter = 0
     global row
     row = 204401
     global KeyRows
-    KeyRows =10
-    
+    KeyRows =12
+    global english_stopwords
+    english_stopwords = stopwords.words('english') 
+    counter = 0
 
+    def LenCalc(self,feild,Result):
+        print("Processing Please wait...")
+        stemmer = PorterStemmer()
+        token = ""
+        i = 0
+        global SummaryLength
+        global SummaryIntoTokens
+        SummaryLength = []
+        SummaryIntoTokens = []   
+        for i in range(0,row):
+            SentenceToken=[]
+            for token in word_tokenize(Result[i][feild]):
+                if token in english_stopwords or len(token)<2:
+    
+                    continue               
+                stemmed_token =  stemmer.stem(token)       
+                SentenceToken.append(stemmed_token.lower())
+            SummaryIntoTokens.append(SentenceToken)
+            SummaryLength.append(len(SentenceToken))
+            
+        #print(SummaryIntoTokens)
+        return (SummaryLength,SummaryIntoTokens)
+
+    
     def jsonCreator(self,path):    
         csvfile = open(path, 'r')
         reader = csv.DictReader(csvfile)
@@ -71,8 +94,8 @@ class TicketJson:
         tocsv = get.WriteToCSV
         
         tocsv("Total number of records : {}\n".format(row))
-        print("Total number of records {}\n".format(row))
-        print(" ")
+        #print("Total number of records {}\n".format(row))
+        #print(" ")
         tocsv("Keysets,Count,Percent\n")      
         for i in range(0,len(counterValue)):
             a = 1
@@ -80,7 +103,7 @@ class TicketJson:
             perc = (a/row)*100   
     
             tocsv(""""{}",{},{}%\n""".format(FinalKeySet[i],counterValue[i],format(perc)))
-            print("{} - {} - {}%\n".format(FinalKeySet[i],counterValue[i],format(perc)))      
+            #print("{} - {} - {}%\n".format(FinalKeySet[i],counterValue[i],format(perc)))      
         return arrRow
     
     
@@ -88,7 +111,7 @@ class TicketJson:
     def CreateCategorizedFiles(self,Index):    
         delt = IOoperations.Write()
         delt.DeleteCategorizedFile(len(Index))
-                   
+        x = []         
         abc = []
         new_list = []
         for i in range(len(Index)):
@@ -96,27 +119,17 @@ class TicketJson:
             abc.append(new_list)
             abc[i]=[0] + abc[i]
         #print(abc)# this is the index of the csv file not the row number
-    
         toCategorizedcsv = IOoperations.Write()
-       
-        
+        the_file = open('C:\\Users\\36474\\Desktop\\ServiceReport1.csv', 'r',50000000)
+        reader = csv.reader(the_file)
+        #reader = csv.reader(the_file)#, delimiter='\t')
+        my_list = list(reader)
+        the_file.close()  
         for category in range(len(abc)):
-            print(" ")
-            
-            for l in range(len(abc[category])):            
-                i = 0
-                the_file = open('C:\\Users\\36474\\Desktop\\ServiceReport1.csv', 'r',50000000)
-                reader = csv.reader(the_file)
-                for row in reader:
-                    if i == abc[category][l]:
-                        #print(row)
-                        toCategorizedcsv.WriteToCategorizedCSV(row,category)
-                        break
-                
-                    i += 1
-                
-                the_file.close()          
-        print("Ticket Analysis done. Please check the root directory for files ")                    
+            i = 0
+            for l in range(len(abc[category])):
+                toCategorizedcsv.WriteToCategorizedCSV(my_list[abc[category][l]],category)        
+        #print("Ticket Analysis done. Please check the root directory for files ")                    
             
             
         

@@ -1,0 +1,1491 @@
+Interaction ID,Status,Impact Start Date,Handle Time,Close Time,Assignment Group,Affected CI,CI Name,Hardware Type,CI Location,Office / Postion,Impact,Urgency,Severity,Employee ID,Name,Contact Phone,Location,Workstation Asset Tag,Workstation Name,Closed By,Closed By Name,Root Cause Code,Title,Description,Solution
+SD3724108,Closed,12/02/16 07:10 AM,767011.0036,12/02/16 09:04 AM,SysOps - Help Desk,SNAPP-Gate,SNAPP-Gate,,GSO/AIRPORT/2/,GATE 31 POS 1,3,3,3,696657,ALEXANDER TSITOURIS,336-931-3169,GSO,Z000708262,WGSOGATE031P1,linker,,Hardware,SNAPP - gatereader not working,"flight 5325 - gatereader would not work,
+had to manually show onboard.
+Agent rebooted workstation after flight departed to resolve issue
+
+gate 31
+
+**this did not cause flight delay per caller *8
+SNAPP v9.12
+**Title from related Incident record IM2840900:
+SNAPP - gatereader not working","Related Incident IM2840900 closed.
+The gate readers are known to sporadically not initialize when a flight is opened in SNAPP.  Research is ongoing into the cause of this issue.  Once a cause is found a solution will be implemented.  The IT Help Desk and ODS have the gate reader recovery steps.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2840900"
+SD3740461,Closed,12/08/16 06:58 PM,767011.0044,12/09/16 09:30 AM,SysOps - Help Desk,Z000671094,WBTRGATEA02P3,HP COMPAQ 6005 STANDARD SFF,BTR/AIRPORT/2/,WBTRGATEA02P3,3,3,3,813772,SUSILA PATEL,225-356-9545,BTR,,,linker,,Hardware,Flight Delay- gatereader error,"1278 to BTR to ATL
+issue with gatereader error - shows up in Snapp
+caused flight delay- unable to scan boarding passes
+
+
+Flight Number:1278
+
+
+
+City Pair: BTR/ ATL
+
+
+
+Gate Number:Gate # A-2
+
+
+
+Was a flight delay prevented? No
+
+
+
+If NO, duration of the delay: 6 min.
+
+
+
+If YES, Time Remaining After RESOLUTION:
+
+
+
+Root Cause of the Delay: gatereader error
+
+
+
+Is root cause software or hardware?
+
+
+
+Customer PNR if available:
+
+
+
+If SNAPP, What Version:
+
+
+
+If software populate the affected CI within the Affected CI field
+
+
+
+If hardware populate the affected CI within the Affected CI field
+
+
+
+What function was the agent attempting to perform?boarding
+
+
+WSINE and/or Workstation Name:WBTRGATEA02P3
+
+
+
+Describe trouble shooting attempted:
+rebooted- no luck
+
+
+
+
+For SNAPP attributed flight delays include all the information outlined on this page and PNR examples (or customer name and flight number or seat number), flight information, SNAPP version number on upper left corner of screen, workstation name or WSINE, function performed and problem/error response. This helps the SNAPP team in their research to resolve issues and defects.
+**Title from related Incident record IM2848189:
+Flight Delay- gatereader error","Related Incident IM2848189 closed.
+Research shows the gate reader failed to initialize correctly when the flight was opened in SNAPP. This is not  a SNAPP attributable flight delay.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2848189"
+SD3741423,Closed,12/09/16 10:08 AM,767011.0234,12/10/16 12:03 PM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/AIRPORT - E CONCOURSE/2/,Gate E33 Pos 3,4,3,4,670439,PETROVA MOMTCHILOVA PETROVA,4045304760,ATL,Z000757282,WATLGATEE33P3,linker,,Unknown,gatereader pc won't logon to snapp,"user restarted pc, starts to open snapp but it won't load.
+took 3 attempts for dameware to establish connection. cleared java cache then ran gpupdate /force
+updated policy took 5 minutes. had to run again then force restart the PC hbecause it got stuck at logging off. still won't load snapp.
+serious pc performance issues
+**Title from related Incident record IM2848777:
+gatereader pc won't logon to snapp","Related Incident IM2848777 closed.
+was able to log into SNAPP **see attachment**
+
+*** *** There are no other related records.  Interaction closed by Incident IM2848777"
+SD3742472,Closed,12/09/16 03:49 PM,767011.0027,12/09/16 04:08 PM,SysOps - Help Desk,SNAPP-Gate,SNAPP-Gate,,SEA/AIRPORT - A CONCOURSE/1/,A2 - P3,3,3,3,182945,JESS KELLEY,206-988-7354,SEA,Z000736925,WSEAGATEA02P3,linker,,Unknown,Gatereader unable to scan boarding passes,"Gatereader unable to scan boarding passes
+gatereader will beep and boards the passanger, but fails to display the name of the passanger so the gate cannot confirm whether or not it's working correctly.
+User has tried powercycling the computer and the reader but does not resolve the issue. Suspect potential software issue?
+Escalating...
+**Title from related Incident record IM2849074:
+Gatereader unable to scan boarding passes","Related Incident IM2849074 closed.
+Flight number was not supplied with the problem report. Without this information, the SNAPP Team cannot research the reported problem.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2849074"
+SD3749181,Closed,12/12/16 05:15 PM,767011.0142,12/12/16 05:35 PM,SysOps - Help Desk,Windows,Windows,,MHT/AIRPORT/2/,GATE 5 RIGHT,,4,,772306,GIA FLORIAN,603-634-6115,MHT,Z000423006,WMHTGATE005P2,917840,JIM NISCHAL,configuration change,Gatereader Issue,User says Gate Reader Printing Passenger Itineraries Instead of Boarding the Passenger,"Advised user to reboot the Gatereader and the workstation
+Problem fixed"
+SD3751859,Closed,12/13/16 04:39 PM,767011.0118,12/14/16 02:11 PM,SysOps - Help Desk,Z000674538,WMSPGATEF03P2,HP COMPAQ 6005 STANDARD SFF,MSP/AIRPORT - F CONCOURSE/2/,F03P2,4,3,4,391288,MARCIA ELDER,612-266-9603,MSP,,,linker,,Hardware,issues with gatereader,"rebooted, replugged scanner
+Snapp was not communicating with the gatereader on last flight
+scan boadring pass- pop up message-"" check gatereader:powercycle and restart Snapp""
+had to manually board passengers
+** Per tech, who wass there, Snapp is not talking to the gatereader
+
+Called ODS- Nat
+powercycled printer and gatereader and reopened and logged into Snapp
+Same error comes up
+Requesting FE assiatance
+**Title from related Incident record IM2853016:
+SEE NOTES - issues with gatereader","Related Incident IM2853016 closed.
+The gate reader is working well at this time. The gate reader recovery steps had to be performed 2 times in order to get the hardware back up and running.   This is not a SNAPP related flight delay.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2853016"
+SD3754937,Closed,12/14/16 09:40 PM,767011.0024,12/15/16 01:22 PM,SysOps - Help Desk,Z000687349,WLGAJTBGC17P1,HP COMPAQ 6005 STANDARD SFF,LGA/AIRPORT - CONCOURSE C/2/,GATE 17 JETBRIDGE,3,4,4,843292,ANGEL RIVERA,718-551-5551,LGA,Z000687349,WLGAJTBGC17P1,linker,,Software,gatereader not scanning bags on jet bridge,"gatereader not scanning bags on jet bridge
+User tried rebooting
+issue persists
+user requesting field ops tech for diagnostic/repair
+**Title from related Incident record IM2854773:
+gatereader not scanning bags on jet bridge","Related Incident IM2854773 closed.
+bag tag printer inop, reinstall esm, test printer, cleared queue of old tags, unit is back in service.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2854773"
+SD3766519,Closed,12/19/16 02:56 PM,767011.0013,12/19/16 03:18 PM,SysOps - Help Desk,Z000402218,WMSPGATEG02P3,DESKO 504 GATEREADER,MSP/AIRPORT - G CONCOURSE/2/,GATE G2 POS 3,3,3,3,239389,AVIS SHEPHERD,612-266-9702,MSP,Z000402218,WMSPGATEG02P3,linker,,Hardware,Gatereader optics not working,"Gatereader optics not working
+user has opened up the unit and found a cable disconnected, but can't locate where it needs to be plugged into
+please assist/advise...
+**Title from related Incident record IM2859465:
+Gatereader optics not working","Related Incident IM2859465 closed.
+Power cable to the power supply came unplugged. Plugged it back in . Gate reader powered on and the users were able to board passengers from it. Closing ticket.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2859465"
+SD3777221,Closed,12/24/16 12:14 AM,767011.0086,12/24/16 12:20 AM,SysOps - Help Desk,Z000423187,WSEAGATEB03P3,DESKO 504 PRO GATEREADER,SEA/AIRPORT - B CONCOURSE/1/,GATE B3,,4,,929450,KIMBERLY OXALES,000-000-0000,SEA,Z000423187,WSEAGATEB03P3,670006,ARTHUR SIMPSON,reboot/recycle,Gatereader not working correctly,"Gatereader not working correctly
+
+Didn't cause delay",Recommended restarting controlling workstation and power cycling reader. Let caller know if issue persists we will need to send FO to further investigate/troubleshoot gatereader.
+SD3791080,Closed,12/30/16 05:45 PM,767011.0046,01/10/17 02:01 PM,SysOps - Help Desk,Z000380734,WGRRGATEA07P1,HP COMPAQ 6005 STANDARD SFF,GRR/AIRPORT/1/,Gate A7,3,3,3,887879,NICOLE MERDA,6162336226,GRR,Z000380734,WGRRGATEA07P1,linker,,Hardware,caller reports gatereader is failing.,"Gate Reader is failing. not beeping and processing boarding pass. VERy Slow to respond.  Restarted pc and SNAPP multiple times
+**Title from related Incident record IM2868880:
+caller reports gatereader is failing.","Related Incident IM2868880 closed.
+Replaced scanner and tested ok by the users
+
+*** *** There are no other related records.  Interaction closed by Incident IM2868880"
+SD3797295,Closed,01/03/17 06:37 AM,767011.0045,01/06/17 02:51 PM,SysOps - Help Desk,SCANNER_GEN,SCANNER_GEN,SCANNER,ABE/AIRPORT/1/,gate 9A,3,3,3,522613,MICHELLE VASSALLO,610 231 3050,ABE,,,linker,,Software,gatereader - not scanning,"gatereader -- not connecting to SNAPP
+
+not scanning and makes beeping noise and not showing passengers onboard.
+
+caller unable to power cycle gatereader. Requested ticket created for tech
+
+gate 9A
+**Title from related Incident record IM2870967:
+gatereader - not scanning","Related Incident IM2870967 closed.
+airport tech removed java from the XP operating system allowing DL win 7 feed to control java for SNAPP.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2870967"
+SD3817470,Closed,01/10/17 07:40 PM,767011.003,01/13/17 07:52 AM,SysOps - Help Desk,Z000431495,WBNAGATEB05P3,DESKO 504 PRO GATEREADER,BNA/AIRPORT/2/,Gate B5 Pos 3,3,4,4,396622,TERESA ASGEIRSSON,6152750300,BNA,Z000756224,WBNAGATEB05P3,linker,,Unknown,gatereader inoperable,"gatereader inoperable
+whenever user reboots, gatereader works temporarily
+user requesting field ops tech
+**Title from related Incident record IM2879200:
+gatereader inoperable","Related Incident IM2879200 closed.
+on site yesterday and found no issues with the gatereader. Checked with agents and Red coat and they said no issues.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2879200"
+SD3822252,Closed,01/12/17 03:48 PM,767011.0016,01/13/17 10:48 AM,SysOps - Help Desk,SCANNER_GEN,SCANNER_GEN,SCANNER,MSP/AIRPORT - C CONCOURSE/2/,GATE C2 POS 1,3,3,3,006048,JACK CLARK,406 431 9165,MSP,Z000416679,WMSPGATEC02P1,linker,,Unknown,gatereader - link down error,"gatereader - link down error
+caller power cycled gatereader and workstation but no help
+
+gate c2
+
+z000416679
+**Title from related Incident record IM2881514:
+gatereader - link down error","Related Incident IM2881514 closed.
+Remoted into the work station and found the gate reader was working based on the gate reader log files on the reported work station. Unable to see the reported problem at the time we looked at the machine. Unable to see the reported problem at this time.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2881514"
+SD3822596,Closed,01/12/17 06:17 PM,767011.0109,01/13/17 05:59 PM,SysOps - Help Desk,Z000686647,WROCGATEB03P2,HP COMPAQ 6005 STANDARD SFF,ROC/AIRPORT/2/,Gate B3,4,3,4,748528,LINDA PAOLA,585-235-0583,ROC,,,linker,,Software,Gatereader inop,"gatereader inop- new hardware
+* Got a new hard drive
+But ""Linc down"" on scanner
+* Advised user to power down scanner
+rebooted the workstation
+once the workstation is back up, restarted the gatereader
+*** Issue persists
+* calling ODS
+**Title from related Incident record IM2881687:
+Gatereader inop","Related Incident IM2881687 closed.
+Radia completed on workstatin and scanner is working correctly now.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2881687"
+SD3826878,Closed,01/14/17 08:13 PM,767011.0029,01/14/17 08:55 PM,SysOps - Help Desk,Z000355891,WDTWGATEB16P1,DESKO GATERDR DTW DAL,DTW/AIRPORT - B CONCOURSE/2/,Gate B16,3,3,3,385387,MARIA CHAVIS,734-921-6316,DTW,,,670006,ARTHUR SIMPSON,duplicate,Gatereader not working correctly,"Gatereader not working correctly
+
+Shows Sysstem Response error. Check Gatereader, power cylce, and restart SNAPP.
+
+Caller had issues with SNAPP initially, couldn't navigate in SNAPP, open/close etc... SNAPP having issues. Not responding etc...
+
+After several reboots, gaetreader no longre working correctly. Not importing info from boarding passes into SNAPP...
+
+Didn't cause delay, b/c agent manually boarded, but can cause a delay in the future if issue persists...",Closing ticket. Please reference IM2883405.
+SD3829400,Closed,01/16/17 12:05 PM,767011.0022,01/16/17 01:45 PM,SysOps - Help Desk,SCANNER_GEN,SCANNER_GEN,SCANNER,ORD/AIRPORT - E CONCOURSE/2/,Gate E15 P2,3,3,3,493732,LAWRENCE EVANS,847-505-6524,ORD,Z000671489,WORDGATEE15P2,linker,,Software,gatereader - link down error,"gatereader  - showing  link down error
+
+reboot no help
+
+z000671489
+**Title from related Incident record IM2884476:
+gatereader - link down error","Related Incident IM2884476 closed.
+Called Station spoke with Larry, advised him this is a known problem, there are instructions at every gate on what CSA are suppose to do when gate reader becomes in-op while in a boarding process....Gate reader is up at the moment, Larry to follow instructions if problem occurs again...lc
+
+*** *** There are no other related records.  Interaction closed by Incident IM2884476"
+SD3829535,Closed,01/16/17 12:56 PM,767011.0083,01/16/17 01:08 PM,SysOps - Help Desk,Z000413303,WATWGATE005P1,DESKO 504 GATEREADER,ATW/AIRPORT/1/,GATE 5 POS 1,,4,,864521,STEPHANIE THOMSON,0,ATW,Z000674503,WATWGATE005P1,371430,KEVIN DOYLE,configuration change,gatereader printer not working,gatereader printer not working,had user powercycle comptuer and gatereader. Now works.
+SD3830830,Closed,01/17/17 06:36 AM,767011.0034,01/17/17 10:03 AM,SysOps - Help Desk,SCANNER_GEN,SCANNER_GEN,SCANNER,BOS/AIRPORT - TERMINAL A/1/,GATE 10 LEFT,3,3,3,569460,MEECHEE MACOMBER,617 568 0840,BOS,Z000403215,WBOSGATEA10P3,linker,,Hardware,gatereader - not scanning,"not reading virtual barcode
+Gate 10
+
+wbosgatea10p3
+068d19
+gatereader 1
+**Title from related Incident record IM2885028:
+gatereader - not scanning","Related Incident IM2885028 closed.
+checked and tested the gate reader and is operational I watched agent board a flight and there was no issues.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2885028"
+SD3837565,Closed,01/19/17 06:40 PM,767011.0057,01/19/17 06:48 PM,SysOps - Help Desk,Windows 7,Windows 7,,,Gate C47 P1,,4,,604545,ANIL PATHIARY,404-677-6647,ATL,Z000753198,WATLGATEC47P1,917840,JIM NISCHAL,configuration change,Gatereader Issue,"User says the Gatereader is ""Receiving Data"" and Printing the Itenerary when they scan the baording pass","Advised user to follow these steps:
+Shut down SNAPP immediately with CTRL+ALT+F4 or ALT+F4
+Power off the gate reader printer.
+Power off the gate reader.
+Power on the gate reader printer.
+Power on the gate reader.
+Restart SNAPP and open the boarding flight.
+Scan a boarding pass and it should show the passenger as ON the flight.
+Problem fixed"
+SD3838419,Closed,01/20/17 09:02 AM,767011.0051,01/23/17 11:03 AM,SysOps - Help Desk,SCANNER_GEN,SCANNER_GEN,SCANNER,EUG/AIRPORT/1/,GATE A2,3,3,3,610725,COLLETTE HARTJE,541 688 1440 x14,EUG,Z000752541,WEUGGATE00001,linker,,Hardware,Gatereader,"gatereader scans but will not show passengers onboard  SNAPP
+
+caller says reboot no help
+weuggate00001
+occurred while boarding flight 4681 today  and 4680 yesterday
+**Title from related Incident record IM2888857:
+Gatereader","Related Incident IM2888857 closed.
+NWooden
+-Called station and spoke with Jen and she told me about the problem.
+-She says that when they are boarding the plane she the scanner will intermittently go out and stop working at which point she has to board manually.
+-She also let me know that sometimes the scanner will not work at all from the get go.
+-I had Jen try the boarding pass scanner and it is currently working so I am ending the impact but will continue to monitor for issues.
+-I gave Jen some troubleshooting tips and let her know that this is a common thing that is occurring company wide.
+-told her about completely closing snapp and delta term by killing the programs through task manager or through the desktop and closing them if she does that snapp will reestablish connection with the gate reader and they are able to continue boarding.  The whole process takes less than 30 seconds to complete.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2888857"
+SD3843398,Closed,01/22/17 08:30 PM,767011.0034,01/22/17 10:15 PM,SysOps - Help Desk,Z000418889,WDTWGATEC19P1,DESKO 504 DTW,DTW/AIRPORT - C CONCOURSE/2/,Gate C19,3,3,3,412475,MARIA METCALF,734-921-6519,DTW,Z000653519,WDTWGATEC19P1,linker,,Unknown,Gatereader having issues reading boarding passes,"Gatereader having issues reading boarding passes
+User states she had to manually board passangers
+USer states this is the second time today where this happened
+IM2890535 is the prior ticket
+suspect this could be with the gatereader or with SNAPP.
+User doesn't know if she needs it for a flight delay.
+Please assist/advise...
+**Title from related Incident record IM2890574:
+Gatereader having issues reading boarding passes","Related Incident IM2890574 closed.
+No fault found. Gate reader is working fine. Gate agent did tested gate reader. Tested OK.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2890574"
+SD3843780,Closed,01/23/17 04:35 AM,767011.0021,01/23/17 04:39 AM,SysOps - Help Desk,Z000651044,WMCOTKFT00018,HP COMPAQ 6005 STANDARD SFF,MCO/AIRPORT/3/,TICKET COUNTER,3,3,3,274299,PHYLLIS CRISCI,406-460-8302,MCO,,,670006,ARTHUR SIMPSON,duplicate,Gatereader no power,"Gatereader no power
+
+Ticket counter by ""dog house""
+
+Cords/cables not accessible",Closing ticket. Please reference IM2890752.
+SD3844134,Closed,01/23/17 08:03 AM,767011.0046,01/23/17 12:50 PM,SysOps - Help Desk,SCANNER_GEN,SCANNER_GEN,SCANNER,RIC/AIRPORT/1/,GATE   B 13,3,3,3,477645,ROCHELLE EDWIN,804-236-2123,RIC,Z000691779,WRICGATEB13P2,linker,,Hardware,gatereader -  not scanning,"boarding pass scanner - not scanning virtual boarding passes and paper boarding passes
+
+reboot no help. Caller says gatereader continues to not scan and may need replacing
+B13
+
+z000691779
+**Title from related Incident record IM2890874:
+gatereader -  not scanning","Related Incident IM2890874 closed.
+Research shows the gate reader needs to be power cycled as does the gate reader printer.  This is a hardware issue and not a SNAPP application issue.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2890874"
+SD3850567,Closed,01/25/17 03:48 PM,767011.0015,01/25/17 06:02 PM,SysOps - Help Desk,Windows 7,Windows 7,,BZN/AIRPORT/2/,GATE 5 POS 1,4,3,4,194749,STEPHANIE MCGILLOWAY,406-388-6154,BZN,DLN0016689,WBZNGATE05001,linker,,Software,Gatereader Issue,"Gate 5 scanner not displaying names or messages. Still functions for boarding purposes but no display.
+Tech dispatched
+**Title from related Incident record IM2893835:
+Gatereader Issue","Related Incident IM2893835 closed.
+J. Olson
+-  I instructed the user hot to power cycle the gate reader and resolved the issue.
+-  The gate reader is functioning properly now.
+*
+
+*** *** There are no other related records.  Interaction closed by Incident IM2893835"
+SD3851601,Closed,01/26/17 08:21 AM,767011.0027,01/26/17 10:52 AM,SysOps - Help Desk,SCANNER_GEN,SCANNER_GEN,SCANNER,DTW/AIRPORT - B CONCOURSE/2/,B1,3,3,3,192126,LISA ZABAWA,734 921 6301,DTW,Z000409188,WDTWGATEB01P1,linker,,Hardware,gatereader  -  no power and not scanning,"gatereader - no power
+
+power cycle no help
+**Title from related Incident record IM2894511:
+gatereader  -  no power and not scanning","Related Incident IM2894511 closed.
+Gary Phillips - Power supply for the gate reader became unplugged. Plugged back in and tested unit.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2894511"
+SD3858728,Closed,01/30/17 06:52 AM,767011.0048,01/30/17 12:21 PM,SysOps - Help Desk,SCANNER_GEN,SCANNER_GEN,SCANNER,ISN/AIRPORT/1/,gate 2,3,3,3,526721,NALANI MILLER,701 774 8104,ISN,Z000737016,WISNGATE00001,linker,,Hardware,gatereader - not scanning,"gatereader not scanning and agent had to manually show passengers on board
+
+**caller says issue didn't cause a flight delay**
+z000393598 - gatereader
+
+wisngate00001
+
+caller power cycled machine but still not scanning
+**Title from related Incident record IM2899033:
+gatereader - not scanning","Related Incident IM2899033 closed.
+From the Updates:
+01/30/17 07:28:46 US/Eastern (830793):
+EB - called the user and she went to the gate and we verified the scanner is working now in snapp
+did test print of a boarding pass and then scanned it and it is acting as it should
+closing ticket
+
+*** *** There are no other related records.  Interaction closed by Incident IM2899033"
+SD3858890,Closed,01/30/17 08:26 AM,767011.0033,01/30/17 11:29 AM,SysOps - Help Desk,SCANNER_GEN,SCANNER_GEN,SCANNER,DTW/AIRPORT - A CONCOURSE/2/,Gate A-55,3,3,3,167292,KIMBERLY BRATELY,734-795-3960,DTW,Z000653744,WDTWGATEA55P1,linker,,Software,gatereader not scanning,"while working flight 4836 - DTW - MBS -- gatereader - not scanning -- reprints ittinery  but doesn't scanning boarding passes. Agent has to manually go into SNAPP to show passengers on.
+rebooted gatereader and workstation but no help
+gate 55
+
+**caller says this issue isn't causing flight delay**
+**Title from related Incident record IM2899174:
+gatereader not scanning","Related Incident IM2899174 closed.
+Agent should contact helpdesk for the steps regarding recovering the gate reader and ensuring that it is in Turbo mode before boarding passengers.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2899174"
+SD3858940,Closed,01/30/17 08:45 AM,767011.005,01/30/17 12:55 PM,SysOps - Help Desk,Z000431340,WDCAGATEB22P1,DESKO 504 PRO GATEREADER,DCA/AIRPORT/2/,Gate 22,3,3,3,432087,LUZVIMINDA ESCOTO,703-419-6922,DCA,Z000431340,WDCAGATEB22P1,linker,,Hardware,DESKO 504 PRO GATEREADER....boarding pass printer,"DESKO 504 PRO GATEREADER printer does not scan boarding passes...open it flight it shows it not linked up to flight number on scanner....flight number is blank....This is not causing a flight delay user only want to report the printer to be fixed before flight leaves the gate....please send tech to gate ASAP!
+**Title from related Incident record IM2899210:
+DESKO 504 PRO GATEREADER....boarding pass printer","Related Incident IM2899210 closed.
+Blue screen; slick and rebuilt workstation; PC tested good
+
+*** *** There are no other related records.  Interaction closed by Incident IM2899210"
+SD3871304,Closed,02/04/17 04:39 PM,767011.0019,02/04/17 07:22 PM,SysOps - Help Desk,Z000687392,WJFKGATEB45P1,HP COMPAQ 6005 STANDARD SFF,JFK/AIRPORT - TERMINAL 4 B-CONCOURSE/2/,GATE B45 POS 1,3,3,3,860642,STEFAN JOHNSON,718-598-8831,JFK,Z000687392,WJFKGATEB45P1,linker,,Unknown,gatereader,"http://itkms.delta.com/Gatereader/default.htm
+Use ALT+F4 or CTRL+ALT+F4 to shut SNAPP down and restart SNAPP.
+Turn off the gate reader printer
+Turn off the gate reader
+Turn on the gate reader printer
+Turn on the gate reader
+Restart SNAPP and open the flight again, in SNAPP
+Not Working, will open a ticket to FO
+**Title from related Incident record IM2906026:
+gatereader","Related Incident IM2906026 closed.
+No issues founded gate reader was tested ok.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2906026"
+SD3873177,Closed,02/06/17 07:39 AM,767011.01,02/06/17 07:46 AM,SysOps - Help Desk,Z000657733,,,,Gate Pos 2,,,,519585,SARAH JOHNSON,xxx,FSD,Z000657733,WFSDGATE004P2,808279,NIRANCHHANA THAYALAN,user training,Gatereader - display is not coming up,"User is unable to get the display on the Gatereadey
+Checked for the Q at the backend, everything seems to be fine
+Asked the user to restart the computer & the Gatereader
+It worked","Asked the user to restart the computer & the Gatereader
+It worked"
+SD3877659,Closed,02/08/17 06:47 AM,767011.0023,02/08/17 11:50 PM,SysOps - Help Desk,Z000431742,WRICGATEB13P1,DESKO 504 PRO GATEREADER,RIC/AIRPORT/2/,GATE   B 13,4,3,4,138964,TIA HARRIS,8042362100,RIC,Z000431742,WRICGATEB13P1,linker,,Unknown,gate B13 gatereader,"rebooted but not scanning >>scan reader unavailable >>>>>>>>>>>need a IM number  for tech
+**Title from related Incident record IM2909199:
+gate B13 gatereader","refused troubleshooting
+Related Incident IM2909199 closed.
+Please  Provide the flight details and  the PNR for snapp team to research further into the  incident . unable to determine the  root cause of the issue due to insufficient data . Closing .
+
+*** *** There are no other related records.  Interaction closed by Incident IM2909199"
+SD3877986,Closed,02/08/17 09:35 AM,767011.0019,02/08/17 09:38 AM,SysOps - Help Desk,,,,,,,,,000000,No User,1,,,,280611,LELIA JAMES,withdrawn by user,gatereader is not working,user will call back,user will call back
+SD3878079,Closed,02/08/17 10:03 AM,767011.006,02/09/17 07:20 AM,SysOps - Help Desk,Z000101283,WLFTGATE003P1,DESKO KEYBOARD WITH MAG SWIPE AND PASSPORT READER USB CONNEC,LFT/AIRPORT/2/,POS 1 GATE 3,4,3,4,632863,QUINCEE NICHOLS-GIBBS,337-2371947,LFT,Z000702442,WLFTGATE003P1,linker,,Hardware,gatereader issue,"rebooted several time >>>>> delta airline welcome  and nothing happen link down message on gate reader
+**Title from related Incident record IM2909413:
+gatereader issue","Related Incident IM2909413 closed.
+remoted into set and tested reader, rebooted. user said it is up . ev
+
+*** *** There are no other related records.  Interaction closed by Incident IM2909413"
+SD3882046,Closed,02/09/17 06:18 PM,767011.0062,02/09/17 06:27 PM,SysOps - Help Desk,,,,,,,,,038598,SOFIAN ELDABI,-,DTW,,,397287,NISHANT YADAV,User Training,"boarding in 38 mns., gatereader inop","Scanner - 'link down'- active flight
+calling ODS",calling ODS
+SD3889021,Closed,02/13/17 12:29 PM,767011.0024,02/15/17 01:34 PM,SysOps - Help Desk,Z000431918,WATLGATET02P4,DESKO 504 PRO GATEREADER,ATL/AIRPORT - T CONCOURSE/2/,Gate T2 - POS 4,3,3,3,383438,SUSAN NELSON,4047149202,ATL,Z000755771,WATLGATET02P4,linker,,Unknown,Gatereader is Running Very Slow,"User is reporting that the gatereader is running extremely slow, making it hard to get flights out on time.
+User was asked by her manager to ask for a tech to come look at the reader.
+**Title from related Incident record IM2914523:
+Gatereader is Running Very Slow","Related Incident IM2914523 closed.
+Checked with agent at gate later that day and the agent working the previous flight said that there had been no issue with the gate reader while she was boarding. Everything seems to be fine now.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2914523"
+SD3899496,Closed,02/18/17 08:21 AM,767011.0034,02/18/17 08:26 AM,SysOps - Help Desk,SCANNER_GEN,SCANNER_GEN,SCANNER,,,,,,114449,KAYLA LIVINGSTONE,7185586400,JFK,,,017062,KEVIN DILLARD,user training,gatereader is not working,gatereader is not working. In the process of receiving a flight.,Helpdesk advised agent to reboot the device and call back if needed.
+SD3902003,Closed,02/19/17 06:13 PM,767011.0213,02/20/17 10:25 AM,SysOps - Help Desk,SNAPP-Gate,SNAPP-Gate,,TWF/AIRPORT/1/,GATE 002,4,2,3,234025,SANDRA HYMAS,208-734-6232 ext. 0 // 208-420-1761,TWF,Z000727713,WTWFGATE002P1,linker,,Hardware,"""CHECK GATEREADER"", gatereader doesn't scan and on passangers...","user unable to get boarding pass scanners to scan
+had user powercycle gatereader and computer.
+also toggled gate reader into service recovery and then back into turbo
+now when user goes to scan boarding passes, prompts and says ""Check Gatereader: powercycle gatereader and restart snapp""
+Logged out and had computer log us back in, still having issues; user has noted when she opens up the flight, she's not getting the printout that she usually does.
+still prompts with the power cycle and restart snapp message
+Please assist/advise...
+**Title from related Incident record IM2920695:
+""CHECK GATEREADER"", gatereader doesn't scan and on passangers...","Related Incident IM2920695 closed.
+Talked to Teddy she says that it worked fine for this morning Flt.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2920695"
+SD3903383,Closed,02/20/17 01:20 PM,767011.0026,02/21/17 11:52 AM,SysOps - Help Desk,Z000727713,WTWFGATE002P1,HP 6305 STANDARD SFF,TWF/AIRPORT/1/,GATE,3,3,3,609748,JAMES PONZO,8002211212,TWF,Z000727713,WTWFGATE002P1,linker,,Software,"user calling on im2920695 ""CHECK GATEREADER"", gatereader doesn't scan and on passangers...","user calling on im2920695 ""CHECK GATEREADER"", gatereader doesn't scan and on passangers...
+user says he has the same issue
+has restarted multiple times
+user unable to get boarding pass scanners to scan
+had user powercycle gatereader and computer.
+also toggled gate reader into service recovery and then back into turbo
+now when user goes to scan boarding passes, prompts and says ""Check Gatereader: powercycle gatereader and restart snapp""
+Logged out and had computer log us back in, still having issues; user has noted when she opens up the flight, she's not getting the printout that she usually does.
+still prompts with the power cycle and restart snapp message
+Please assist/advise...
+**Title from related Incident record IM2921317:
+user calling on im2920695 ""CHECK GATEREADER"", gatereader doesn't scan and on passangers...","Related Incident IM2921317 closed.
+SNAPP issue. gate reader was working fine the past 4 flights.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2921317"
+SD3906371,Closed,02/21/17 07:38 PM,767011.0053,02/21/17 07:45 PM,SysOps - Help Desk,Windows 7,Windows 7,,,WHSE,,4,,271365,BRENTT FLOWERS,-,DTW,,,397287,NISHANT YADAV,user training,issues with gatereader,"2906 computer- gate reader is down
+Link is down
+* flight departs in 25 mns
+* transferring to ODS",transferring to ODS
+SD3907908,Closed,02/22/17 02:08 PM,767011.0046,02/22/17 02:55 PM,SysOps - Help Desk,Z000403387,WLGAGATED09P2,DESKO KEYBOARD WITH CREDIT CARD SWIPE USB CONNECTION,LGA/AIRPORT - CONCOURSE D/2/,GATE D09 POS 2,3,3,3,955419,SARAH ZWECKER,718-565-3940,LGA,,WLGAGATED09P2,linker,,Hardware,Gate D 9 gatereader,"164622 wsine does not connect to the workstation and user have to manually board the passengers as  do not  board at the gate and passport swipe does work eithe...this is not a flight delay at this time...user need tech to come ot gate to fix the gate reaser ASAP!
+**Title from related Incident record IM2923525:
+Gate D 9 gatereader","Related Incident IM2923525 closed.
+reboot the workstation
+the agent tested  work fine
+
+*** *** There are no other related records.  Interaction closed by Incident IM2923525"
+SD3908232,Closed,02/22/17 04:34 PM,767011.0018,02/24/17 07:32 PM,SysOps - Help Desk,Z000675292,WPDXGATED03P2,HP COMPAQ 6005 STANDARD SFF,PDX/AIRPORT - CONCOURSE D/2/,GATE D3,3,4,4,934566,JERRELL AFALAVA,5034934190,PDX,Z000675292,WPDXGATED03P2,linker,,Software,Gatereader not reading boarding passes,"Gatereader not reading boarding passes
+user reset/reboot
+issue persists
+wpdxgated03p2
+**Title from related Incident record IM2923674:
+Gatereader not reading boarding passes","Related Incident IM2923674 closed.
+J .Olson
+-  See activity log entry for further details.
+*
+
+*** *** There are no other related records.  Interaction closed by Incident IM2923674"
+SD3910207,Closed,02/23/17 03:10 PM,767011.003,02/23/17 05:19 PM,SysOps - Help Desk,Z000423108,WJFKGATEB44P1,DESKO 504 PRO GATEREADER,JFK/AIRPORT - TERMINAL 4 B-CONCOURSE/2/,GATE B44 POS 1,3,3,3,966440,MARTINA BETHEA,7185586400,JFK,Z000711165,WJFKGATEB44P1,linker,,Unknown,Gatereader Missing Some Scans,"Scanner goes in and out
+Will scan some and then not scan the others.
+Always had a delay in the scan.
+But did not seem to have any rhyme or reason to the passengers that did not scan.
+**Title from related Incident record IM2924702:
+Gatereader Missing Some Scans","Related Incident IM2924702 closed.
+could not duplicate problem. both units performed normally. rebooted both PCs at gate just in case
+
+*** *** There are no other related records.  Interaction closed by Incident IM2924702"
+SD3916501,Closed,02/27/17 08:02 AM,767011.0074,02/28/17 02:02 PM,SysOps - Help Desk,SCANNER_GEN,SCANNER_GEN,SCANNER,ATL/AIRPORT - A CONCOURSE/2/,GATE A02,3,3,3,671528,LONZIE TOLBERT,404-714 7702,ATL,Z000751713,WATLGATEA02P4,linker,,Procedure/Human Error,Flight Delay / GateReader not scanning,"Please complete as much as possible, if not available type N/A
+
+Flight Number: flight 2638
+
+City Pair: ATL - DCA
+
+
+Gate Number:  A2
+
+Was a flight delay prevented? Yes or No
+
+If NO, duration of the delay:  7 mins
+
+If YES, Time Remaining After RESOLUTION:
+
+Root Cause of the Delay:  gatereader - scanning too slowly and then making a beeping noise when attempting to scan bording passes.
+Also didn't scan boarding pass for one passenger (GTJ2VR) and didn't show boarded in SNAPP but passenger had proceeded to board flight. However, the  Agent was able to confirm passenger was on board.
+
+Is root cause software or hardware? na
+
+
+Customer PNR if available:  GTJ2VR)
+
+
+If SNAPP, What Version:  10.0.4.3
+
+
+If software populate the affected CI within the Affected CI field
+
+
+If hardware populate the affected CI within the Affected CI field
+
+What function was the agent attempting to perform?
+scanning boarding passes to board flight
+
+
+WSINE and/or Workstation Name: WATLGATEA02P4
+
+
+Describe trouble shooting attempted: Agent stated that Delta tech was onsite but flight had departed. Tech power cycled gatereader and working fine
+
+
+
+For SNAPP attributed flight delays include all the information outlined on this page and PNR examples (or customer name and flight number or seat number), flight information, SNAPP version number on upper left corner of screen, workstation name or WSINE, function performed and problem/error response. This helps the SNAPP team in their research to resolve issues and defects.
+**Title from related Incident record IM2927907:
+Flight Delay / GateReader not scanning","--
+Related Incident IM2927907 closed.
+Research shows the gate reader was working fine for FLT 2638.
+Crew scanning started @ 0640 hrs.
+First passenger scanned was 0656 hrs.
+Last Passenger scan @ 0750, for FLT 6238,  was for a passenger not supposed to be on FLT 6238.
+The last good pax scan, for FLT 6238,  was @ 0730 hrs, 5 mins prior to scheduled departure.
+For the PNR reported, the passenger in that particular PNR was never scanned through the gate reader by the agents for FLT 2638.
+
+There was no technology failure for FLT 6238. There were also a total of 7 mins, during the scanning of boarding passes, where there were no scans performed at all.  This would have an impact on the flight delay  as well.  There was no technology failure/reason for this either.
+
+The above research does not show or support a flight delay attributable to the SNAPP application.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2927907"
+SD3923386,Closed,03/02/17 07:47 AM,767011.0042,03/02/17 12:11 PM,SysOps - Help Desk,DLN0001848,WORDGATEE15P2,DESKO 504 GATEREADER,ORD/AIRPORT - E CONCOURSE/2/,GATE E15 POS2,3,3,3,978247,RYAN LEE,773 462 6815,ORD,Z000671489,WORDGATEE15P2,linker,,Hardware,WORDGATEE15P2_The display screen on the gatereader is not showing anything_Sending to FO,"WORDGATEE15P2_The display screen on the gatereader is not showing anything_Sending to FO
+**Title from related Incident record IM2931707:
+WORDGATEE15P2_The display screen on the gatereader is not showing anything_Sending to FO","Related Incident IM2931707 closed.
+Rebooted scanner, scanner display is now displaying correctly..lc
+
+*** *** There are no other related records.  Interaction closed by Incident IM2931707"
+SD3927557,Closed,03/03/17 09:20 PM,767011.0042,03/03/17 09:26 PM,SysOps - Help Desk,Z000431604,WSLCGATED07P3,DESKO 504 PRO GATEREADER,SLC/AIRPORT  - CONCOURSE D/2/,D7P3,,4,,939977,MILES BELLISTON,000-000-0000,SLC,,,670006,ARTHUR SIMPSON,withdrawn by user,Issue with Gatereader,"Issue with Gatereader
+
+Caller have already restarted controlling workstation","Let Miles know that it normally takes 2 restarts and the reader/scanner to be power cycled as well. Let Miles know to let us know reader doesn't work properly after multiple restarts etc., as if this causes a delay we will have to create a flight delay ticket."
+SD3935289,Closed,03/07/17 07:29 PM,767011.0032,03/07/17 10:30 PM,SysOps - Help Desk,Z000694057,WSEAGATEB04P1,HP COMPAQ 6005 STANDARD SFF,SEA/AIRPORT - B CONCOURSE/1/,GATE B4,4,3,4,657792,MOHAMED ELMOUNTASSIR,206-301-6204,SEA,,,linker,,Software,computer/ gatereader inop,"Red code
+Gate # B-4, one computeris working and other inop
+computer- scanner inop
+""no network"" error
+Per agent, all cables are attached
+wseagateb04p1
+**Title from related Incident record IM2937397:
+computer/ gatereader inop","Related Incident IM2937397 closed.
+booted into safemode; delete bad profile; replaced some bad RAM and ran gpupdate to fix the profile
+
+*** *** There are no other related records.  Interaction closed by Incident IM2937397"
+SD3938101,Closed,03/09/17 07:08 AM,767011.0055,03/09/17 07:57 AM,SysOps - Help Desk,Z000407896,GATE READER,DESKO 504 DTW,ISN/AIRPORT/1/,gate 1,3,3,3,374893,TYEISHA OWENS,701 774 8104,ISN,Z000737016,WISNGATE00001,linker,,Hardware,gatereader - not scanning,"getting error : link down. Gatereader is printing itinerary but not scanning boarding passes. Agent boarded passengers manualy
+
+Reboot no help
+gatereader = z000393598 not found in Service manager for CI so I used the workstation name
+
+wisngate00001
+**Title from related Incident record IM2939007:
+gatereader - not scanning","Related Incident IM2939007 closed.
+reconfigured scanner settings and deleted/recreated profile. had user test gate reader and it was working normally
+
+*** *** There are no other related records.  Interaction closed by Incident IM2939007"
+SD3939947,Closed,03/09/17 07:40 PM,767011.004,03/10/17 12:21 PM,SysOps - Help Desk,Z000685986,WIAHGATEA12P1,HP COMPAQ 6005 STANDARD SFF,IAH/AIRPORT/2/,Gate 12 p1,3,3,3,736175,ROCIO FISCHER,281-742-5012,IAH,,,linker,,Software,Flight Delay- gatereader issue,"3531- gatereader issue- ""check itenerary"" error when scanning boarding passes
+rebooted computer- no luck
+had to board manually- caused delay
+
+
+
+Flight Number:3531
+
+
+
+City Pair: IAH/ MSP
+
+
+
+Gate Number:Gate A-12
+
+
+
+Was a flight delay prevented?  No
+
+
+
+If NO, duration of the delay: 1 min.
+
+
+
+If YES, Time Remaining After RESOLUTION:
+
+
+
+Root Cause of the Delay:gatereader issue- ""check itenerary"" error when scanning boarding passes
+
+
+
+Is root cause software or hardware?
+
+
+
+Customer PNR if available:
+
+
+
+If SNAPP, What Version:
+
+
+
+If software populate the affected CI within the Affected CI field
+
+
+
+If hardware populate the affected CI within the Affected CI field
+
+
+
+What function was the agent attempting to perform?
+
+
+
+WSINE and/or Workstation Name: WIAHGATEA12P1
+
+
+
+Describe trouble shooting attempted: rebooted- no luck
+
+
+
+
+
+For SNAPP attributed flight delays include all the information outlined on this page and PNR examples (or customer name and flight number or seat number), flight information, SNAPP version number on upper left corner of screen, workstation name or WSINE, function performed and problem/error response. This helps the SNAPP team in their research to resolve issues and defects.
+**Title from related Incident record IM2939796:
+Flight Delay- gatereader issue","Related Incident IM2939796 closed.
+idle mode profile was corrupt.  I deleted the profile and tested after a reboot.  everything is working correctly.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2939796"
+SD3940033,Closed,03/09/17 08:51 PM,767011.0033,03/09/17 08:55 PM,SysOps - Help Desk,Z000701323,WMSPGATEC17P1,HP COMPAQ 6005 STANDARD SFF,MSP/AIRPORT - C CONCOURSE/2/,GATE C17 POS 1,,4,,887990,TIMOTHY KOGLER,612-226-9317,MSP,,,397287,NISHANT YADAV,withdrawn by user,issue with gatereader,"gatereader error popped on screen
+reboot- worked",reboot- worked
+SD3941462,Closed,03/10/17 01:09 PM,767011.0055,03/10/17 05:41 PM,SysOps - Help Desk,Z000431354,WAUSGATE005P3,DESKO 504 PRO GATEREADER,AUS/AIRPORT/2/,gate 5 lbd,3,3,3,885981,BRUCE COCHRAN,512-530-0637,AUS,Z000431354,WAUSGATE005P3,linker,,Software,Gatereader does not work.,"http://itkms.delta.com/Gatereader/Troubleshooting/default.htm
+see attached screenshot
+Gives validation error code.
+**Title from related Incident record IM2940540:
+Gatereader does not work.","Related Incident IM2940540 closed.
+Talked to Veronica.  They rebooted everything and they still get the error message in SNAPP but the reader is working fine.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2940540"
+SD3943914,Closed,03/11/17 03:01 PM,767011.0038,03/11/17 03:07 PM,SysOps - Help Desk,Z000402181,WMSPGATEG06P1,DESKO 504 GATEREADER,MSP/AIRPORT - G CONCOURSE/2/,GATE G6B POS 1,,4,,157637,JENNIFER WANCZYCKI,612 2035556,MSP,Z000402181,WMSPGATEG06P1,017062,KEVIN DILLARD,reboot/recycle,Gatereader failed during fail when loading flight,"Agent had to board on the other side.
+Agent restarted the device twice and controlling pc.
+Gatereader works nows
+Gatereader G
+WMSPGATEG06P1
+15ab25",This ticket document the device failure during flight 957. Device works fine now. No flight delay.
+SD3945127,Closed,03/12/17 10:57 AM,767011.0237,03/12/17 11:31 AM,SysOps - Help Desk,DLN0001999,WICTGATE001P1,DESKO GATERDR BKT DAL,ICT/AIRPORT/1/,GATE 1 POS 1,,4,,896417,MEGAN PARMENTER,620 655-6992,ICT,Z000676594,WICTGATE002P1,017062,KEVIN DILLARD,reboot/recycle,1 Gatereader not scanning,"See attached screenshot
+wictgate002p1 wictgate001p1
+Gatereaders at gate 1 and gate2 are working
+agent reboot device and controlling pc.
+cables were cannected and verified
+At gate 2 there is a loud long beep during bootup",reboot. resolved
+SD3945162,Closed,03/12/17 11:12 AM,767011.0066,03/12/17 11:16 AM,SysOps - Help Desk,DLN0001999,WICTGATE001P1,DESKO GATERDR BKT DAL,ICT/AIRPORT/1/,GATE 1 POS 1,,4,,896417,MEGAN PARMENTER,620 655-6992,ICT,Z000726668,WICTGATE001P1,017062,KEVIN DILLARD,reboot/recycle,Gatereader  is not working,"See attached screenshot
+wictgate002p1 wictgate001p1
+Gatereaders at gate 1 and gate2 are working
+agent reboot device and controlling pc.
+cables were cannected and verified
+At gate 2 there is a loud long beep during bootup",reboot. resolved.
+SD3945293,Closed,03/12/17 12:15 PM,767011.0022,03/13/17 12:08 PM,SysOps - Help Desk,Z000755634,WATLJTBGA34P5,HP ELITEDESK 705G1 SFF,ATL/AIRPORT - A CONCOURSE/2/,A34 JetBridge,4,3,4,191427,NEVILLE FRANCIS,404 714 7434,ATL,,,linker,,Hardware,jetway - A34 - gatereader has no power... all cabled and power button not found... tiny scanner,"jetway - A34 - gatereader has no power... all cabled and power button not found... tiny scanner
+Wsine - 10c10b - WATLJTBGA34P5 ... no z tag on gatereader.
+**Title from related Incident record IM2942060:
+jetway - A34 - gatereader has no power... all cabled and power button not found... tiny scanner","Related Incident IM2942060 closed.
+Confirmed with agent . gate reader and everything working fine at gate.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2942060"
+SD3945432,Closed,03/12/17 01:05 PM,767011.0032,03/15/17 10:29 AM,SysOps - Help Desk,Z000727713,WTWFGATE002P1,HP 6305 STANDARD SFF,TWF/AIRPORT/1/,GATE,4,3,4,381017,JESSICA CARPENTER,208 734-6232 ext 10,TWF,Z000727713,WTWFGATE002P1,linker,,Software,Gatereader not working,"wtwfgate002p1
+Snapp indicates device not working and device is not scanning boarding passes.
+Light is on. However it does not scan.
+device restarted. Pc restarted
+**Title from related Incident record IM2942145:
+Gatereader not working","Related Incident IM2942145 closed.
+called station again today and they report the scanner is working great. closing resolved
+
+*** *** There are no other related records.  Interaction closed by Incident IM2942145"
+SD3946648,Closed,03/13/17 05:44 AM,767011.002,03/13/17 10:16 AM,SysOps - Help Desk,Z000442754,WMBSGATE003P1,ET7000 RFID BAGTAG PRINTER,MBS/AIRPORT/1/,Gate 3,3,3,3,398706,LYNETTE CRUZ,9896954400,MBS,Z000703814,WMBSGATE003P1,linker,,Software,Gatereader Not Working,"Not scanning any boarding passes.
+User was working flight and had to board all passengers manually.
+Has rebooted.
+Has reloaded paper.
+SNAPP Error - Gatereader validation unsuccessful
+**Title from related Incident record IM2942665:
+Gatereader Not Working","Related Incident IM2942665 closed.
+restarted computer and user tested ok.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2942665"
+SD3956229,Closed,03/16/17 08:34 PM,767011.0045,03/17/17 10:31 AM,SysOps - Help Desk,Z000685526,WEWRGATEB47P3,HP COMPAQ 6005 STANDARD SFF,EWR/AIRPORT/2/,GATE 47 POS 3 LBD,3,3,3,253243,BRUCE RAY,973-430-3947,EWR,,,linker,,Software,Flight Delay- gatereader issue,"gate reader issue- not scanning boarding passes- caused flight delay
+
+Flight Number: 3711
+
+City Pair: EWR/ DTW
+
+Gate Number: B-47
+
+
+Was a flight delay prevented?  No
+
+
+
+If NO, duration of the delay: 4 min.
+
+
+
+If YES, Time Remaining After RESOLUTION:
+
+
+
+Root Cause of the Delay: Gatereader not scanning boarding passes
+had to enter 20 manually
+* most of the boarding passes not scanning were printed at same gate
+
+
+
+Is root cause software or hardware?
+
+
+
+Customer PNR if available:
+
+
+
+If SNAPP, What Version:
+
+
+
+If software populate the affected CI within the Affected CI field
+
+
+
+If hardware populate the affected CI within the Affected CI field
+
+
+
+What function was the agent attempting to perform?
+
+
+
+WSINE and/or Workstation Name: WEWRGATEEB$&P#
+
+
+
+Describe trouble shooting attempted: restarted the gatereader- no luck
+
+
+
+
+
+For SNAPP attributed flight delays include all the information outlined on this page and PNR examples (or customer name and flight number or seat number), flight information, SNAPP version number on upper left corner of screen, workstation name or WSINE, function performed and problem/error response. This helps the SNAPP team in their research to resolve issues and defects.
+**Title from related Incident record IM2947545:
+Flight Delay- gatereader issue","Related Incident IM2947545 closed.
+Tested gatereader no issue found.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2947545"
+SD3956611,Closed,03/17/17 06:16 AM,767011.0079,03/17/17 06:44 AM,SysOps - Help Desk,Z000431551,WLGAGATED05P1,DESKO 504 PRO GATEREADER,LGA/AIRPORT - CONCOURSE D/2/,GATE D05 POS 1,3,3,3,708850,IRIS LOPEZ,718 565-3940,LGA,Z000431551,WLGAGATED05P1,linker,,Software,Gatereader stops responding on DL proprietary equipment,"9cad16/WLGAGATED05P1
+http://itkms.delta.com/Gatereader/Troubleshooting/default.htm
+**Title from related Incident record IM2947877:
+Gatereader stops responding on DL proprietary equipment","Related Incident IM2947877 closed.
+reinstalled firefox portable, flight information loaded up correctly, test print successful.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2947877"
+SD3961649,Closed,03/19/17 06:09 PM,767011.0153,03/30/17 07:30 PM,SysOps - Help Desk,Z000727713,WTWFGATE002P1,HP 6305 STANDARD SFF,TWF/AIRPORT/1/,GATE,3,3,3,234025,SANDRA HYMAS,208-734-6232,TWF,Z000727713,WTWFGATE002P1,linker,,Hardware,"Unable to print, scan documents with gatereader","http://itkms.delta.com/Gatereader/Troubleshooting/EDB/00001.htm#afterboarding
+We've tried powercycling the gatereader, printer, and workstation, still doesn't work.
+Tried toggling between service recovery and turbo, gate reader still doesn't work.
+
+Please assist/advise.
+**Title from related Incident record IM2950024:
+Unable to print, scan documents with gatereader","Related Incident IM2950024 closed.
+part was delivered on 29th closing resolved
+
+*** *** There are no other related records.  Interaction closed by Incident IM2950024"
+SD3964689,Closed,03/21/17 07:22 AM,767011.0045,03/21/17 07:28 AM,SysOps - Help Desk,Z000431455,,DESKO 504 PRO GATEREADER,SRQ/AIRPORT/2/,Gate B2,,4,,913378,WENDY DACZKOWSKI,817-300-5616,SRQ,Z000686486,WSRQGATEB04P3,395385,BENJAMIN HOSKINS,configuration change,Gatereader Error,"Error -- gatereader validation unsuccessful
+User has rebooted computer and gatereader, but error still there.
+Gatereader scanning, but shows the error message.
+
+Ran gpupdate",gpupdate
+SD3965077,Closed,03/21/17 10:29 AM,767011.0071,03/21/17 10:34 AM,SysOps - Help Desk,Z000393623,WMSPGATED06P2,DESKO GATERDR BKT DAL,MSP/AIRPORT - D CONCOURSE/2/,GATE D6 POS 2,,4,,142363,WENDY MIEST,0,MSP,Z000658492,WMSPGATED06P2,395385,BENJAMIN HOSKINS,configuration change,Gatereader Not Working,"User says the gatereader is not scanning tickets.
+Trying to board flight.
+Gatereader is giving validation error.
+Flight # 2916
+
+Ran gpupdate.",gpupdate
+SD3966292,Closed,03/21/17 06:38 PM,767011.0028,03/21/17 10:06 PM,SysOps - Help Desk,Z000751323,WSEAGATEB07A1,HP ELITEDESK 705G1 SFF,SEA/AIRPORT - B CONCOURSE/1/,gate # B-7A,4,3,4,184822,KIT-KAM LEUNG,206-301-6217,SEA,,,linker,,Hardware,gatereader inop,"gate # B-7A
+scanner - ""system not ready""- gatereader
+* user requesting a tech to assist
+**Title from related Incident record IM2952480:
+gatereader inop","Related Incident IM2952480 closed.
+usb cable detached from pc..reseated..reboot scanner and pc..unit operational...
+
+*** *** There are no other related records.  Interaction closed by Incident IM2952480"
+SD3969802,Closed,03/23/17 12:37 PM,767011.0086,03/23/17 04:27 PM,SysOps - Help Desk,Z000676637,WLGAGATEC18P1,HP 6305 STANDARD SFF,LGA/AIRPORT - CONCOURSE C/2/,GATE C18 POS  1,3,3,3,850734,JASPAL SINGH,718-533-3340,LGA,,,linker,,Software Distribution,Flight Delay- gatereader issue,"Gate reader went down before we started boarding DL583
+
+
+
+Flight Number: DL583
+
+
+
+City Pair:LGA/DTW
+
+
+
+Gate Number: C-18
+
+
+
+Was a flight delay prevented? Yes or No
+
+
+
+If NO, duration of the delay: 3 min.
+
+
+
+If YES, Time Remaining After RESOLUTION:
+
+
+
+Root Cause of the Delay:  Gatereader just didn't scan boarding passes
+
+
+
+Is root cause software or hardware?
+
+
+
+Customer PNR if available:
+
+
+
+If SNAPP, What Version:
+
+
+
+If software populate the affected CI within the Affected CI field
+
+
+
+If hardware populate the affected CI within the Affected CI field
+
+
+
+What function was the agent attempting to perform?
+
+
+
+WSINE and/or Workstation Name: WLGAGATEC18P1
+
+
+
+Describe trouble shooting attempted: restarted computer and gate reader no fix
+
+
+
+
+
+For SNAPP attributed flight delays include all the information outlined on this page and PNR examples (or customer name and flight number or seat number), flight information, SNAPP version number on upper left corner of screen, workstation name or WSINE, function performed and problem/error response. This helps the SNAPP team in their research to resolve issues and defects.
+**Title from related Incident record IM2954708:
+Flight Delay- gatereader issue","Related Incident IM2954708 closed.
+DELETED AND RECREATED PROFILE
+
+*** *** There are no other related records.  Interaction closed by Incident IM2954708"
+SD3974209,Closed,03/25/17 05:02 PM,767011.0085,03/25/17 05:14 PM,SysOps - Help Desk,Z000431933,WLGAGATEC23P1,DESKO 504 PRO GATEREADER,LGA/AIRPORT - CONCOURSE C/2/,GATE C23 POS 1,,4,,922898,SANDRA MULLINGS,718 533-3340,LGA,Z000715273,WLGAGATEC23P1,017062,KEVIN DILLARD,reboot/recycle,Gatereader is not working gate c23,"z000520946- cannot
+Z000431933- gatereader is not scnning boarding passes",reboot pc. resolved
+SD3975729,Closed,03/26/17 04:49 PM,767011.0032,03/26/17 05:51 PM,SysOps - Help Desk,Z000675088,WJFKGATEB49P2,HP COMPAQ 6005 STANDARD SFF,JFK/AIRPORT - TERMINAL 4 B-CONCOURSE/2/,GATE B49 POS 2,3,3,3,644675,LATOYA CHRISTIE,3475106129,JFK,Z000675088,WJFKGATEB49P2,linker,,Software,Gatereader not working,"Device restarted
+Controlling pc restarted
+Still not scanning Boarding passes
+**Title from related Incident record IM2957473:
+Gatereader not working","Related Incident IM2957473 closed.
+worked with user through shutdown of PC. all tested ok after power cycle
+
+*** *** There are no other related records.  Interaction closed by Incident IM2957473"
+SD3975887,Closed,03/26/17 06:28 PM,767011.0419,03/26/17 07:28 PM,SysOps - Help Desk,Z000427132,WMOTGATE005P1,MICROLINE 420-120V,MOT/AIRPORT/2/,GATE 5 POS 1,,4,,667947,ALEXIS PEREZ,701-418-4115,MOT,,,711734,AMOY DAVIS,configuration change,Printer and gatereader not printing,agent stated that the printer and gate reader are not working,"performed a gpupdate
+worked fine"
+SD3978347,Closed,03/27/17 07:23 PM,767011.0014,03/27/17 07:41 PM,SysOps - Help Desk,Windows 7,Windows 7,,SLC/AIRPORT  - CONCOURSE C/2/,Gate 03,4,3,4,130144,JUDY ROWBERRY,801-744-4244,SLC,Z000431880,WSLCGATEC03P3,linker,,Software,Gatereader Inoperative,"Boarding Door Scanner was not scanning the boarding passes
+User says they had to manually board the passengers
+Tech dispatched
+**Title from related Incident record IM2958595:
+Gatereader Inoperative","Related Incident IM2958595 closed.
+reinstalled Firefox. cleared java cache. recreated auto-login profile. tested SNAPP with gate reader.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2958595"
+SD3978836,Closed,03/28/17 06:44 AM,767011.0072,03/28/17 06:54 AM,SysOps - Help Desk,Z000431739,WLEXGATEB8P01,DESKO 504 PRO GATEREADER,LEX/AIRPORT/2/,GATE B8 POS 1,,4,,820770,AARON DRESSMAN,859-767-5353,LEX,Z000750262,WLEXGATEB8P01,395385,BENJAMIN HOSKINS,configuration change,Gatereader will not connect,"Gatereader	will not connect
+Error -- System Not ready
+User has rebooted multiple times.
+Has reseated paper.
+
+Remoted in, ran gpupdate.",gpupdate
+SD3979323,Closed,03/28/17 10:15 AM,767011.002,03/31/17 11:21 AM,SysOps - Help Desk,Z000684907,WAZOTKFT00002,HP COMPAQ 6005 STANDARD SFF,AZO/AIRPORT/2/,gate 4,4,3,4,782692,PATRICK BURNHAM,2693817671,AZO,Z000684907,WAZOTKFT00002,linker,,Hardware,gatereader,"2 little parts that hold the paper are missing >>>>>>>>on each side of the paper that holding the paper
+**Title from related Incident record IM2959258:
+gatereader","Related Incident IM2959258 closed.
+replaced and working
+
+*** *** There are no other related records.  Interaction closed by Incident IM2959258"
+SD3981387,Closed,03/29/17 08:23 AM,767011.0068,03/29/17 12:17 PM,SysOps - Help Desk,Z000441998,WMSOGATEA01P1,ET7000 RFID BAGTAG PRINTER,MSO/AIRPORT/2/,GATEA01,3,3,3,567172,MARC CUTLER,4064981401,MSO,Z000736719,WMSOGATEA01P1,linker,,Hardware,Gatereader Not Scanning,"User says the gatereader is not scanning boarding passes.
+Has to manually board everyone.
+
+Ran gpupdate. Rebooted controlling PC.
+Gatereader validation error. Still not scanning.
+**Title from related Incident record IM2960581:
+Gatereader Not Scanning","Related Incident IM2960581 closed.
+Rebooted the computer and checked all the connections on com 5 and com 6.  Tested and everything is working.  Closing ticket.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2960581"
+SD3983910,Closed,03/30/17 10:27 AM,767011.0045,03/30/17 12:35 PM,SysOps - Help Desk,Z000431523,WQNYGATEA05P1,DESKO 504 PRO GATEREADER,LGA/MARINE AIR TERMINAL/2/,GATE 5 POS 1,3,3,3,850487,LYNN ANDRES,7184764642,LGA,,,linker,,Software,Gatereader malfunction,"Gatereader validation message is on the computer screen. The actual reader says check paper. User checks paper and reloaded paper and it still does not clear. Unable to scan but the gatereader beeps.
+**Title from related Incident record IM2962001:
+Gatereader malfunction","Related Incident IM2962001 closed.
+reinstall FireFox portable, test flight, flight information loaded onto gate reader correctly, test print ok, unit back in service.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2962001"
+SD3985912,Closed,03/31/17 07:05 AM,767011.0076,03/31/17 07:48 AM,SysOps - Help Desk,SCANNER_GEN,SCANNER_GEN,SCANNER,CAE/AIRPORT/2/,GATE 10,3,3,3,003408,DEBRA GLEATON,8038220554,CAE,Z000440995,WCAEGATE010P1,linker,,Software,Gatereader is not working fight arriving is 22mins,"Pc rebooted mutiple times.
+Gatereader is not sending information to the pc.
+**Title from related Incident record IM2963388:
+Gatereader is not working fight arriving is 22mins","Related Incident IM2963388 closed.
+Reinstalled Java JRE, Agent is now able to scan boarding passes via the gate reader.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2963388"
+SD3993127,Closed,04/03/17 02:20 PM,767011.0052,04/03/17 02:27 PM,SysOps - Help Desk,Z000406079,,DESKO 504 GATEREADER,,WHSE,,4,,530254,LYDIA MADLOCK,4024582480,LNK,Z000715906,WLNKGATE001P1,395385,BENJAMIN HOSKINS,configuration change,Gatereader Not Scannong,"User says the gatereader is not scanning boarding passes.
+Had to board previous flight manually through DLTerm.
+Have rebooted both the gatereadewr and the controlling PC multiple times.
+
+Ran gpupdate.
+
+
+5021460
+wlnkgate001p1",gpupdate
+SD3994112,Closed,04/03/17 09:11 PM,767011.0025,04/04/17 09:55 AM,SysOps - Help Desk,Z000423084,WSFOGATEC41P2,DESKO 504 PRO GATEREADER,SFO/AIRPORT/2/,GATE 41 GATER READER,3,3,3,328021,DAVID TOM,650-742-7341,SFO,Z000423084,WSFOGATEC41P2,linker,,Unknown,Gatereader scanner not working at all,"Gatereader scanner not working at all
+User started the boarding process, but the scanner did not recognize anything ran over the optics.
+User has powercycled the controlling workstation and scanner, but still fails to scan any items
+**Title from related Incident record IM2967041:
+Gatereader scanner not working at all","Related Incident IM2967041 closed.
+Examined and tested all equipment and peripherals with no evidence of failure. Agents currently checking in DL1581 report all looks good to them, they've opened flight and tested reader successfully
+
+*** *** There are no other related records.  Interaction closed by Incident IM2967041"
+SD3996594,Closed,04/04/17 06:56 PM,767011.002,04/04/17 06:59 PM,SysOps - Help Desk,SNAPP,SNAPP,SNAPP,,,,,,983262,RENEE CALDWELL,-,JFK,,,397287,NISHANT YADAV,user training,gatereader error in Snapp,"Snapp- Please check gatereader
+unable to scan/ mark pax on board
+** checked cables- worked",** checked cables- worked
+SD4002830,Closed,04/07/17 06:41 AM,767011.0111,04/07/17 10:25 AM,SysOps - Help Desk,DLN0001924,WDTWGATEC06P1,DESKO GATERDR DTW DAL,DTW/AIRPORT - C CONCOURSE/1/,Gate C-6,3,3,3,182553,LISA DENNEY,834921-6506,DTW,DLN0001924,WDTWGATEC06P1,linker,,Hardware,Gatereader is not working,"Gatereader is giving a :""link down error message"".  this device caused a flight delay earlier today.
+After perform kms procedure, the agent reports the device is not working
+http://itkms.delta.com/Gatereader/Troubleshooting/default.htm
+**Title from related Incident record IM2972430:
+Gatereader is not working","Related Incident IM2972430 closed.
+Gary Phillips - Had to hard boot the PC for the gate reader to come back up.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2972430"
+SD4005164,Closed,04/08/17 01:17 AM,767011.0129,04/08/17 01:35 AM,SysOps - Help Desk,SNAPP,SNAPP,SNAPP,ATL/AIRPORT - B CONCOURSE/2/,Gate B18 - Pos 3,,4,,972632,OTHO TOMLINSON,404-714-6206,ATL,Z000423180,WATLGATEB18P3,670006,ARTHUR SIMPSON,withdrawn by user,"SNAPP gatereader error. ""Re-open SNAPP""","SNAPP gatereader error. ""Re-open SNAPP""
+
+B18
+
+DT on site. has already rebooted controlling workstation, reader, and ran gpupdate.
+
+Everything shows green now, but when scanning PAX, agent gettinh red ""X"", & re-open SNAPP message.
+
+Flight DL0986 - ATL-OMA (Per agent maybe an issue due to delayed departure?)
+
+Issue seems to be w/ SNAPP?
+
+Contact info for gate -- 404-714-(8718)","Called agent back was put on hold. Attempted to reach GAC to see if delayed departure was cause for error, but unable to reach GAC (due to high call volume?) DT was on site and has narrowed issue down to SNAPP. If flight is delayed agent will need to call back and get a flight delay trouble ticket to have SNAPP further investigate."
+SD4005367,Closed,04/08/17 05:56 AM,767011.0156,04/08/17 06:19 AM,SysOps - Help Desk,Z000431354,WAUSGATE005P3,DESKO 504 PRO GATEREADER,AUS/AIRPORT/2/,gate 5 lbd,,4,,760892,MAYRA PACHECOGALARZA,512-530-0611,AUS,,WAUSGATE005P3,670006,ARTHUR SIMPSON,procedure enforcement,Gatereader not working,"Gatereader not working
+
+Has power, but not showing flight info etc...
+
+Caller has already restarted PC.
+
+Let caller know that it takes twice sometimes to get gatereader up and running.
+
+Also ensured that Myra rebooted controlling workstation along with reader as well.
+
+Gatereader showing system not ready, then Delta Air Lines please wait...",Issue now resolved.
+SD4007752,Closed,04/09/17 11:43 AM,767011.0128,04/09/17 02:20 PM,SysOps - Help Desk,Z000356524,WCHOGATE003P3,DESKO KEYBOARD WITH MAG SWIPE AND PASSPORT READER - USB CONN,CHO/AIRPORT/1/,GATE 3 POS 3,3,3,3,701363,ELIZABETH GARBER,5405784521,,Z000356524,WCHOGATE003P3,linker,,Software,Gatereader remains disfunctional after  im2965445 was closed.,"im2965445
+HElpdesk escalated to ODS
+**Title from related Incident record IM2974492:
+Gatereader remains disfunctional after  im2965445 was closed.","Related Incident IM2974492 closed.
+exc/inc vectr wsine. reset gatereader and controlling pc.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2974492"
+SD4009214,Closed,04/10/17 06:32 AM,767011.0175,04/10/17 06:44 AM,SysOps - Help Desk,Z000673422,WCLEGATEB02P3,HP COMPAQ 6005 STANDARD SFF,CLE/AIRPORT/1/,GATE B2,,4,,752916,MICHAEL BARTKOWIAK,216-265-2412,CLE,Z000673422,WCLEGATEB02P3,670006,ARTHUR SIMPSON,procedure enforcement,Gatereader not working correctly,"Gatereader not working correctly
+
+Gatereader has power, beeping, but not
+
+Error message shows Loading paper
+
+Per caller it seems that someone was working (or troubleshooting) on reader since lid was open?",Issue now resolved after rebooting controlling workstation and power cycling reader.
+SD4015368,Closed,04/12/17 01:48 PM,767011.0068,04/12/17 01:58 PM,SysOps - Help Desk,Windows 7,Windows 7,,,,,4,,788232,ADRIANE SIMOES,-,BOS,,,397287,NISHANT YADAV,user training,gatereader inop,"A-10 issue with gatereader
+Currently boarding
+Calling ODS",Calling ODS
+SD4017326,Closed,04/13/17 11:48 AM,767011.0017,04/14/17 04:34 PM,SysOps - Help Desk,Windows 7,Windows 7,,SLC/AIRPORT  - CONCOURSE B/1/,GATE B13 POS 3,4,3,4,925488,TAKAKO JACKSON,801-744-4113,SLC,Z000418863,WSLCGATEB13P3,linker,,Hardware,Gatereader Issue,"User says the Gatereader is not scanning the boarding passes
+User has already tried rebooting the Gatereader
+Tech dispatched
+**Title from related Incident record IM2979417:
+Gatereader Issue","Related Incident IM2979417 closed.
+NWooden
+-Closed snapp and dlterm logged off computer and power cycled gate reader resolved issue.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2979417"
+SD4022323,Closed,04/16/17 05:39 AM,767011.0182,04/16/17 05:52 AM,SysOps - Help Desk,Z000727848,WBOSGATEA11P3,HP 6305 STANDARD SFF,BOS/AIRPORT - TERMINAL A/2/,GATE 11LBD,,4,,151637,RAYCHELLE SMITH,617-568-0839,BOS,Z000727848,WBOSGATEA11P3,Y99981,ANUDIVYA KANAGAVEL,reboot/recycle,Computer not connecting to the Gatereader,"Computer not connecting to the Gatereader
+
+Asked the user to reboot the Gatereader and the Computer
+User is able to get the computer communicating with the Gatereader","Asked the user to reboot the Gatereader and the Computer
+User is able to get the computer communicating with the Gatereader"
+SD4024961,Closed,04/17/17 01:41 PM,767011.0055,04/27/17 03:48 PM,SysOps - Help Desk,Z000710680,WDHNGATE002P2,HP COMPAQ 6005 STANDARD SFF,ATL/AIRPORT - LANDSIDE/2/,LANDSIDE TRAINING ROOM,3,3,3,133175,STUART NELSON,334-983-3198,DHN,Z000710680,WDHNGATE002P2,linker,,Unknown,Gatereader Not Validating,"User says that the gatereader is not validating to SNAPP.
+Receiving an error when trying to scan.
+Has rebooted multiple times. Says that usually works, but not today.
+
+Remoted in.
+Ran gpupdate.
+**Title from related Incident record IM2982664:
+Gatereader Not Validating","Related Incident IM2982664 closed.
+Call to user, Stuart reports that on the following day, the gate reader printer was working and has been working ever since.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2982664"
+SD4027083,Closed,04/18/17 11:50 AM,767011.0074,04/18/17 12:00 PM,SysOps - Help Desk,Z000673304,WMDTGATEA03P2,HP COMPAQ 6005 STANDARD SFF,MDT/AIRPORT/2/,Gate A3 Pos 2,,4,,144431,JESSICA BASTIDA,717-948-3900/ X 2008,MDT,,,397287,NISHANT YADAV,withdrawn by user,Gatereader inop,"Gatereader inop- had to manually board/ no flight delay
+""Gatereader validation not successful""
+* user unable to find the power button on button on printer
+* calling ODS- Ajay- user disconnected",* calling ODS- Ajay- user disconnected
+SD4027202,Closed,04/18/17 12:33 PM,767011.0025,04/18/17 04:17 PM,SysOps - Help Desk,Windows 7,Windows 7,,MDT/AIRPORT/1/,GATE A3,4,3,4,144431,JESSICA BASTIDA,717-948-5921,MDT,Z000408022,WMDTGATEA03P2,linker,,Hardware,Gatereader,"User says the Gatereader is not scanning the boarding passes
+Advised user to reboot the Gatereader
+Tech dispatched
+**Title from related Incident record IM2983772:
+Gatereader","Related Incident IM2983772 closed.
+Agent was able to reboot the workstation and after rebooting the agent was able to scan and print a receipt. Also tested the scanner within SNAPP and scanner is responding with the correct instructions.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2983772"
+SD4033134,Closed,04/20/17 07:10 PM,767011.0073,04/24/17 06:29 AM,SysOps - Help Desk,CUTE_GEN,CUTE_GEN,CUTE,DSM/AIRPORT/1/,C1,3,3,3,347049,JULIE KUHLMANN,515-570-4401,DSM,,,linker,,Unknown,Flight Delay- gatereader erorr,"delay - scanner not scanning - gate reader error
+were able to scan in Deltaterm, but caused flight delay
+also reporting applications working slow also
+WSINES - 15E933 AND 15E937 AT c3
+161929 at GATE # C3- similar issues
+
+Flight Number:1532
+
+City Pair: DSM/ ATL
+
+Gate Number: C1
+
+
+
+Was a flight delay prevented?  No
+
+
+
+If NO, duration of the delay:6 min.
+
+
+
+If YES, Time Remaining After RESOLUTION:
+
+
+
+Root Cause of the Delay:
+GATEREADER ERROR ON GATE# C1 AND C3
+
+
+Is root cause software or hardware?
+
+
+
+Customer PNR if available:
+
+
+
+If SNAPP, What Version:
+
+
+
+If software populate the affected CI within the Affected CI field
+
+
+
+If hardware populate the affected CI within the Affected CI field
+
+
+
+What function was the agent attempting to perform?
+
+
+
+WSINE and/or Workstation Name:
+WSINES - 15E933 AND 15E937 AT c3
+161929 at GATE # C3
+
+
+
+Describe trouble shooting attempted:Were able to board in Deltaterm
+
+
+
+
+
+For SNAPP attributed flight delays include all the information outlined on this page and PNR examples (or customer name and flight number or seat number), flight information, SNAPP version number on upper left corner of screen, workstation name or WSINE, function performed and problem/error response. This helps the SNAPP team in their research to resolve issues and defects.
+**Title from related Incident record IM2986921:
+Flight Delay- gatereader erorr","Related Incident IM2986921 closed.
+MT- Working ok now
+
+.1.	Flight Number________1532_______  Gate Number___c1___________ Location___DSM_____________
+2.	Time/Date Notified_____04/20/17  18:21_____________ Time/Date Onsite _04/20/12   18:37__________________________
+3.	Hardware __YES___			Software_____
+4.	Model ___________________________	Application__________________________________
+5.	Root Cause_____Gate reader not wrking______________________________________________________________
+6.	Fix Effected __________No re-booted________________________________________________________
+7.	Steps used to prevent re-occurrence
+__________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+8.	Flight Delay Reason
+__________________Gate reader not working__________________________________________________________________________________________________________________________________________
+
+*** *** There are no other related records.  Interaction closed by Incident IM2986921"
+SD4033781,Closed,04/21/17 07:11 AM,767011.0027,04/21/17 12:40 PM,SysOps - Help Desk,Z000418678,WDTWGATEC15P1,DESKO 504 DTW,DTW/AIRPORT - C CONCOURSE/2/,GATE C15,3,3,3,393737,LYTANIA SPRATLEN,734 912-6509,DTW,Z000418678,WDTWGATEC15P1,linker,,Unknown,"Gatereader Scanner showing ""link down""","Agent attempted to reboot the device.
+Problem remains.
+Agent cannot do more troubleshooting because the monitor at the workstation is not working either
+**Title from related Incident record IM2987375:
+Gatereader Scanner showing ""link down""","Related Incident IM2987375 closed.
+Gate reader was working upon arrival. Tested using SNAPP Tools - Gate Reader test. No problems at this time.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2987375"
+SD4034449,Closed,04/21/17 11:38 AM,767011.004,04/25/17 03:59 PM,SysOps - Help Desk,SNAPP-Gate,SNAPP-Gate,,ABY/AIRPORT/1/,Gate 1 Pos. 1,3,3,3,591770,MICHAEL REDDISH,2298831046,ABY,Z000709070,WABYGATE001P1,linker,,Software,gatereader - scans but not showing in SNAPP,"gatereader - scans the boarding passes but does not show in SNAPP
+Agents had to board flight manually.
+This didn't cause a flight delay.
+
+caller rebooted workstations but didn't help
+
+flight 5334
+
+
+z000
+wabygate001p1
+**Title from related Incident record IM2987682:
+gatereader - scans but not showing in SNAPP","Related Incident IM2987682 closed.
+Called site.  Agent spoke with manager, says gatereader is working ok now.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2987682"
+SD4041125,Closed,04/24/17 07:13 PM,767011.0036,04/24/17 07:18 PM,SysOps - Help Desk,Windows 7,Windows 7,,,,,4,,655580,LINDA HEALY,801-577-0609,SLC,,,397287,NISHANT YADAV,user training,Gatereader inop at the gate,"B-13 / Gatereader not scanning anything
+* advised how to powercycle printer, gatereader and Snapp in order- worked","* advised how to powercycle printer, gatereader and Snapp in order- worked"
+SD4048202,Closed,04/27/17 05:07 PM,767011.0033,04/27/17 06:33 PM,SysOps - Help Desk,Z000703357,WMSPGATEC14P1,HP COMPAQ 6005 STANDARD SFF,MSP/AIRPORT - C CONCOURSE/2/,GATE C14 POS 1,3,3,3,339691,RAJKUMARIE DEVONISH,612-266-9314,MSP,,,linker,,Hardware,Flight Delay- gatereader went down in the middle of boarding,"Flight Delay- gatereader went down in the middle of boarding
+
+Flight Number:4678
+
+ City Pair: MSP/ DFW
+
+ Gate Number: gate # C-14
+
+ Was a flight delay prevented?No
+
+
+
+If NO, duration of the delay: 7 min.
+
+
+
+If YES, Time Remaining After RESOLUTION:
+
+
+
+Root Cause of the Delay: gatereader went down in the middle of boarding
+
+
+
+Is root cause software or hardware?-
+
+
+
+Customer PNR if available:
+
+
+
+If SNAPP, What Version:
+
+
+
+If software populate the affected CI within the Affected CI field
+
+
+
+If hardware populate the affected CI within the Affected CI field
+
+
+
+What function was the agent attempting to perform?
+
+
+
+WSINE and/or Workstation Name: WMSPGATEC14P1
+
+
+
+Describe trouble shooting attempted:-boarded manually
+
+
+
+
+
+For SNAPP attributed flight delays include all the information outlined on this page and PNR examples (or customer name and flight number or seat number), flight information, SNAPP version number on upper left corner of screen, workstation name or WSINE, function performed and problem/error response. This helps the SNAPP team in their research to resolve issues and defects.
+**Title from related Incident record IM2994778:
+Flight Delay- gatereader went down in the middle of boarding","Related Incident IM2994778 closed.
+NSTR - Reseated and secured serial connection at back of gate reader.  Tested and working again.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2994778"
+SD4048494,Closed,04/27/17 07:31 PM,767011.0018,04/27/17 09:03 PM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/AIRPORT - E CONCOURSE/1/,Gate # E-27,4,3,4,822974,BRITTANY WILSON,404-530-4740,ATL,,,linker,,Software,Gatereader inop at Gate # E-27,"Gate # E-27
+Gatereader inop
+* calleris not at the gate
+
+* requetsing FE assiatnce
+**Title from related Incident record IM2994862:
+Gatereader inop at Gate # E-27","Related Incident IM2994862 closed.
+Rebooted both gatereader pcs.  Tested ok.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2994862"
+SD4049934,Closed,04/28/17 01:02 PM,767011.0103,04/28/17 04:04 PM,SysOps - Help Desk,Z000727713,WTWFGATE002P1,HP 6305 STANDARD SFF,TWF/AIRPORT/1/,GATE,3,3,3,185824,TEDI THOMPSON,208 734-6232 ext 0,TWF,,WTWFGATE002P1,linker,,Software,Gatereader stop working,"Error messge gate validation
+See Attached screenshot
+wsine 236A1b
+http://itkms.delta.com/Gatereader/Troubleshooting/default.htm
+agent reconnected the cables on the device.  Device beep however information does not transfer.
+**Title from related Incident record IM2995742:
+Gatereader stop working","Related Incident IM2995742 closed.
+They ran through the SNAPP-Gate reader work around steps before I called and that resolved the issue.  Gate reader worked normally for the most recent flight.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2995742"
+SD4051806,Closed,04/29/17 12:42 PM,767011.0071,05/01/17 07:38 AM,SysOps - Help Desk,Z000147694,WSJDGATEXP0003,GENICOM 930,SJD/AIRPORT/1/,,3,3,3,921106,ARTURO HERNANDEZ,6241594237,SJD,CSJDGATEXS02T8P1,,linker,,Software,Newly places boarding pass scanners (Gatereaders) are not configured.,"Newly places boarding pass scanners (Gatereaders) are not configured. wsjd2ckb072 71 70 69
+wsines are as foollows; 2cb339, 2cb413 2cb337, 2cb333
+cSJDGATEXS02T8P1
+**Title from related Incident record IM2996533:
+Newly places boarding pass scanners (Gatereaders) are not configured.","Related Incident IM2996533 closed.
+all gate reader wsine, zapped, zrset, excluded, included and restarted and also inform gate reader team.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2996533"
+SD4053387,Closed,04/30/17 01:01 PM,767011.0145,04/30/17 01:22 PM,SysOps - Help Desk,Z000726278,WSHVGATE009P3,HP 6305 STANDARD SFF,SHV/AIRPORT/2/,Gate 9 Pos 3,,4,,447676,RAUSHANAH LEWIS,0000000,SHV,,,711734,AMOY DAVIS,configuration change,Gatereader Not Responding,user stated that the ate reader isnt scanning any boarding passes,performed a gp update nd had agent try again
+SD4054817,Closed,05/01/17 07:55 AM,767011.0012,05/01/17 11:40 AM,SysOps - Help Desk,Z000431827,WDFWGATEE17P3,DESKO 504 PRO GATEREADER,DFW/AIRPORT/2/,GATE 17 POS 3 - SECONDARY,3,3,3,667816,VIVIAN HOFFMAN,9726153195,DFW,Z000677102,WDFWGATEE17P3,linker,,Hardware,GateReader has can not read paper boarding passes,"GateReader has can not read paper boarding passes either printed from kiosk or at-home.
+It reads electronic boarding pass fine.
+Gate reader Z # is Z00431827
+
+Ran gpupdate.
+so the paper boarding passed scanned but when agent tried to scan barcode for gate claim bag, it barcode didn't accept
+**Title from related Incident record IM2997625:
+GateReader has can not read paper boarding passes","Related Incident IM2997625 closed.
+Did a GPUDATE and rebooted the Controlling Workstation. Then tested the Gatereader. It worked fine.
+
+*** *** There are no other related records.  Interaction closed by Incident IM2997625"
+SD4059068,Closed,05/02/17 05:31 PM,767011.0058,05/02/17 05:40 PM,SysOps - Help Desk,Windows 7,Windows 7,,,,,4,,002001,JAMEEL GRANT,-,SEA,,,397287,NISHANT YADAV,user training,Gatereader issue,"Flight  to LA
+printing full iterinary?
+26 mns for flight to depart
+* calling ODS",* calling ODS
+SD4063174,Closed,05/04/17 02:15 PM,767011.0039,05/04/17 03:41 PM,SysOps - Help Desk,Z000423131,WLGAGATEC16P1,DESKO 504 PRO GATEREADER,LGA/AIRPORT - CONCOURSE C/2/,Gate C16 P1 - Left,3,4,4,667824,TROY MOORE,718 533 3340,LGA,Z000423131,WLGAGATEC16P1,linker,,Software,"[gate c16] gatereader inop, fo requested before next departure @ 15:32","Please complete as much as possible, if not available type N/A
+
+
+
+Flight Number: 5344
+
+
+
+City Pair: LGA-TYS
+Gate Number:C16
+
+Was a flight delay prevented? Yes or No
+
+If NO, duration of the delay: 9 MIN
+
+If YES, Time Remaining After RESOLUTION:
+
+Root Cause of the Delay: gate reader went down, user had to manually board 
+
+Is root cause software or hardware?hardware
+Customer PNR if available:n/a
+If SNAPP, What Version:b n/a
+
+If software populate the affected CI within the Affected CI field
+If hardware populate the affected CI within the Affected CI field
+
+What function was the agent attempting to perform? boarding, scanning boarding passes
+
+WSINE and/or Workstation Name: Z000423131 \\ WLGAGATEC16P1
+
+
+
+Describe trouble shooting attempted: user rebooted workstation and gatereader but was unable to get gatereader to respond
+
+
+
+
+
+For SNAPP attributed flight delays include all the information outlined on this page and PNR examples (or customer name and flight number or seat number), flight information, SNAPP version number on upper left corner of screen, workstation name or WSINE, function performed and problem/error response. This helps the SNAPP team in their research to resolve issues and defects.
+**Title from related Incident record IM3002048:
+[gate c16] gatereader inop, fo requested before next departure @ 15:32","Related Incident IM3002048 closed.
+agents boarding flight without any issues gate reader working fine. Snapp app
+might have been the issue on previous flight.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3002048"
+SD4063819,Closed,05/04/17 06:32 PM,767011.0064,05/04/17 08:58 PM,SysOps - Help Desk,Z000423166,,DESKO 504 PRO GATEREADER,MOT/AIRPORT/1/,gate # 5,4,3,4,678018,AMY HOPKINS,218-289-3099,MOT,,,linker,,Hardware,gatereader inop,"checked/ shut down / rebooted/ restarted- no luck
+
+Requetsing FE assiatnce
+**Title from related Incident record IM3002358:
+gatereader inop","Related Incident IM3002358 closed.
+Rebooted both Gate PCs, reader, and printer.  Successfully ran testing from SNAPP.  Verified it is working thru on shift Supervisor Brandon.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3002358"
+SD4066348,Closed,05/05/17 07:30 PM,767011.0058,05/05/17 07:38 PM,SysOps - Help Desk,,,,,GATE C11,,,,603703,JULIE EGGERTSEN,801-744-4034,SLC,Z000520283,WSLCGATEC11P1,371430,KEVIN DOYLE,configuration change,Gatereader isn't working,Gatereader isn't working,"togged out of turbo, into service mode, then back to turbo. Now works."
+SD4067410,Closed,05/06/17 12:58 PM,767011.0056,05/06/17 01:06 PM,SysOps - Help Desk,Z000691796,WBZEGATE00001,HP COMPAQ 6005 STANDARD SFF,BZE/AIRPORT/1/,Gate 4 Pos 1,,4,,550049,MIGUEL MAGANA,501 615 6876,BZE,,,262174,KATHRYN REESE,reboot/recycle,gatereader is not scanning...,gatereader is not scanning...1 gate/1 scanner.,Jennifer is working with him now.
+SD4069071,Closed,05/07/17 02:05 PM,767011.0072,05/07/17 02:16 PM,SysOps - Help Desk,Z000682073,WVPSGATEB02P1,HP COMPAQ 6005 STANDARD SFF,VPS/AIRPORT/1/,Gate B2,,4,,964290,DIANA RIJOS,8002211212,VPS,Z000682073,WVPSGATEB02P1,017062,KEVIN DILLARD,configuration change,Gatereader is not working,"wvspgateb02p1
+Gatereader is not working
+Restarted pc",Restarted pc and device. Resolved.
+SD4070585,Closed,05/08/17 09:35 AM,767011.0053,05/08/17 10:54 AM,SysOps - Help Desk,Z000431665,WSEAGATEB09P3,DESKO 504 PRO GATEREADER,SEA/AIRPORT - B CONCOURSE/2/,GATE B9,3,3,3,930841,PHUNGMY TRUONG,2062900441,SEA,Z000685955,WSEAGATEB09P3,linker,,Hardware,Gatereader Not Scanning,"User says the gatereader is not scanniing or printing the ticket for seat changes.
+Remoted into controlling PC.
+Ran gpupdate.
+**Title from related Incident record IM3005477:
+Gatereader Not Scanning","Related Incident IM3005477 closed.
+Both scanner AND printer needed to be turned off then on     Worked after that step //0753PDT
+
+*** *** There are no other related records.  Interaction closed by Incident IM3005477"
+SD4072000,Closed,05/08/17 05:13 PM,767011.0011,05/08/17 09:20 PM,SysOps - Help Desk,Windows 7,Windows 7,,LGA/AIRPORT - CONCOURSE C/2/,GATE C32 POS 1,4,3,4,847012,LATASHA PELERIN,718-565-3950,LGA,Z000423028,WLGAGATEC32P1,linker,,Unknown,Gatereader Issue,"Gate reader went down at C32 in term C at LGA. at 4:26. at boarding time for 2807 going to DTW.
+Computer had to be restarted twice. After restarting, we were unable to verify travel documents for one passenger. Had to call global.
+Tech dispatched
+**Title from related Incident record IM3006151:
+Gatereader Issue","Related Incident IM3006151 closed.
+Gate reader operational, possible SNAPP issue.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3006151"
+SD4073029,Closed,05/09/17 08:44 AM,767011.0016,05/09/17 10:01 AM,SysOps - Help Desk,Z000422851,WLGAGATED06P1,DESKO 504 PRO GATEREADER,LGA/AIRPORT - CONCOURSE D/2/,D06,3,3,3,852309,DAVID RIVERA,646 541 3241,LGA,Z000422851,WLGAGATED06P1,linker,,Unknown,gatereader inop/fo requested,"gatereader inop/fo requested
+gate d06
+**Title from related Incident record IM3006802:
+gatereader inop/fo requested","Related Incident IM3006802 closed.
+load flight 3805 print out successful, test scan, no issues found.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3006802"
+SD4079161,Closed,05/11/17 02:26 PM,767011.0047,05/11/17 02:32 PM,SysOps - Help Desk,Z000441108,WIAHGATEA15P1,ET7000 RFID BAGTAG PRINTER,IAH/AIRPORT/2/,GATE A15,,4,,235497,TANYA LAWSON,281-742-5045,IAH,WIAHGATEA15P1,,395385,BENJAMIN HOSKINS,withdrawn by user,Gatereader Not Printing,"User says the gate reader is not printing out tags.
+Is online, no error message, but will not print.
+Have rebooted the scanner, but still nothing.
+Ran gpupdate on controlling computer.","User must have walked away, quite responding to me."
+SD4084300,Closed,05/13/17 10:23 PM,767011.0272,05/13/17 10:43 PM,SysOps - Help Desk,SCANNER_GEN,SCANNER_GEN,SCANNER,,,,4,,989104,JOSEPH CANLOBO,702-261-5680,LAS,clasgatexad36p3,,W18098,PRAVINTH RAJ,user training,Gatereaders are slow responding or timeout,"Gatereaders are slow responding or timeout
+Gatereader scanner boarding pass is very slow in responding
+Guided the user to restart the devic and check it
+Restarted the computer
+Still the same
+User also informed that all the gatereaders in the LAX is having issues in it
+clasgatexad36p3
+No flight delay
+Not able to pull any information regarding the scanner or the computer
+User informed that she will call back","Not able to pull any information regarding the scanner or the computer
+User informed that she will call back"
+SD4085376,Closed,05/14/17 03:27 PM,767011.0103,05/14/17 03:42 PM,SysOps - Help Desk,Z000685813,WSJCGATEA07P3,HP COMPAQ 6005 STANDARD SFF,SJC/AIRPORT/2/,GATE A7 LOADING BRIDGE,,4,,780921,REBECCA ASCENSO,0,SJC,Z000685813,WSJCGATEA07P3,371430,KEVIN DOYLE,configuration change,gatereader isn't working,gatereader isn't working,Powercycled computer. Now works.
+SD4087141,Closed,05/15/17 11:41 AM,767011.0048,05/15/17 11:48 AM,SysOps - Help Desk,Z000425326,WPHLGATED08P1,DESKO 504 PRO GATEREADER,PHL/AIRPORT/2/,GATE D08 PODIUM,,4,,179426,NAZAN ILBAK,215-863-5906,PHL,Z000728344,WPHLGATED08P1,395385,BENJAMIN HOSKINS,configuration change,Gatereader is Not Working,"User says she got an error when she tried to use the Gatereader, cannot remember the exact wording.
+Has rebooted her PC twice.
+Ran gpupdate.
+
+
+WSINE: 256619",gpupdate
+SD4092180,Closed,05/17/17 08:25 AM,767011.006,05/17/17 08:34 AM,SysOps - Help Desk,Z000407519,WDTWGATEA55P1,DESKO 504 DTW,DTW/AIRPORT - A CONCOURSE/2/,GATE A-55,,4,,927939,JENDAYI IBURA,7349422418,DTW,Z000653744,WDTWGATEA55P1,395385,BENJAMIN HOSKINS,configuration change,Gatereader Not Working,"User says that the gatereader is not working at the gate.
+Have rebooted,
+
+Ran gpupdate.",gpupdate
+SD4098859,Closed,05/19/17 04:49 PM,767011.0041,05/23/17 03:17 PM,SysOps - Help Desk,Z000702225,WGTRGATE001P1,HP COMPAQ 6005 STANDARD SFF,GTR/AIRPORT/1/,Gate 1 Pos. 1,3,3,3,551329,RHONDA DYE,662 329-4324,GTR,Z000702225,WGTRGATE001P1,linker,,Unknown,Gatereader does not operate properly. It does not beep for every scanned boarding pass,"http://itkms.delta.com/Gatereader/Troubleshooting/EDB/00001.htm
+Caller reports that gatereader is not beeping for every scannned boarding pass.
+Helpdesk referred KMS the device still does not beep properly
+**Title from related Incident record IM3019233:
+Gatereader does not operate properly. It does not beep for every scanned boarding pass","Related Incident IM3019233 closed.
+No trouble found called and talked to a different agent and they said gate reader is working with no problems.  Will check with Rhonda 5/22. Rhonda just let me know that it is now working 5/23
+
+*** *** There are no other related records.  Interaction closed by Incident IM3019233"
+SD4099649,Closed,05/20/17 06:04 AM,767011.005,05/23/17 08:32 AM,SysOps - Help Desk,Z000431463,WALBGATEB05P1,DESKO 504 PRO GATEREADER,ALB/AIRPORT/1/,GATE B5 POSITION 1,3,3,3,887209,SAKYNA COLEMAN,518 242-4116/  518 242-3125,ALB,Z000431463,WALBGATEB05P1,linker,,Hardware,Insert Scancard for flight iternary error message on gatereader,"http://itkms.delta.com/Gatereader/Troubleshooting/default.htm
+Helpdesk referrenced KMS.
+Gatereader still does not work.
+**Title from related Incident record IM3019727:
+Insert Scancard for flight iternary error message on gatereader","Related Incident IM3019727 closed.
+Replaced Gate Reader
+
+*** *** There are no other related records.  Interaction closed by Incident IM3019727"
+SD4105254,Closed,05/22/17 04:16 PM,767011.001,05/23/17 01:58 AM,SysOps - Help Desk,Windows 7,Windows 7,,MSP/AIRPORT - G CONCOURSE/1/,GATE G21 POS 2,4,3,4,021204,MASANORI SAITO,612-266-9721,MSP,Z000406282,WMSPGATEG21P2,linker,,Software,Gatereader Issue,"Scanner stopped working at boarding time. This needs to be fixed asap.
+Tech dispatched
+**Title from related Incident record IM3021992:
+Gatereader Issue","Related Incident IM3021992 closed.
+There is known issue in which gate reader was not communicating with SNAPP properly. The issue has been identified and fix will be implemented.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3021992"
+SD4105376,Closed,05/22/17 04:58 PM,767011.0048,05/22/17 08:05 PM,SysOps - Help Desk,Z000520926,WLGAGATED06P2,DELL P190S,LGA/AIRPORT - CONCOURSE D/2/,GATE D06 POS 2,3,3,3,803220,KARLA LOPEZ,718-565-3940,LGA,,,linker,,Unknown,Flight Delay- gatereader issue,"scanner not scanning boarding passes- caused flight delay
+
+Flight Number:3856
+
+
+
+City Pair:LGA/JAX
+
+Gate Number: D-6
+
+
+
+Was a flight delay prevented?  No
+
+
+
+If NO, duration of the delay: per user, long delay for other reasons but 8 minute delay beacuse of gatereader issue
+as they had to manually board
+
+
+
+If YES, Time Remaining After RESOLUTION:
+
+
+
+Root Cause of the Delay: gatereader not scanning boarding passes, caused flight delay
+
+
+
+Is root cause software or hardware?
+
+
+
+Customer PNR if available:
+
+
+
+If SNAPP, What Version:
+
+
+
+If software populate the affected CI within the Affected CI field
+
+
+
+If hardware populate the affected CI within the Affected CI field
+
+
+
+What function was the agent attempting to perform?
+
+
+
+WSINE and/or Workstation Name: WLGAGATED06P2
+
+
+
+Describe trouble shooting attempted: rebooted the workstation
+
+
+
+
+
+For SNAPP attributed flight delays include all the information outlined on this page and PNR examples (or customer name and flight number or seat number), flight information, SNAPP version number on upper left corner of screen, workstation name or WSINE, function performed and problem/error response. This helps the SNAPP team in their research to resolve issues and defects.
+**Title from related Incident record IM3022035:
+Flight Delay- gatereader issue","Related Incident IM3022035 closed.
+Gate reader was operational on another flight when I arrived. tested ok. Delay could have been for 'other reason' as stated by caller.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3022035"
+SD4106570,Closed,05/23/17 08:11 AM,767011.0073,05/23/17 08:21 AM,SysOps - Help Desk,Z000431507,WCVGGATEB05P4,DESKO 504 PRO GATEREADER,CVG/AIRPORT - B CONCOURSE/2/,GATE B5 LBD,,4,,822923,THOMAS PERDIEW,513-519-4700,CVG,Z000650732,WCVGGATEB05P4,395385,BENJAMIN HOSKINS,configuration change,Gatereader Down,"User says that the gatereader is not operating properly.
+Worked with someone prior, but had put the phone down and his colleague hung it up.
+Remoted in, ran gpupdate.",gpupdate
+SD4106774,Closed,05/23/17 09:23 AM,767011.0117,05/24/17 04:29 AM,SysOps - Help Desk,.,,,DSM/AIRPORT/1/,,3,3,3,558964,SARA TODD,515.975.4520,DSM,,,linker,,Software,Gatereader Issue,"15e51b -- CDSMGATEXAC04P2
+Gatereader at common use station not operating properly.
+User has reboted workstation ""multiple times"".
+Had User restart SNAPP. No change.
+Had User log out, log back into workstation, then SNAPP.
+KMS -- http://itkms.delta.com/CUTERenewal_DLLite/Troubleshooting/EDB/00021.html
+
+User says that they have been having issues with the SNAPP/Gatereader connection sporadically for a while.
+**Title from related Incident record IM3022871:
+Gatereader Issue","Related Incident IM3022871 closed.
+There is an ongoing issue in which SNAPP and gate reader was responding slowly due to impact of an external software. The issue has been identified and will be fix soon.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3022871"
+SD4107526,Closed,05/23/17 01:11 PM,767011.0065,05/23/17 01:25 PM,SysOps - Help Desk,Z000407896,GATE READER,DESKO 504 DTW,TWF/AIRPORT/1/,gate 1,3,3,3,185824,TEDI THOMPSON,2087346232,TWF,Z000727713,WTWFGATE002P1,linker,,Procedure/Human Error,gatereader -  not scanning,"gatereader -  not scanning boarding passes
+caller says re-occurring problem constantly
+
+*gatereader works for a mment then stops. AAgent request tech
+wtwfgate002p1
+caller could not locate the ztag# of the Gatereader so HD agent used the workstation name
+**Title from related Incident record IM3023212:
+gatereader -  not scanning","Related Incident IM3023212 closed.
+IM3015347 is still open for this issue and being worked.  Added notes to that ticket saying that the problem is still there.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3023212"
+SD4107545,Closed,05/23/17 01:16 PM,767011.0022,05/24/17 08:37 AM,SysOps - Help Desk,Z000431866,WFLLGATED03P4,DESKO 504 PRO GATEREADER,FLL/AIRPORT/2/,GATE 3 POS 4,3,3,3,831108,TREVOR CAMPBELL,954-635-1110,FLL,Z000700599,WFLLGATED03P4,linker,,Hardware,Gatereader Scanning Wrong Flight,"Gatereader scanning for wrong flight.
+Did not beep or go red to show wrong flight.
+Scanned at D3 but checked them into Flight at D7.
+Boarding pass scanned was on phone, not paper.
+Scanned in for Flight 2185 to JFK but was booked on Flight 1428 to LGA
+**Title from related Incident record IM3023211:
+Gatereader Scanning Wrong Flight","Related Incident IM3023211 closed.
+Perform Latest Update. shutdown and restart. Gate reader is online working and test with flight 1060 to DTW
+
+*** *** There are no other related records.  Interaction closed by Incident IM3023211"
+SD4111841,Closed,05/25/17 06:41 AM,767011.0037,05/25/17 08:26 AM,SysOps - Help Desk,Z000422886,WLGAGATED01P3,DESKO 504 PRO GATEREADER,LGA/AIRPORT - CONCOURSE D/2/,Gate D01,4,3,4,481612,SANDRA SANTINI,718 565 3940,LGA,Z000422886,WLGAGATED01P3,linker,,Software,Gatereader is not working,"Gatereader is not working
+User tried to restart the machine and check it
+Still the same
+Guided the user to turn it off and start it back again
+Still the same
+Restarted the computer
+No go
+**Title from related Incident record IM3025943:
+WLGAGATED01P3 Gatereader is not working","Related Incident IM3025943 closed.
+run radia connect, test flight 4107 in SNAPP and DLTERM, gate reader is back in service.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3025943"
+SD4112463,Closed,05/25/17 10:31 AM,767011.0021,05/26/17 06:29 AM,SysOps - Help Desk,Windows 7,Windows 7,,PDX/AIRPORT - CONCOURSE D/2/,Gate D07,4,3,4,238361,RICHARD VOREIS,503-493-2142,PDX,Z000431337,WPDXGATED07P4,linker,,Hardware,Gatereader Issue,"User says the Gatereader close to the Podium is not scanning the boarding pass or printing boarding passes
+Advised user to Reboot the Gatereader
+Tech dispatched
+**Title from related Incident record IM3026269:
+Gatereader Issue","Related Incident IM3026269 closed.
+Locked up in SNAPP Rebooted workstation
+
+*** *** There are no other related records.  Interaction closed by Incident IM3026269"
+SD4117567,Closed,05/27/17 09:40 AM,767011.0028,05/27/17 11:37 AM,SysOps - Help Desk,Z000690751,WORFGATEB19P1,HP COMPAQ 6005 STANDARD SFF,ORF/AIRPORT/2/,ORF GATE B19,3,3,3,813261,FRANCES BONELLO,7578527318,ORF,Z000431647,WORFGATEB19P1,linker,,Unknown,Gatereader nonresponsive during flight onboarding,"http://itkms.delta.com/Gatereader/Troubleshooting/EDB/00001.htm
+http://itkms.delta.com/Gatereader/Troubleshooting/EDB/00001.htm#boarding
+Device restarted Agent/helpdesk referrenced KMS. Device is still nonresponsive.
+**Title from related Incident record IM3028529:
+Gatereader nonresponsive during flight onboarding","Related Incident IM3028529 closed.
+dup call IM3028527
+
+*** *** There are no other related records.  Interaction closed by Incident IM3028529"
+SD4128909,Closed,06/01/17 08:41 AM,767011.0048,06/01/17 02:51 PM,SysOps - Help Desk,Z000407896,GATE READER,DESKO 504 DTW,LGA/AIRPORT - CONCOURSE D/1/,Gate D2,3,3,3,058165,CYNEAL PRYOR-GREIGG,7185653940,LGA,Z000422865,WLGAGATED02P1,linker,,Software,gatereader,"gatereader - user says they have to board thru one lane
+(sky priority)
+
+when using the workstation yesterday and
+agent entered flight #903 -the scanner was showing different flight number but now gatereader only shows Scan itinerary message  but nothing happens
+
+Gate D2
+z000422865
+**Title from related Incident record IM3033842:
+gatereader","Related Incident IM3033842 closed.
+Snapp was not connect to gate reader
+delete the Firefox
+created new one
+tested work fine
+
+*** *** There are no other related records.  Interaction closed by Incident IM3033842"
+SD4130193,Closed,06/01/17 03:35 PM,767011.0013,06/01/17 10:17 PM,SysOps - Help Desk,Windows 7,Windows 7,,ATL/AIRPORT - E CONCOURSE/2/,GATE E28 P3,4,3,4,782458,GIBBY CHAM,404-530-47111,ATL,Z000423060,WATLGATEE28P3,linker,,Software,Gatereader Issue,"User says the Gatereader is not communicating with the Computer
+Tech dispatched
+**Title from related Incident record IM3034440:
+Gatereader Issue","Related Incident IM3034440 closed.
+Rebooted pc.  Ok now.
+
+*** *** There are no other related records.  Interaction closed by Incident IM3034440"
+SD4139217,Closed,06/05/17 07:15 PM,767011.0012,06/06/17 09:42 AM,SysOps - Help Desk,Windows 7,Windows 7,,ROC/AIRPORT/2/,GATE B1,4,3,4,341202,COLLEEN WAVER,585-235-0583,ROC,Z000193205,WROCGATEB01P1,linker,,Hardware,Gatereader Issue,"User says when they try scanning boarding passes the gatereader does not print the seat assigment
+Tech dispatched
+**Title from related Incident record IM3038615:
+Gatereader Issue","Related Incident IM3038615 closed.
+seat assignment are printing ntf
+
+*** *** There are no other related records.  Interaction closed by Incident IM3038615"
